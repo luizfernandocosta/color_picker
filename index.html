@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="main.css" />
+    <title>Color Selection</title>
+  </head>
+  <body>
+    <header class="header">
+      <nav class="header__nav">
+        <button data-category="brancaseleves">Brancas e Leves</button>
+        <button data-category="clarasesuaves">Claras e Suaves</button>
+        <button data-category="intensasevibrantes">Intensas e Vibrantes</button>
+        <button data-category="acentuadaseacolhedoras">
+          Acentuadas e Acolhedoras
+        </button>
+        <button data-category="neutraseclassicas">Neutras e Clássicas</button>
+        <button data-category="cinzasneutros">Cinzas Neutros</button>
+      </nav>
+    </header>
+
+    <main class="main">
+      <section class="main__menu"></section>
+      <div>
+        <p class="main__color--name"></p>
+        <p class="main__color--code"></p>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <p>Teste</p>
+    </footer>
+
+    <script>
+      fetch("colors.json")
+        .then((response) => response.json())
+        .then((data) => {
+          let buttons = document.querySelectorAll("button");
+          let root = document.querySelector(":root");
+          let main = document.querySelector(".main");
+          let menu = document.querySelector(".main__menu");
+          let colorName = document.querySelector(".main__color--name");
+          let colorCode = document.querySelector(".main__color--code");
+          let result = "";
+          let category = "brancaseleves";
+
+          buttons.forEach((button) => {
+            button.addEventListener("click", function (e) {
+
+              document.querySelector(".main__menu").innerHTML = "";
+              result = ''
+              document.querySelector(
+                ".main__menu"
+              ).style.gridTemplateRows = '';
+
+              
+
+              category = button.dataset.category;
+
+              console.log(category);
+
+              document.querySelector(
+                ".main__menu"
+              ).style.gridTemplateRows = `repeat(${
+                Math.floor([category].length / 2)
+              }, 50px)`;
+
+
+
+              for (let i = 0; i < data[category].length; i++) {                
+                result += `<div class='color' style="background-color: ${data[category][i].color}" data-colorName = "${data[category][i].name}"></div>`;
+              }
+
+              menu.innerHTML = result;
+
+              let pickColor = document.querySelectorAll(".color");
+
+              pickColor.forEach((color) => {
+                color.addEventListener("mouseover", function (e) {
+                  let colorRGB = color.style.backgroundColor;
+                  let splitRGB = colorRGB.match(/\d+/g);
+                  let hsp = Math.sqrt(
+                      0.299 * (splitRGB[0] * splitRGB[0]) +
+                      0.587 * (splitRGB[1] * splitRGB[1]) +
+                      0.114 * (splitRGB[2] * splitRGB[2])
+                  );
+
+                  main.style.backgroundColor = color.style.backgroundColor;
+                  colorName.textContent = color.dataset.colorname;
+                  colorCode.textContent = splitRGB.join(", ");
+
+                  if (Math.floor(hsp) > 127) {
+                    colorName.style.color = "#1a1b1f";
+                    colorCode.style.color = "#1a1b1f";
+                  } else {
+                    colorName.style.color = "#fff";
+                    colorCode.style.color = "#fff";
+                  }
+                });
+
+
+                color.addEventListener("click", function (e) {
+                  main.style.backgroundColor = color.style.backgroundColor;
+                  colorName.textContent = color.dataset.colorname;
+                  console.log("esse aqui foi 22")
+                });
+              });
+
+              color.addEventListener("mouseout", function (e) {
+                  main.style.backgroundColor = "#1a1b1f";
+                  colorName.textContent = "";
+                  colorCode.textContent = "";
+                  console.log("esse aqui foi")
+                });
+              
+            });
+          });
+        });
+
+      //grid-template-rows: repeat(50, 50px);
+    </script>
+  </body>
+</html>

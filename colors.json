@@ -1,0 +1,7715 @@
+{
+    "brancaseleves": [
+        {
+            "name": "Berço",
+            "color": "rgb(229, 226, 219)"
+        },
+        {
+            "name": "Som Das Ondas",
+            "color": "rgb(229, 226, 218)"
+        },
+        {
+            "name": "Macramê",
+            "color": "rgb(230, 229, 219)"
+        },
+        {
+            "name": "Manteiga De Carité",
+            "color": "rgb(228, 226, 216)"
+        },
+        {
+            "name": "Teto Do Mundo",
+            "color": "rgb(224, 223, 213)"
+        },
+        {
+            "name": "Pena De Ganso",
+            "color": "rgb(224, 220, 210)"
+        },
+        {
+            "name": "Nó De Marinheiro",
+            "color": "rgb(226, 222, 211)"
+        },
+        {
+            "name": "Nuvem De Papel",
+            "color": "rgb(241, 239, 235)"
+        },
+        {
+            "name": "Alpes Suíços",
+            "color": "rgb(236, 234, 227)"
+        },
+        {
+            "name": "Papel De Seda",
+            "color": "rgb(237, 236, 227)"
+        },
+        {
+            "name": "Creme De Arroz",
+            "color": "rgb(239, 240, 228)"
+        },
+        {
+            "name": "Guardanapo De Pano",
+            "color": "rgb(233, 231, 215)"
+        },
+        {
+            "name": "Areia Fina",
+            "color": "rgb(239, 239, 220)"
+        },
+        {
+            "name": "Luz Do Dia",
+            "color": "rgb(247, 243, 224)"
+        },
+        {
+            "name": "Espaço Lunar",
+            "color": "rgb(233, 232, 226)"
+        },
+        {
+            "name": "Açúcar Cristal",
+            "color": "rgb(234, 232, 227)"
+        },
+        {
+            "name": "Cordilheira Dos Andes",
+            "color": "rgb(237, 234, 224)"
+        },
+        {
+            "name": "Trufa De Cupuaçu",
+            "color": "rgb(236, 233, 220)"
+        },
+        {
+            "name": "Lenda Do Deserto",
+            "color": "rgb(237, 232, 214)"
+        },
+        {
+            "name": "Chapada Diamantina",
+            "color": "rgb(235, 230, 212)"
+        },
+        {
+            "name": "Manteiga De Cupuaçu",
+            "color": "rgb(238, 232, 213)"
+        },
+        {
+            "name": "Ócio Criativo",
+            "color": "rgb(252, 248, 235)"
+        },
+        {
+            "name": "Sorbet De Baunilha",
+            "color": "rgb(245, 241, 229)"
+        },
+        {
+            "name": "Açúcar Refinado",
+            "color": "rgb(239, 236, 227)"
+        },
+        {
+            "name": "Espuma De Baunilha",
+            "color": "rgb(243, 241, 229)"
+        },
+        {
+            "name": "Poema Do Campo",
+            "color": "rgb(242, 240, 227)"
+        },
+        {
+            "name": "Polpa De Cacau",
+            "color": "rgb(243, 239, 226)"
+        },
+        {
+            "name": "Areia Quente",
+            "color": "rgb(239, 235, 218)"
+        },
+        {
+            "name": "Dama De Honra",
+            "color": "rgb(239, 232, 218)"
+        },
+        {
+            "name": "Merengue",
+            "color": "rgb(244, 237, 225)"
+        },
+        {
+            "name": "Vulcão Osorno",
+            "color": "rgb(237, 231, 222)"
+        },
+        {
+            "name": "Lua Minguante",
+            "color": "rgb(230, 227, 216)"
+        },
+        {
+            "name": "Montanhas Rochosas",
+            "color": "rgb(237, 231, 217)"
+        },
+        {
+            "name": "Pão De Minuto",
+            "color": "rgb(242, 235, 216)"
+        },
+        {
+            "name": "Palavras Cruzadas",
+            "color": "rgb(228, 222, 204)"
+        },
+        {
+            "name": "Cookie",
+            "color": "rgb(233, 227, 217)"
+        },
+        {
+            "name": "Jardim Zen",
+            "color": "rgb(240, 233, 217)"
+        },
+        {
+            "name": "Papel Antigo",
+            "color": "rgb(243, 233, 216)"
+        },
+        {
+            "name": "Crista De Pônei",
+            "color": "rgb(240, 230, 213)"
+        },
+        {
+            "name": "Palha Suave",
+            "color": "rgb(236, 227, 208)"
+        },
+        {
+            "name": "Flocos De Arroz",
+            "color": "rgb(235, 226, 206)"
+        },
+        {
+            "name": "Lua Crescente",
+            "color": "rgb(232, 224, 206)"
+        },
+        {
+            "name": "Lua Nova",
+            "color": "rgb(230, 225, 215)"
+        },
+        {
+            "name": "Lua Cheia",
+            "color": "rgb(234, 228, 217)"
+        },
+        {
+            "name": "Angelical",
+            "color": "rgb(240, 235, 221)"
+        },
+        {
+            "name": "Rendado",
+            "color": "rgb(240, 235, 221)"
+        },
+        {
+            "name": "Esponja Do Mar",
+            "color": "rgb(229, 220, 204)"
+        },
+        {
+            "name": "Pergaminho Egípcio",
+            "color": "rgb(233, 220, 201)"
+        },
+        {
+            "name": "Duna Maranhense",
+            "color": "rgb(232, 220, 198)"
+        },
+        {
+            "name": "Glacê",
+            "color": "rgb(244, 238, 227)"
+        },
+        {
+            "name": "Gelo Seco",
+            "color": "rgb(237, 233, 225)"
+        },
+        {
+            "name": "Algodão Egípcio",
+            "color": "rgb(234, 227, 213)"
+        },
+        {
+            "name": "Creme De Amendoim",
+            "color": "rgb(232, 221, 201)"
+        },
+        {
+            "name": "Solstício",
+            "color": "rgb(232, 221, 203)"
+        },
+        {
+            "name": "Palha Antiga",
+            "color": "rgb(230, 218, 197)"
+        },
+        {
+            "name": "Xale Árabe",
+            "color": "rgb(225, 214, 192)"
+        },
+        {
+            "name": "Leite Em Pó",
+            "color": "rgb(239, 237, 233)"
+        },
+        {
+            "name": "Creme De Baunilha",
+            "color": "rgb(235, 232, 223)"
+        },
+        {
+            "name": "Coliseu De Roma",
+            "color": "rgb(236, 229, 217)"
+        },
+        {
+            "name": "Incenso De Sândalo",
+            "color": "rgb(231, 226, 218)"
+        },
+        {
+            "name": "Centeio",
+            "color": "rgb(230, 225, 214)"
+        },
+        {
+            "name": "Pirâmides Do Egito",
+            "color": "rgb(228, 221, 208)"
+        },
+        {
+            "name": "Equinócio",
+            "color": "rgb(232, 225, 212)"
+        },
+        {
+            "name": "Luar",
+            "color": "rgb(226, 220, 214)"
+        },
+        {
+            "name": "Brilho De Estrela",
+            "color": "rgb(230, 225, 219)"
+        },
+        {
+            "name": "Tiramisu",
+            "color": "rgb(227, 219, 211)"
+        },
+        {
+            "name": "Areia Do Deserto",
+            "color": "rgb(227, 218, 205)"
+        },
+        {
+            "name": "Aroma De Café",
+            "color": "rgb(228, 219, 204)"
+        },
+        {
+            "name": "Cesta De Vime",
+            "color": "rgb(233, 223, 206)"
+        },
+        {
+            "name": "Lascas De Macadâmia",
+            "color": "rgb(230, 220, 205)"
+        },
+        {
+            "name": "Meditação",
+            "color": "rgb(238, 235, 231)"
+        },
+        {
+            "name": "Nata",
+            "color": "rgb(240, 236, 232)"
+        },
+        {
+            "name": "Fórmica",
+            "color": "rgb(239, 234, 229)"
+        },
+        {
+            "name": "Balé Chinês",
+            "color": "rgb(239, 233, 226)"
+        },
+        {
+            "name": "Silêncio Da Manhã",
+            "color": "rgb(242, 236, 228)"
+        },
+        {
+            "name": "Castanha-De-Caju",
+            "color": "rgb(239, 229, 214)"
+        },
+        {
+            "name": "Tapioca",
+            "color": "rgb(238, 226, 211)"
+        },
+        {
+            "name": "Nata Fresca",
+            "color": "rgb(241, 233, 225)"
+        },
+        {
+            "name": "Mimo",
+            "color": "rgb(243, 234, 221)"
+        },
+        {
+            "name": "Pasta Americana",
+            "color": "rgb(241, 232, 223)"
+        },
+        {
+            "name": "Pátina Açucarada",
+            "color": "rgb(243, 233, 225)"
+        },
+        {
+            "name": "Quase Rosa",
+            "color": "rgb(247, 231, 217)"
+        },
+        {
+            "name": "Leite Condensado",
+            "color": "rgb(245, 227, 210)"
+        },
+        {
+            "name": "Palomino",
+            "color": "rgb(246, 227, 212)"
+        },
+        {
+            "name": "Lugar Comum",
+            "color": "rgb(243, 235, 223)"
+        },
+        {
+            "name": "Chantilly",
+            "color": "rgb(242, 233, 222)"
+        },
+        {
+            "name": "Chocolate Branco",
+            "color": "rgb(239, 228, 217)"
+        },
+        {
+            "name": "Branco Quente",
+            "color": "rgb(246, 234, 221)"
+        },
+        {
+            "name": "Abraço De Mãe",
+            "color": "rgb(248, 229, 213)"
+        },
+        {
+            "name": "Manteiga De Babaçu",
+            "color": "rgb(243, 227, 214)"
+        },
+        {
+            "name": "Praia De Ipanema",
+            "color": "rgb(228, 213, 205)"
+        },
+        {
+            "name": "Vestido De Noiva",
+            "color": "rgb(238, 231, 229)"
+        },
+        {
+            "name": "Casamento",
+            "color": "rgb(240, 233, 228)"
+        },
+        {
+            "name": "Anel De Noivado",
+            "color": "rgb(245, 233, 222)"
+        },
+        {
+            "name": "Borbulhas De Champagne",
+            "color": "rgb(244, 233, 225)"
+        },
+        {
+            "name": "Cabelo De Anjo",
+            "color": "rgb(238, 228, 220)"
+        },
+        {
+            "name": "Amor-Sem-Fim",
+            "color": "rgb(231, 222, 215)"
+        },
+        {
+            "name": "Agulha De Costura",
+            "color": "rgb(227, 216, 204)"
+        },
+        {
+            "name": "Futurista",
+            "color": "rgb(239, 234, 230)"
+        },
+        {
+            "name": "Espuma Rosada",
+            "color": "rgb(241, 232, 225)"
+        },
+        {
+            "name": "Pêssego-Suave",
+            "color": "rgb(243, 232, 223)"
+        },
+        {
+            "name": "Manteiga Fresca",
+            "color": "rgb(233, 223, 216)"
+        },
+        {
+            "name": "Copacabana",
+            "color": "rgb(228, 211, 201)"
+        },
+        {
+            "name": "Pão De Forma",
+            "color": "rgb(223, 207, 197)"
+        },
+        {
+            "name": "Creme De Canela",
+            "color": "rgb(223, 205, 195)"
+        },
+        {
+            "name": "Piso Frio",
+            "color": "rgb(237, 233, 229)"
+        },
+        {
+            "name": "Arrepio",
+            "color": "rgb(244, 237, 232)"
+        },
+        {
+            "name": "Relicário",
+            "color": "rgb(241, 233, 227)"
+        },
+        {
+            "name": "Melodia De Outono",
+            "color": "rgb(242, 234, 229)"
+        },
+        {
+            "name": "Lua De Mel",
+            "color": "rgb(243, 232, 225)"
+        },
+        {
+            "name": "Noite De Núpcias",
+            "color": "rgb(244, 229, 222)"
+        },
+        {
+            "name": "Doce Amanhã",
+            "color": "rgb(245, 222, 211)"
+        },
+        {
+            "name": "Grinalda",
+            "color": "rgb(236, 228, 223)"
+        },
+        {
+            "name": "Marshmallow",
+            "color": "rgb(241, 232, 227)"
+        },
+        {
+            "name": "Arroz-Doce",
+            "color": "rgb(230, 220, 216)"
+        },
+        {
+            "name": "Coquetel De Lichia",
+            "color": "rgb(241, 226, 220)"
+        },
+        {
+            "name": "Lichia",
+            "color": "rgb(237, 220, 214)"
+        },
+        {
+            "name": "Espumante Rosé",
+            "color": "rgb(244, 222, 213)"
+        },
+        {
+            "name": "Suave Verão",
+            "color": "rgb(238, 206, 193)"
+        },
+        {
+            "name": "Véu De Noiva",
+            "color": "rgb(239, 230, 226)"
+        },
+        {
+            "name": "Flor Lilás",
+            "color": "rgb(235, 226, 223)"
+        },
+        {
+            "name": "Suavidade",
+            "color": "rgb(242, 232, 227)"
+        },
+        {
+            "name": "Timidez",
+            "color": "rgb(242, 230, 225)"
+        },
+        {
+            "name": "Bella Luna",
+            "color": "rgb(235, 223, 219)"
+        },
+        {
+            "name": "Sete Pecados",
+            "color": "rgb(240, 224, 219)"
+        },
+        {
+            "name": "Boto Rosa",
+            "color": "rgb(247, 223, 215)"
+        },
+        {
+            "name": "Amêndoa",
+            "color": "rgb(237, 233, 231)"
+        },
+        {
+            "name": "Sopro",
+            "color": "rgb(240, 235, 232)"
+        },
+        {
+            "name": "Lençol De Linho",
+            "color": "rgb(240, 234, 231)"
+        },
+        {
+            "name": "Dama-Da-Noite",
+            "color": "rgb(239, 231, 229)"
+        },
+        {
+            "name": "Espuma Cremosa",
+            "color": "rgb(242, 233, 231)"
+        },
+        {
+            "name": "Rosa Pastel",
+            "color": "rgb(242, 229, 226)"
+        },
+        {
+            "name": "Magnólia",
+            "color": "rgb(242, 226, 224)"
+        },
+        {
+            "name": "Transição",
+            "color": "rgb(238, 234, 233)"
+        },
+        {
+            "name": "Feitiço Inocente",
+            "color": "rgb(226, 221, 222)"
+        },
+        {
+            "name": "Tarde Misteriosa",
+            "color": "rgb(223, 218, 218)"
+        },
+        {
+            "name": "Flor De Vanila",
+            "color": "rgb(234, 224, 224)"
+        },
+        {
+            "name": "Renda",
+            "color": "rgb(224, 215, 215)"
+        },
+        {
+            "name": "Suco De Lichia",
+            "color": "rgb(232, 217, 218)"
+        },
+        {
+            "name": "Boneca De Pano",
+            "color": "rgb(211, 196, 194)"
+        },
+        {
+            "name": "Boas Lembranças",
+            "color": "rgb(238, 232, 233)"
+        },
+        {
+            "name": "Natural",
+            "color": "rgb(243, 237, 237)"
+        },
+        {
+            "name": "Pétala",
+            "color": "rgb(238, 231, 233)"
+        },
+        {
+            "name": "Papel Craft",
+            "color": "rgb(240, 234, 235)"
+        },
+        {
+            "name": "Delicadeza",
+            "color": "rgb(238, 231, 233)"
+        },
+        {
+            "name": "Doce Marshmallow",
+            "color": "rgb(239, 231, 232)"
+        },
+        {
+            "name": "Canção De Bebê",
+            "color": "rgb(239, 230, 232)"
+        },
+        {
+            "name": "Serenar",
+            "color": "rgb(235, 233, 232)"
+        },
+        {
+            "name": "Silêncio Das Águas",
+            "color": "rgb(237, 234, 235)"
+        },
+        {
+            "name": "Ar Refrescante",
+            "color": "rgb(235, 232, 234)"
+        },
+        {
+            "name": "Alma Delicada",
+            "color": "rgb(227, 220, 222)"
+        },
+        {
+            "name": "Graciosa",
+            "color": "rgb(241, 233, 236)"
+        },
+        {
+            "name": "Charme De Outono",
+            "color": "rgb(230, 221, 226)"
+        },
+        {
+            "name": "Lilás-Bebê",
+            "color": "rgb(224, 213, 219)"
+        },
+        {
+            "name": "Cravo-Branco",
+            "color": "rgb(234, 233, 235)"
+        },
+        {
+            "name": "Toque De Porcelana",
+            "color": "rgb(235, 234, 235)"
+        },
+        {
+            "name": "Aroma Da Noite",
+            "color": "rgb(225, 219, 222)"
+        },
+        {
+            "name": "Jasmim-Do-Brejo",
+            "color": "rgb(231, 223, 226)"
+        },
+        {
+            "name": "Crochê Da Vovó",
+            "color": "rgb(232, 225, 227)"
+        },
+        {
+            "name": "Olhar Misterioso",
+            "color": "rgb(222, 215, 218)"
+        },
+        {
+            "name": "Bodas De Diamante",
+            "color": "rgb(226, 213, 218)"
+        },
+        {
+            "name": "Jasmim-Branco",
+            "color": "rgb(231, 231, 231)"
+        },
+        {
+            "name": "Asas De Anjo",
+            "color": "rgb(234, 233, 234)"
+        },
+        {
+            "name": "Sonho Bom",
+            "color": "rgb(234, 226, 229)"
+        },
+        {
+            "name": "Bodas De Rosa",
+            "color": "rgb(231, 223, 225)"
+        },
+        {
+            "name": "Doçura",
+            "color": "rgb(240, 232, 236)"
+        },
+        {
+            "name": "Abraço Sossegado",
+            "color": "rgb(231, 219, 223)"
+        },
+        {
+            "name": "Infância Feliz",
+            "color": "rgb(237, 226, 234)"
+        },
+        {
+            "name": "Maciota",
+            "color": "rgb(234, 234, 235)"
+        },
+        {
+            "name": "Lenço De Bolso",
+            "color": "rgb(234, 232, 231)"
+        },
+        {
+            "name": "Flor De Laranjeira",
+            "color": "rgb(235, 228, 232)"
+        },
+        {
+            "name": "Tempos Modernos",
+            "color": "rgb(230, 221, 226)"
+        },
+        {
+            "name": "Rosa-Branca",
+            "color": "rgb(236, 227, 233)"
+        },
+        {
+            "name": "Beladona",
+            "color": "rgb(231, 220, 232)"
+        },
+        {
+            "name": "Linha De Costura",
+            "color": "rgb(235, 218, 234)"
+        },
+        {
+            "name": "Cegonha",
+            "color": "rgb(233, 229, 233)"
+        },
+        {
+            "name": "Aromaterapia",
+            "color": "rgb(224, 221, 228)"
+        },
+        {
+            "name": "Chá De Rosas",
+            "color": "rgb(232, 225, 234)"
+        },
+        {
+            "name": "Bloco De Notas",
+            "color": "rgb(227, 221, 233)"
+        },
+        {
+            "name": "Luz Visível",
+            "color": "rgb(227, 224, 236)"
+        },
+        {
+            "name": "Manhã Iluminada",
+            "color": "rgb(224, 218, 226)"
+        },
+        {
+            "name": "Agulha De Crochê",
+            "color": "rgb(214, 207, 214)"
+        },
+        {
+            "name": "Dança Das Fadas",
+            "color": "rgb(226, 222, 225)"
+        },
+        {
+            "name": "Sorvete Italiano",
+            "color": "rgb(223, 219, 225)"
+        },
+        {
+            "name": "Romance Sereno",
+            "color": "rgb(220, 214, 218)"
+        },
+        {
+            "name": "Sinceridade",
+            "color": "rgb(224, 214, 224)"
+        },
+        {
+            "name": "Harmonia Lilás",
+            "color": "rgb(214, 203, 218)"
+        },
+        {
+            "name": "Rosa-Místico",
+            "color": "rgb(220, 209, 223)"
+        },
+        {
+            "name": "Alvorada",
+            "color": "rgb(216, 206, 223)"
+        },
+        {
+            "name": "Bruma",
+            "color": "rgb(219, 216, 220)"
+        },
+        {
+            "name": "Sopro De Inverno",
+            "color": "rgb(221, 220, 225)"
+        },
+        {
+            "name": "Bombonière",
+            "color": "rgb(214, 208, 218)"
+        },
+        {
+            "name": "Folha De Caderno",
+            "color": "rgb(211, 208, 215)"
+        },
+        {
+            "name": "Dente-De-Sabre",
+            "color": "rgb(210, 206, 212)"
+        },
+        {
+            "name": "Doçura Romântica",
+            "color": "rgb(218, 213, 227)"
+        },
+        {
+            "name": "Duquesa",
+            "color": "rgb(213, 206, 222)"
+        },
+        {
+            "name": "Lilás-Prateado",
+            "color": "rgb(221, 221, 228)"
+        },
+        {
+            "name": "Acalanto",
+            "color": "rgb(226, 226, 236)"
+        },
+        {
+            "name": "Chá De Melissa",
+            "color": "rgb(219, 217, 235)"
+        },
+        {
+            "name": "Saudade",
+            "color": "rgb(205, 209, 223)"
+        },
+        {
+            "name": "Espaço Sideral",
+            "color": "rgb(204, 206, 219)"
+        },
+        {
+            "name": "Valsa",
+            "color": "rgb(207, 207, 227)"
+        },
+        {
+            "name": "Pétala Lilás",
+            "color": "rgb(199, 196, 216)"
+        },
+        {
+            "name": "Nuvem De Algodão",
+            "color": "rgb(221, 226, 236)"
+        },
+        {
+            "name": "Pétala Delicada",
+            "color": "rgb(207, 212, 222)"
+        },
+        {
+            "name": "Sombra",
+            "color": "rgb(204, 205, 218)"
+        },
+        {
+            "name": "Nuvem Encantada",
+            "color": "rgb(202, 208, 226)"
+        },
+        {
+            "name": "Lenço De Seda",
+            "color": "rgb(195, 201, 217)"
+        },
+        {
+            "name": "Sais De Banho",
+            "color": "rgb(198, 204, 222)"
+        },
+        {
+            "name": "Jardim De Lavanda",
+            "color": "rgb(199, 205, 224)"
+        },
+        {
+            "name": "Flutuação",
+            "color": "rgb(211, 216, 223)"
+        },
+        {
+            "name": "Azul-Passageiro",
+            "color": "rgb(204, 215, 222)"
+        },
+        {
+            "name": "Arrecifes",
+            "color": "rgb(203, 214, 224)"
+        },
+        {
+            "name": "Tranquilidade",
+            "color": "rgb(197, 209, 220)"
+        },
+        {
+            "name": "Azul-Polar",
+            "color": "rgb(198, 215, 229)"
+        },
+        {
+            "name": "Banho Gelado",
+            "color": "rgb(202, 223, 236)"
+        },
+        {
+            "name": "Jasmim-Suave",
+            "color": "rgb(177, 200, 210)"
+        },
+        {
+            "name": "Azul-Além",
+            "color": "rgb(224, 232, 240)"
+        },
+        {
+            "name": "Transatlântico",
+            "color": "rgb(216, 226, 234)"
+        },
+        {
+            "name": "Frescor De Chuva",
+            "color": "rgb(215, 230, 239)"
+        },
+        {
+            "name": "Água Gelada",
+            "color": "rgb(204, 212, 217)"
+        },
+        {
+            "name": "Bala De Anis",
+            "color": "rgb(200, 215, 221)"
+        },
+        {
+            "name": "Oceano Antártico",
+            "color": "rgb(202, 221, 232)"
+        },
+        {
+            "name": "Espelho-D'Água",
+            "color": "rgb(196, 213, 222)"
+        },
+        {
+            "name": "Ar Rarefeito",
+            "color": "rgb(211, 219, 222)"
+        },
+        {
+            "name": "Banho De Lua",
+            "color": "rgb(220, 234, 238)"
+        },
+        {
+            "name": "Céu Iluminado",
+            "color": "rgb(211, 228, 234)"
+        },
+        {
+            "name": "Sopro Do Mar",
+            "color": "rgb(212, 230, 235)"
+        },
+        {
+            "name": "Doce Mar",
+            "color": "rgb(205, 226, 232)"
+        },
+        {
+            "name": "Oceano Ártico",
+            "color": "rgb(204, 226, 234)"
+        },
+        {
+            "name": "Pirineus",
+            "color": "rgb(189, 209, 214)"
+        },
+        {
+            "name": "Opala Cristal",
+            "color": "rgb(220, 232, 235)"
+        },
+        {
+            "name": "Azul-Aquário",
+            "color": "rgb(211, 231, 233)"
+        },
+        {
+            "name": "Luz Da Manhã",
+            "color": "rgb(198, 220, 222)"
+        },
+        {
+            "name": "Beira-Mar",
+            "color": "rgb(196, 224, 225)"
+        },
+        {
+            "name": "Azul-Simpatia",
+            "color": "rgb(198, 221, 224)"
+        },
+        {
+            "name": "Passeio Nas Nuvens",
+            "color": "rgb(191, 215, 219)"
+        },
+        {
+            "name": "Iô-Iô",
+            "color": "rgb(192, 218, 220)"
+        },
+        {
+            "name": "Gérbera Branca",
+            "color": "rgb(220, 231, 232)"
+        },
+        {
+            "name": "Água Fresca",
+            "color": "rgb(213, 233, 236)"
+        },
+        {
+            "name": "Fada",
+            "color": "rgb(207, 227, 227)"
+        },
+        {
+            "name": "Maré Mansa",
+            "color": "rgb(209, 233, 233)"
+        },
+        {
+            "name": "Água De Rio",
+            "color": "rgb(198, 219, 218)"
+        },
+        {
+            "name": "Tudo Azul",
+            "color": "rgb(201, 228, 228)"
+        },
+        {
+            "name": "Marca D'Água",
+            "color": "rgb(195, 226, 226)"
+        },
+        {
+            "name": "Mentolado",
+            "color": "rgb(225, 237, 238)"
+        },
+        {
+            "name": "Estação Das Chuvas",
+            "color": "rgb(219, 234, 236)"
+        },
+        {
+            "name": "Paz",
+            "color": "rgb(206, 222, 221)"
+        },
+        {
+            "name": "Maresia",
+            "color": "rgb(210, 226, 225)"
+        },
+        {
+            "name": "Chuvisco Gelado",
+            "color": "rgb(209, 227, 231)"
+        },
+        {
+            "name": "Salinas",
+            "color": "rgb(205, 229, 231)"
+        },
+        {
+            "name": "Brisa Do Mar",
+            "color": "rgb(195, 226, 230)"
+        },
+        {
+            "name": "Pétala Branca",
+            "color": "rgb(228, 237, 237)"
+        },
+        {
+            "name": "Céu Do Amanhecer",
+            "color": "rgb(224, 234, 233)"
+        },
+        {
+            "name": "Etéreo",
+            "color": "rgb(222, 231, 231)"
+        },
+        {
+            "name": "Margarida",
+            "color": "rgb(221, 234, 233)"
+        },
+        {
+            "name": "Luz Das Estrelas",
+            "color": "rgb(221, 234, 234)"
+        },
+        {
+            "name": "Porcelana",
+            "color": "rgb(218, 238, 235)"
+        },
+        {
+            "name": "Calmaria",
+            "color": "rgb(200, 233, 231)"
+        },
+        {
+            "name": "Banho De Chuva",
+            "color": "rgb(222, 227, 227)"
+        },
+        {
+            "name": "Brilhante Bruto",
+            "color": "rgb(218, 222, 221)"
+        },
+        {
+            "name": "Amanhecer Nevado",
+            "color": "rgb(219, 226, 226)"
+        },
+        {
+            "name": "Neblina",
+            "color": "rgb(210, 218, 218)"
+        },
+        {
+            "name": "Nevasca",
+            "color": "rgb(210, 219, 218)"
+        },
+        {
+            "name": "Gota-D’água",
+            "color": "rgb(207, 218, 217)"
+        },
+        {
+            "name": "Pacífico",
+            "color": "rgb(205, 224, 224)"
+        },
+        {
+            "name": "Leve Ventania",
+            "color": "rgb(230, 238, 237)"
+        },
+        {
+            "name": "Gotas De Orvalho",
+            "color": "rgb(220, 232, 226)"
+        },
+        {
+            "name": "Cascata",
+            "color": "rgb(212, 220, 216)"
+        },
+        {
+            "name": "Cachoeira",
+            "color": "rgb(210, 219, 216)"
+        },
+        {
+            "name": "Urso-Polar",
+            "color": "rgb(210, 221, 217)"
+        },
+        {
+            "name": "Palácio De Cristal",
+            "color": "rgb(209, 222, 220)"
+        },
+        {
+            "name": "História Sem Fim",
+            "color": "rgb(206, 224, 220)"
+        },
+        {
+            "name": "Creme Delicado",
+            "color": "rgb(227, 234, 231)"
+        },
+        {
+            "name": "Amenidade",
+            "color": "rgb(228, 234, 230)"
+        },
+        {
+            "name": "Limonada Refrescante",
+            "color": "rgb(227, 236, 229)"
+        },
+        {
+            "name": "Água Com Gás",
+            "color": "rgb(225, 235, 228)"
+        },
+        {
+            "name": "Chafariz",
+            "color": "rgb(220, 232, 225)"
+        },
+        {
+            "name": "Ninho Refrescante",
+            "color": "rgb(218, 231, 223)"
+        },
+        {
+            "name": "Limonada Suíça",
+            "color": "rgb(212, 228, 218)"
+        },
+        {
+            "name": "Sereno",
+            "color": "rgb(226, 232, 226)"
+        },
+        {
+            "name": "Hortelã Suave",
+            "color": "rgb(230, 239, 231)"
+        },
+        {
+            "name": "Reino Da Ilusão",
+            "color": "rgb(229, 238, 228)"
+        },
+        {
+            "name": "Destino",
+            "color": "rgb(214, 221, 210)"
+        },
+        {
+            "name": "Frescor Da Natureza",
+            "color": "rgb(216, 225, 214)"
+        },
+        {
+            "name": "Eternidade",
+            "color": "rgb(214, 227, 215)"
+        },
+        {
+            "name": "Batida De Coco",
+            "color": "rgb(209, 228, 213)"
+        },
+        {
+            "name": "Sopro De Menta",
+            "color": "rgb(232, 238, 230)"
+        },
+        {
+            "name": "Flocos De Neve",
+            "color": "rgb(230, 236, 228)"
+        },
+        {
+            "name": "Queda-D'Água",
+            "color": "rgb(226, 233, 224)"
+        },
+        {
+            "name": "Chá Gelado",
+            "color": "rgb(227, 238, 224)"
+        },
+        {
+            "name": "Caminho Do Lago",
+            "color": "rgb(212, 224, 204)"
+        },
+        {
+            "name": "Verde-Vítreo",
+            "color": "rgb(205, 216, 194)"
+        },
+        {
+            "name": "Chá De Menta",
+            "color": "rgb(215, 232, 212)"
+        },
+        {
+            "name": "Caminho De Gelo",
+            "color": "rgb(229, 235, 230)"
+        },
+        {
+            "name": "Biscoito De Limão",
+            "color": "rgb(232, 241, 226)"
+        },
+        {
+            "name": "Mojito",
+            "color": "rgb(226, 233, 217)"
+        },
+        {
+            "name": "Bala De Menta",
+            "color": "rgb(229, 240, 223)"
+        },
+        {
+            "name": "Vinho Verde",
+            "color": "rgb(227, 237, 217)"
+        },
+        {
+            "name": "Bodas De Esmeralda",
+            "color": "rgb(222, 229, 209)"
+        },
+        {
+            "name": "Verde-Lavado",
+            "color": "rgb(217, 225, 206)"
+        },
+        {
+            "name": "Suspiro",
+            "color": "rgb(229, 233, 229)"
+        },
+        {
+            "name": "Viscose",
+            "color": "rgb(232, 238, 228)"
+        },
+        {
+            "name": "Relax Total",
+            "color": "rgb(232, 238, 225)"
+        },
+        {
+            "name": "Seda",
+            "color": "rgb(231, 238, 227)"
+        },
+        {
+            "name": "Atmosfera",
+            "color": "rgb(230, 237, 223)"
+        },
+        {
+            "name": "Moletom",
+            "color": "rgb(232, 239, 225)"
+        },
+        {
+            "name": "Mousse De Limão",
+            "color": "rgb(223, 231, 210)"
+        },
+        {
+            "name": "Água Pura",
+            "color": "rgb(232, 234, 227)"
+        },
+        {
+            "name": "Meia-Malha",
+            "color": "rgb(233, 238, 228)"
+        },
+        {
+            "name": "Água Da Fonte",
+            "color": "rgb(234, 238, 228)"
+        },
+        {
+            "name": "Vento Bom",
+            "color": "rgb(236, 241, 230)"
+        },
+        {
+            "name": "Pura Delícia",
+            "color": "rgb(238, 242, 227)"
+        },
+        {
+            "name": "Citronela",
+            "color": "rgb(231, 237, 225)"
+        },
+        {
+            "name": "Verde-Crepom",
+            "color": "rgb(222, 226, 210)"
+        },
+        {
+            "name": "Cetim",
+            "color": "rgb(233, 235, 229)"
+        },
+        {
+            "name": "Iogurte Natural",
+            "color": "rgb(235, 237, 229)"
+        },
+        {
+            "name": "Maré Calma",
+            "color": "rgb(235, 238, 227)"
+        },
+        {
+            "name": "Vinil",
+            "color": "rgb(233, 236, 228)"
+        },
+        {
+            "name": "Toque De Frescor",
+            "color": "rgb(234, 237, 225)"
+        },
+        {
+            "name": "Sossego",
+            "color": "rgb(232, 236, 223)"
+        },
+        {
+            "name": "Chá Refrescante",
+            "color": "rgb(234, 239, 218)"
+        },
+        {
+            "name": "Esqui Na Neve",
+            "color": "rgb(233, 235, 232)"
+        },
+        {
+            "name": "Banhos Termais",
+            "color": "rgb(236, 235, 229)"
+        },
+        {
+            "name": "Papel De Presente",
+            "color": "rgb(234, 233, 226)"
+        },
+        {
+            "name": "Paz Mundial",
+            "color": "rgb(234, 235, 227)"
+        },
+        {
+            "name": "Náilon",
+            "color": "rgb(233, 237, 228)"
+        },
+        {
+            "name": "Leve Balanço",
+            "color": "rgb(237, 241, 227)"
+        },
+        {
+            "name": "Boa Sorte",
+            "color": "rgb(238, 242, 227)"
+        },
+        {
+            "name": "Vento Sul",
+            "color": "rgb(222, 223, 221)"
+        },
+        {
+            "name": "Papel-Maché",
+            "color": "rgb(221, 222, 219)"
+        },
+        {
+            "name": "Calopsita",
+            "color": "rgb(219, 218, 215)"
+        },
+        {
+            "name": "Tomara Que Caia",
+            "color": "rgb(222, 221, 217)"
+        },
+        {
+            "name": "Papel-Jornal",
+            "color": "rgb(225, 225, 221)"
+        },
+        {
+            "name": "Papel-Couché",
+            "color": "rgb(229, 229, 224)"
+        },
+        {
+            "name": "Papel-Crepom",
+            "color": "rgb(230, 230, 225)"
+        },
+        {
+            "name": "Sambaqui",
+            "color": "rgb(219, 218, 219)"
+        },
+        {
+            "name": "Ar Puro",
+            "color": "rgb(216, 220, 224)"
+        },
+        {
+            "name": "Estrela Cadente",
+            "color": "rgb(216, 218, 224)"
+        },
+        {
+            "name": "Cristal Puro",
+            "color": "rgb(216, 219, 223)"
+        },
+        {
+            "name": "Honestidade",
+            "color": "rgb(214, 219, 224)"
+        },
+        {
+            "name": "Luz Do Luar",
+            "color": "rgb(214, 220, 226)"
+        },
+        {
+            "name": "Água-Doce",
+            "color": "rgb(206, 212, 219)"
+        },
+        {
+            "name": "Geleiras Alpinas",
+            "color": "rgb(226, 232, 237)"
+        },
+        {
+            "name": "Presente-Surpresa",
+            "color": "rgb(221, 224, 227)"
+        },
+        {
+            "name": "Espuma Do Mar",
+            "color": "rgb(222, 226, 228)"
+        },
+        {
+            "name": "Inverno Iminente",
+            "color": "rgb(217, 222, 224)"
+        },
+        {
+            "name": "Chuva Gelada",
+            "color": "rgb(223, 228, 231)"
+        },
+        {
+            "name": "Talco Refrescante",
+            "color": "rgb(225, 233, 237)"
+        },
+        {
+            "name": "Pluma Leve",
+            "color": "rgb(224, 233, 236)"
+        },
+        {
+            "name": "Respiro Na Mata",
+            "color": "rgb(232, 237, 237)"
+        },
+        {
+            "name": "Petúnia Branca",
+            "color": "rgb(232, 236, 236)"
+        },
+        {
+            "name": "Crista Da Onda",
+            "color": "rgb(233, 235, 236)"
+        },
+        {
+            "name": "Manhã Do Ártico",
+            "color": "rgb(228, 232, 235)"
+        },
+        {
+            "name": "Azaleia Branca",
+            "color": "rgb(226, 230, 236)"
+        },
+        {
+            "name": "Orvalho Do Campo",
+            "color": "rgb(229, 234, 236)"
+        },
+        {
+            "name": "Copo-De-Leite",
+            "color": "rgb(228, 233, 236)"
+        }
+    ],
+    
+    "clarasesuaves": [
+        {
+            "name": "Suspiro Caseiro",
+            "color": "rgb(244, 242, 221)"
+        },
+        {
+            "name": "Manteiga",
+            "color": "rgb(247, 239, 185)"
+        },
+        {
+            "name": "Sonho Feliz",
+            "color": "rgb(244, 233, 173)"
+        },
+        {
+            "name": "Jasmim-Amarelo",
+            "color": "rgb(249, 237, 158)"
+        },
+        {
+            "name": "Idade De Ouro",
+            "color": "rgb(251, 226, 132)"
+        },
+        {
+            "name": "Diversão",
+            "color": "rgb(255, 227, 115)"
+        },
+        {
+            "name": "Tesouro",
+            "color": "rgb(255, 230, 95)"
+        },
+        {
+            "name": "Travesseiro De Pena",
+            "color": "rgb(234, 231, 213)"
+        },
+        {
+            "name": "Luz De Inverno",
+            "color": "rgb(238, 233, 201)"
+        },
+        {
+            "name": "Abacaxi",
+            "color": "rgb(243, 237, 179)"
+        },
+        {
+            "name": "Malemolência",
+            "color": "rgb(249, 234, 159)"
+        },
+        {
+            "name": "Guarda-Sol",
+            "color": "rgb(251, 234, 148)"
+        },
+        {
+            "name": "Maracujá",
+            "color": "rgb(248, 227, 133)"
+        },
+        {
+            "name": "Pólen",
+            "color": "rgb(253, 222, 92)"
+        },
+        {
+            "name": "Brilho Do Luar",
+            "color": "rgb(240, 237, 216)"
+        },
+        {
+            "name": "Bem-Me-Quer",
+            "color": "rgb(247, 242, 208)"
+        },
+        {
+            "name": "Gengibre",
+            "color": "rgb(242, 231, 181)"
+        },
+        {
+            "name": "Nacho",
+            "color": "rgb(243, 226, 162)"
+        },
+        {
+            "name": "Flor De Narciso",
+            "color": "rgb(241, 223, 152)"
+        },
+        {
+            "name": "Felicidade",
+            "color": "rgb(238, 215, 124)"
+        },
+        {
+            "name": "Acácia-Mimosa",
+            "color": "rgb(252, 223, 118)"
+        },
+        {
+            "name": "Toalha De Crochê",
+            "color": "rgb(241, 238, 217)"
+        },
+        {
+            "name": "Sorvete De Creme",
+            "color": "rgb(244, 234, 201)"
+        },
+        {
+            "name": "Mitologia",
+            "color": "rgb(243, 233, 196)"
+        },
+        {
+            "name": "Citrino",
+            "color": "rgb(249, 231, 165)"
+        },
+        {
+            "name": "Carinho Especial",
+            "color": "rgb(251, 232, 159)"
+        },
+        {
+            "name": "Manteiga De Garrafa",
+            "color": "rgb(255, 228, 133)"
+        },
+        {
+            "name": "Mousse De Maracujá",
+            "color": "rgb(255, 222, 104)"
+        },
+        {
+            "name": "Espuma De Leite",
+            "color": "rgb(241, 235, 207)"
+        },
+        {
+            "name": "Bala De Goma",
+            "color": "rgb(248, 239, 200)"
+        },
+        {
+            "name": "Despertar",
+            "color": "rgb(248, 235, 187)"
+        },
+        {
+            "name": "Café Da Manhã",
+            "color": "rgb(252, 232, 162)"
+        },
+        {
+            "name": "Fios De Ovos",
+            "color": "rgb(246, 227, 156)"
+        },
+        {
+            "name": "Pitaia Colombiana",
+            "color": "rgb(252, 227, 142)"
+        },
+        {
+            "name": "Girafa",
+            "color": "rgb(255, 216, 108)"
+        },
+        {
+            "name": "Espinho De Rosa",
+            "color": "rgb(242, 236, 216)"
+        },
+        {
+            "name": "Luzes Da Cidade",
+            "color": "rgb(244, 234, 197)"
+        },
+        {
+            "name": "Pera Doce",
+            "color": "rgb(250, 231, 177)"
+        },
+        {
+            "name": "Pão De Queijo",
+            "color": "rgb(250, 227, 164)"
+        },
+        {
+            "name": "Simplicidade",
+            "color": "rgb(249, 223, 144)"
+        },
+        {
+            "name": "Cobogó",
+            "color": "rgb(248, 220, 134)"
+        },
+        {
+            "name": "Jaca",
+            "color": "rgb(251, 222, 131)"
+        },
+        {
+            "name": "Acalento",
+            "color": "rgb(244, 238, 214)"
+        },
+        {
+            "name": "Casa De Bonecas",
+            "color": "rgb(247, 235, 196)"
+        },
+        {
+            "name": "Cordão De Ouro",
+            "color": "rgb(248, 233, 191)"
+        },
+        {
+            "name": "Tesouro Perdido",
+            "color": "rgb(248, 229, 179)"
+        },
+        {
+            "name": "Realeza",
+            "color": "rgb(253, 226, 159)"
+        },
+        {
+            "name": "Ambrosia",
+            "color": "rgb(249, 218, 138)"
+        },
+        {
+            "name": "Seiva De Cajueiro",
+            "color": "rgb(228, 193, 119)"
+        },
+        {
+            "name": "Pérola Aveludada",
+            "color": "rgb(241, 234, 214)"
+        },
+        {
+            "name": "Cesto De Palha",
+            "color": "rgb(245, 231, 192)"
+        },
+        {
+            "name": "Pinoli",
+            "color": "rgb(245, 228, 187)"
+        },
+        {
+            "name": "Banana Com Açúcar",
+            "color": "rgb(248, 228, 175)"
+        },
+        {
+            "name": "Grão-De-Bico",
+            "color": "rgb(250, 214, 140)"
+        },
+        {
+            "name": "Sequilho",
+            "color": "rgb(255, 217, 115)"
+        },
+        {
+            "name": "Cacau Da Bahia",
+            "color": "rgb(255, 209, 113)"
+        },
+        {
+            "name": "Feixe De Luz",
+            "color": "rgb(245, 236, 212)"
+        },
+        {
+            "name": "Amarelo-Splash",
+            "color": "rgb(245, 234, 206)"
+        },
+        {
+            "name": "Flan De Baunilha",
+            "color": "rgb(248, 231, 196)"
+        },
+        {
+            "name": "Madrepérola",
+            "color": "rgb(248, 226, 185)"
+        },
+        {
+            "name": "Cera De Abelha",
+            "color": "rgb(248, 217, 160)"
+        },
+        {
+            "name": "Frescor Da Manhã",
+            "color": "rgb(253, 212, 148)"
+        },
+        {
+            "name": "Areia Do Sertão",
+            "color": "rgb(242, 189, 108)"
+        },
+        {
+            "name": "Casquinha De Sorvete",
+            "color": "rgb(238, 227, 202)"
+        },
+        {
+            "name": "Pé-De-Coelho",
+            "color": "rgb(242, 226, 189)"
+        },
+        {
+            "name": "Marfim Nobre",
+            "color": "rgb(232, 213, 177)"
+        },
+        {
+            "name": "Palmier",
+            "color": "rgb(227, 197, 145)"
+        },
+        {
+            "name": "Nozes",
+            "color": "rgb(230, 199, 149)"
+        },
+        {
+            "name": "Cuíca",
+            "color": "rgb(240, 197, 131)"
+        },
+        {
+            "name": "Flocos De Milho",
+            "color": "rgb(247, 197, 118)"
+        },
+        {
+            "name": "Creme De Pêssego",
+            "color": "rgb(247, 235, 212)"
+        },
+        {
+            "name": "Brioche",
+            "color": "rgb(246, 226, 192)"
+        },
+        {
+            "name": "Rosa-Champanhe",
+            "color": "rgb(252, 221, 172)"
+        },
+        {
+            "name": "Doce Delírio",
+            "color": "rgb(247, 211, 157)"
+        },
+        {
+            "name": "Doce Mandarim",
+            "color": "rgb(255, 213, 147)"
+        },
+        {
+            "name": "Broa De Milho",
+            "color": "rgb(255, 208, 143)"
+        },
+        {
+            "name": "Bolo De Cenoura",
+            "color": "rgb(253, 181, 93)"
+        },
+        {
+            "name": "Doce Crocante",
+            "color": "rgb(239, 224, 201)"
+        },
+        {
+            "name": "Palete",
+            "color": "rgb(250, 229, 200)"
+        },
+        {
+            "name": "Calor Das Ruas",
+            "color": "rgb(248, 219, 178)"
+        },
+        {
+            "name": "Vintage",
+            "color": "rgb(251, 216, 173)"
+        },
+        {
+            "name": "Frescor De Laranja",
+            "color": "rgb(255, 206, 146)"
+        },
+        {
+            "name": "Seriguela",
+            "color": "rgb(248, 187, 114)"
+        },
+        {
+            "name": "Damasco",
+            "color": "rgb(245, 176, 99)"
+        },
+        {
+            "name": "Humanidade",
+            "color": "rgb(244, 228, 202)"
+        },
+        {
+            "name": "Trigo",
+            "color": "rgb(236, 220, 196)"
+        },
+        {
+            "name": "Croissant",
+            "color": "rgb(239, 212, 175)"
+        },
+        {
+            "name": "Pão De Ló",
+            "color": "rgb(227, 195, 151)"
+        },
+        {
+            "name": "Guardanapo De Festa",
+            "color": "rgb(250, 207, 156)"
+        },
+        {
+            "name": "Bacupari Do Cerrado",
+            "color": "rgb(255, 194, 124)"
+        },
+        {
+            "name": "Pequi De Goiás",
+            "color": "rgb(255, 181, 94)"
+        },
+        {
+            "name": "Seda Pura",
+            "color": "rgb(247, 233, 211)"
+        },
+        {
+            "name": "Sininho",
+            "color": "rgb(247, 225, 197)"
+        },
+        {
+            "name": "Veraneio",
+            "color": "rgb(252, 222, 183)"
+        },
+        {
+            "name": "Amarelo Dos Andes",
+            "color": "rgb(249, 212, 168)"
+        },
+        {
+            "name": "Panqueca Doce",
+            "color": "rgb(249, 199, 145)"
+        },
+        {
+            "name": "Doce De Damasco",
+            "color": "rgb(246, 198, 140)"
+        },
+        {
+            "name": "Rum",
+            "color": "rgb(231, 160, 95)"
+        },
+        {
+            "name": "Violoncelo",
+            "color": "rgb(241, 231, 214)"
+        },
+        {
+            "name": "Papel Sedoso",
+            "color": "rgb(249, 226, 196)"
+        },
+        {
+            "name": "Luxo",
+            "color": "rgb(253, 217, 179)"
+        },
+        {
+            "name": "Sonho De Verão",
+            "color": "rgb(251, 208, 168)"
+        },
+        {
+            "name": "Ciranda",
+            "color": "rgb(253, 190, 129)"
+        },
+        {
+            "name": "Jenipapo",
+            "color": "rgb(250, 179, 117)"
+        },
+        {
+            "name": "Caju",
+            "color": "rgb(255, 186, 129)"
+        },
+        {
+            "name": "Bem-Casado",
+            "color": "rgb(240, 228, 211)"
+        },
+        {
+            "name": "Marmelo",
+            "color": "rgb(244, 222, 194)"
+        },
+        {
+            "name": "Tarde De Verão",
+            "color": "rgb(249, 220, 193)"
+        },
+        {
+            "name": "Base Soft",
+            "color": "rgb(240, 196, 159)"
+        },
+        {
+            "name": "Cordel",
+            "color": "rgb(251, 190, 138)"
+        },
+        {
+            "name": "Camélia-Laranja",
+            "color": "rgb(245, 176, 124)"
+        },
+        {
+            "name": "Estrelícia",
+            "color": "rgb(233, 141, 79)"
+        },
+        {
+            "name": "Crema",
+            "color": "rgb(243, 224, 201)"
+        },
+        {
+            "name": "Pérola Cintilante",
+            "color": "rgb(250, 221, 191)"
+        },
+        {
+            "name": "Damasco Suave",
+            "color": "rgb(246, 200, 160)"
+        },
+        {
+            "name": "Laranja Açucarada",
+            "color": "rgb(243, 187, 142)"
+        },
+        {
+            "name": "Cabaça",
+            "color": "rgb(238, 175, 122)"
+        },
+        {
+            "name": "Crisântemo Laranja",
+            "color": "rgb(240, 173, 119)"
+        },
+        {
+            "name": "Forró",
+            "color": "rgb(246, 156, 92)"
+        },
+        {
+            "name": "Casa De Praia",
+            "color": "rgb(248, 225, 204)"
+        },
+        {
+            "name": "Mousse De Cenoura",
+            "color": "rgb(246, 217, 190)"
+        },
+        {
+            "name": "Aconchego",
+            "color": "rgb(250, 216, 183)"
+        },
+        {
+            "name": "Moranga",
+            "color": "rgb(249, 201, 162)"
+        },
+        {
+            "name": "Nêspera",
+            "color": "rgb(253, 194, 147)"
+        },
+        {
+            "name": "Maracá",
+            "color": "rgb(252, 179, 132)"
+        },
+        {
+            "name": "Bumba Meu Boi",
+            "color": "rgb(242, 159, 109)"
+        },
+        {
+            "name": "Sorbet De Pêssego",
+            "color": "rgb(246, 231, 214)"
+        },
+        {
+            "name": "Adormecida",
+            "color": "rgb(247, 224, 204)"
+        },
+        {
+            "name": "Sol De Outono",
+            "color": "rgb(251, 219, 191)"
+        },
+        {
+            "name": "Espuma De Pêssego",
+            "color": "rgb(247, 206, 175)"
+        },
+        {
+            "name": "Néctar De Pêssego",
+            "color": "rgb(253, 197, 159)"
+        },
+        {
+            "name": "Tropicália",
+            "color": "rgb(255, 177, 130)"
+        },
+        {
+            "name": "Granadilha",
+            "color": "rgb(251, 161, 101)"
+        },
+        {
+            "name": "Leite Quente",
+            "color": "rgb(235, 219, 203)"
+        },
+        {
+            "name": "Organza",
+            "color": "rgb(251, 224, 200)"
+        },
+        {
+            "name": "Capela",
+            "color": "rgb(249, 213, 186)"
+        },
+        {
+            "name": "Início Do Verão",
+            "color": "rgb(241, 195, 163)"
+        },
+        {
+            "name": "Torrada",
+            "color": "rgb(238, 184, 154)"
+        },
+        {
+            "name": "Melão Orange",
+            "color": "rgb(239, 167, 119)"
+        },
+        {
+            "name": "Doce De Abóbora",
+            "color": "rgb(230, 153, 96)"
+        },
+        {
+            "name": "Palha De Seda",
+            "color": "rgb(247, 231, 214)"
+        },
+        {
+            "name": "Jazz",
+            "color": "rgb(246, 222, 199)"
+        },
+        {
+            "name": "Aquarela Pêssego",
+            "color": "rgb(251, 205, 173)"
+        },
+        {
+            "name": "Frutas Naturais",
+            "color": "rgb(244, 182, 147)"
+        },
+        {
+            "name": "Baião",
+            "color": "rgb(247, 168, 121)"
+        },
+        {
+            "name": "Polpa De Pêssego",
+            "color": "rgb(255, 161, 109)"
+        },
+        {
+            "name": "Intuição Feminina",
+            "color": "rgb(243, 153, 100)"
+        },
+        {
+            "name": "Boas-Vindas",
+            "color": "rgb(247, 228, 207)"
+        },
+        {
+            "name": "Areia Da Barra",
+            "color": "rgb(245, 223, 206)"
+        },
+        {
+            "name": "Cacharrel",
+            "color": "rgb(245, 213, 191)"
+        },
+        {
+            "name": "Waffle",
+            "color": "rgb(253, 205, 170)"
+        },
+        {
+            "name": "Final De Tarde",
+            "color": "rgb(246, 181, 142)"
+        },
+        {
+            "name": "Coquetel De Frutas",
+            "color": "rgb(245, 168, 122)"
+        },
+        {
+            "name": "Entardecer De Verão",
+            "color": "rgb(246, 156, 105)"
+        },
+        {
+            "name": "Mantecal",
+            "color": "rgb(245, 229, 215)"
+        },
+        {
+            "name": "Gergelim",
+            "color": "rgb(242, 217, 199)"
+        },
+        {
+            "name": "Naturale",
+            "color": "rgb(249, 208, 181)"
+        },
+        {
+            "name": "Maria-Mole",
+            "color": "rgb(252, 206, 180)"
+        },
+        {
+            "name": "Sorvete De Mamão",
+            "color": "rgb(254, 190, 154)"
+        },
+        {
+            "name": "Sorvete De Pêssego",
+            "color": "rgb(245, 169, 136)"
+        },
+        {
+            "name": "Crepúsculo",
+            "color": "rgb(242, 148, 105)"
+        },
+        {
+            "name": "Marcha Nupcial",
+            "color": "rgb(244, 228, 217)"
+        },
+        {
+            "name": "Doce Lembrança",
+            "color": "rgb(252, 228, 209)"
+        },
+        {
+            "name": "Nuvem De Pêssego",
+            "color": "rgb(244, 210, 191)"
+        },
+        {
+            "name": "Bem-Estar",
+            "color": "rgb(245, 191, 163)"
+        },
+        {
+            "name": "Batida De Pêssego",
+            "color": "rgb(253, 188, 155)"
+        },
+        {
+            "name": "Limão-Cravo",
+            "color": "rgb(249, 174, 139)"
+        },
+        {
+            "name": "Trompete",
+            "color": "rgb(239, 147, 110)"
+        },
+        {
+            "name": "Adorno",
+            "color": "rgb(245, 231, 221)"
+        },
+        {
+            "name": "Fofura",
+            "color": "rgb(251, 224, 209)"
+        },
+        {
+            "name": "Mormaço",
+            "color": "rgb(248, 218, 196)"
+        },
+        {
+            "name": "Marzipã",
+            "color": "rgb(251, 214, 192)"
+        },
+        {
+            "name": "Perfume De Bebê",
+            "color": "rgb(249, 194, 166)"
+        },
+        {
+            "name": "Ópera",
+            "color": "rgb(241, 164, 128)"
+        },
+        {
+            "name": "Sashimi",
+            "color": "rgb(241, 158, 119)"
+        },
+        {
+            "name": "Mundo Da Fantasia",
+            "color": "rgb(244, 230, 221)"
+        },
+        {
+            "name": "Corda",
+            "color": "rgb(236, 218, 206)"
+        },
+        {
+            "name": "Pingo De Leite",
+            "color": "rgb(231, 207, 190)"
+        },
+        {
+            "name": "Pudim De Leite",
+            "color": "rgb(237, 209, 192)"
+        },
+        {
+            "name": "Duna",
+            "color": "rgb(225, 199, 186)"
+        },
+        {
+            "name": "Saída De Banho",
+            "color": "rgb(230, 198, 182)"
+        },
+        {
+            "name": "Bala Toffee",
+            "color": "rgb(220, 182, 166)"
+        },
+        {
+            "name": "Bolo De Noiva",
+            "color": "rgb(244, 230, 221)"
+        },
+        {
+            "name": "Vestido De Renda",
+            "color": "rgb(243, 224, 212)"
+        },
+        {
+            "name": "Céu De Primavera",
+            "color": "rgb(248, 218, 201)"
+        },
+        {
+            "name": "Flan De Pêssego",
+            "color": "rgb(245, 207, 185)"
+        },
+        {
+            "name": "Fruta-Da-Condessa",
+            "color": "rgb(236, 191, 174)"
+        },
+        {
+            "name": "Primorosa",
+            "color": "rgb(240, 178, 150)"
+        },
+        {
+            "name": "Suco De Acerola",
+            "color": "rgb(240, 146, 113)"
+        },
+        {
+            "name": "Orvalho",
+            "color": "rgb(242, 222, 213)"
+        },
+        {
+            "name": "Delicata",
+            "color": "rgb(241, 219, 207)"
+        },
+        {
+            "name": "Pêssego Pálido",
+            "color": "rgb(243, 212, 196)"
+        },
+        {
+            "name": "Amendoeira Em Flor",
+            "color": "rgb(248, 208, 189)"
+        },
+        {
+            "name": "Salada De Frutas",
+            "color": "rgb(246, 193, 174)"
+        },
+        {
+            "name": "Tarde De Outono",
+            "color": "rgb(252, 190, 164)"
+        },
+        {
+            "name": "Vitamina C",
+            "color": "rgb(243, 160, 126)"
+        },
+        {
+            "name": "Espartilho",
+            "color": "rgb(246, 229, 221)"
+        },
+        {
+            "name": "Margaridinha-Rosa",
+            "color": "rgb(247, 220, 210)"
+        },
+        {
+            "name": "Milk-Shake",
+            "color": "rgb(250, 215, 203)"
+        },
+        {
+            "name": "Lábio Rosado",
+            "color": "rgb(239, 191, 178)"
+        },
+        {
+            "name": "Açucena",
+            "color": "rgb(234, 174, 157)"
+        },
+        {
+            "name": "Frapê De Pêssego",
+            "color": "rgb(245, 168, 146)"
+        },
+        {
+            "name": "Sempre-Viva",
+            "color": "rgb(231, 155, 134)"
+        },
+        {
+            "name": "Talco",
+            "color": "rgb(245, 223, 211)"
+        },
+        {
+            "name": "Mimosa",
+            "color": "rgb(251, 223, 215)"
+        },
+        {
+            "name": "Rosa-Amor",
+            "color": "rgb(254, 213, 200)"
+        },
+        {
+            "name": "Linha De Crochê",
+            "color": "rgb(244, 204, 195)"
+        },
+        {
+            "name": "Rosa Laranja",
+            "color": "rgb(245, 185, 170)"
+        },
+        {
+            "name": "Creme De Papaya",
+            "color": "rgb(243, 162, 146)"
+        },
+        {
+            "name": "Hibisco",
+            "color": "rgb(240, 140, 124)"
+        },
+        {
+            "name": "Aveia",
+            "color": "rgb(235, 220, 213)"
+        },
+        {
+            "name": "Beleza Natural",
+            "color": "rgb(244, 222, 215)"
+        },
+        {
+            "name": "Rosa Secreto",
+            "color": "rgb(232, 202, 191)"
+        },
+        {
+            "name": "Rosa Delicado",
+            "color": "rgb(220, 180, 167)"
+        },
+        {
+            "name": "Vinho Rosé",
+            "color": "rgb(231, 157, 144)"
+        },
+        {
+            "name": "Flor De Romãnzeira",
+            "color": "rgb(239, 140, 123)"
+        },
+        {
+            "name": "Segundo Sol",
+            "color": "rgb(221, 123, 108)"
+        },
+        {
+            "name": "Maria Antonieta",
+            "color": "rgb(250, 229, 221)"
+        },
+        {
+            "name": "Suco De Maçã",
+            "color": "rgb(249, 216, 207)"
+        },
+        {
+            "name": "Petúnia Rosa",
+            "color": "rgb(248, 212, 207)"
+        },
+        {
+            "name": "Surpresa",
+            "color": "rgb(246, 195, 189)"
+        },
+        {
+            "name": "Astúcia",
+            "color": "rgb(246, 177, 168)"
+        },
+        {
+            "name": "Bala De Iogurte",
+            "color": "rgb(243, 162, 155)"
+        },
+        {
+            "name": "Mistura Fina",
+            "color": "rgb(240, 144, 131)"
+        },
+        {
+            "name": "Cheia De Charme",
+            "color": "rgb(238, 219, 213)"
+        },
+        {
+            "name": "Vitoriana",
+            "color": "rgb(249, 219, 212)"
+        },
+        {
+            "name": "Renda Delicada",
+            "color": "rgb(245, 207, 200)"
+        },
+        {
+            "name": "Doce Desejo",
+            "color": "rgb(249, 208, 201)"
+        },
+        {
+            "name": "Sorvete De Morango",
+            "color": "rgb(246, 181, 173)"
+        },
+        {
+            "name": "Promenade",
+            "color": "rgb(248, 163, 156)"
+        },
+        {
+            "name": "Bromélia",
+            "color": "rgb(243, 162, 152)"
+        },
+        {
+            "name": "Boneca De Luxo",
+            "color": "rgb(242, 225, 222)"
+        },
+        {
+            "name": "Biju",
+            "color": "rgb(239, 220, 215)"
+        },
+        {
+            "name": "Camélia-Rosa",
+            "color": "rgb(230, 205, 202)"
+        },
+        {
+            "name": "Focinho De Gato",
+            "color": "rgb(227, 180, 176)"
+        },
+        {
+            "name": "Figo",
+            "color": "rgb(215, 156, 152)"
+        },
+        {
+            "name": "Bossa Nova",
+            "color": "rgb(204, 130, 127)"
+        },
+        {
+            "name": "Azaleia",
+            "color": "rgb(198, 117, 124)"
+        },
+        {
+            "name": "Camisola De Cetim",
+            "color": "rgb(244, 230, 232)"
+        },
+        {
+            "name": "Rosedal",
+            "color": "rgb(241, 219, 217)"
+        },
+        {
+            "name": "Rosa Sapatilha",
+            "color": "rgb(242, 204, 203)"
+        },
+        {
+            "name": "Petit-Suisse",
+            "color": "rgb(250, 193, 190)"
+        },
+        {
+            "name": "Lago Rosa",
+            "color": "rgb(245, 178, 180)"
+        },
+        {
+            "name": "Flan De Morango",
+            "color": "rgb(238, 161, 161)"
+        },
+        {
+            "name": "Rosa Poema",
+            "color": "rgb(233, 153, 156)"
+        },
+        {
+            "name": "Doceria",
+            "color": "rgb(244, 222, 219)"
+        },
+        {
+            "name": "Flor De Macieira",
+            "color": "rgb(235, 208, 205)"
+        },
+        {
+            "name": "Pedaço Do Céu",
+            "color": "rgb(234, 189, 188)"
+        },
+        {
+            "name": "Gérbera-Rosa",
+            "color": "rgb(234, 172, 176)"
+        },
+        {
+            "name": "Boina Rosa",
+            "color": "rgb(223, 151, 156)"
+        },
+        {
+            "name": "Rosa Fechado",
+            "color": "rgb(232, 147, 153)"
+        },
+        {
+            "name": "Balé Romântico",
+            "color": "rgb(241, 143, 151)"
+        },
+        {
+            "name": "Rosa-Bebê",
+            "color": "rgb(241, 220, 219)"
+        },
+        {
+            "name": "Rosa-Angelical",
+            "color": "rgb(243, 217, 213)"
+        },
+        {
+            "name": "Lírio-Rosa",
+            "color": "rgb(244, 212, 210)"
+        },
+        {
+            "name": "Talco Rosa",
+            "color": "rgb(247, 203, 208)"
+        },
+        {
+            "name": "Bicho-De-Pé",
+            "color": "rgb(246, 176, 188)"
+        },
+        {
+            "name": "Torta De Morango",
+            "color": "rgb(238, 169, 182)"
+        },
+        {
+            "name": "Rosa Mangueira",
+            "color": "rgb(243, 142, 159)"
+        },
+        {
+            "name": "Laçarote",
+            "color": "rgb(239, 227, 228)"
+        },
+        {
+            "name": "Rosa-Atrevido",
+            "color": "rgb(238, 216, 217)"
+        },
+        {
+            "name": "Pavê Gelado",
+            "color": "rgb(242, 213, 213)"
+        },
+        {
+            "name": "Tutti Frutti",
+            "color": "rgb(255, 206, 212)"
+        },
+        {
+            "name": "Rosa-Neon",
+            "color": "rgb(255, 182, 192)"
+        },
+        {
+            "name": "Buquê De Rosas",
+            "color": "rgb(230, 141, 159)"
+        },
+        {
+            "name": "Bola De Chiclete",
+            "color": "rgb(211, 121, 134)"
+        },
+        {
+            "name": "Doce Vício",
+            "color": "rgb(232, 216, 215)"
+        },
+        {
+            "name": "Rosa-Boneca",
+            "color": "rgb(232, 213, 212)"
+        },
+        {
+            "name": "Algodão Colorido",
+            "color": "rgb(230, 208, 210)"
+        },
+        {
+            "name": "Bordado Rosa",
+            "color": "rgb(233, 196, 198)"
+        },
+        {
+            "name": "Anos Dourados",
+            "color": "rgb(229, 175, 179)"
+        },
+        {
+            "name": "Babushka",
+            "color": "rgb(208, 145, 150)"
+        },
+        {
+            "name": "Rosa-Comportado",
+            "color": "rgb(189, 134, 137)"
+        },
+        {
+            "name": "Sapatilha De Ponta",
+            "color": "rgb(236, 212, 215)"
+        },
+        {
+            "name": "Pérola-Rosa",
+            "color": "rgb(236, 208, 213)"
+        },
+        {
+            "name": "Sorriso De Criança",
+            "color": "rgb(234, 205, 209)"
+        },
+        {
+            "name": "Céu De Outono",
+            "color": "rgb(217, 181, 186)"
+        },
+        {
+            "name": "Bala De Maçã",
+            "color": "rgb(226, 180, 187)"
+        },
+        {
+            "name": "Morango Com Suspiro",
+            "color": "rgb(214, 146, 158)"
+        },
+        {
+            "name": "Rosa-Floral",
+            "color": "rgb(190, 124, 131)"
+        },
+        {
+            "name": "Ilha Das Flores",
+            "color": "rgb(233, 217, 221)"
+        },
+        {
+            "name": "Purê De Maçã",
+            "color": "rgb(228, 205, 208)"
+        },
+        {
+            "name": "Penteadeira",
+            "color": "rgb(228, 187, 191)"
+        },
+        {
+            "name": "Caleidoscópio",
+            "color": "rgb(234, 194, 201)"
+        },
+        {
+            "name": "Rosa-Balé",
+            "color": "rgb(236, 183, 192)"
+        },
+        {
+            "name": "Sensação",
+            "color": "rgb(235, 166, 185)"
+        },
+        {
+            "name": "Tulipa-Rosa",
+            "color": "rgb(222, 131, 161)"
+        },
+        {
+            "name": "Beijo Doce",
+            "color": "rgb(235, 218, 224)"
+        },
+        {
+            "name": "Cacatua Rosa",
+            "color": "rgb(239, 217, 222)"
+        },
+        {
+            "name": "Beijo-De-Anjo",
+            "color": "rgb(246, 221, 232)"
+        },
+        {
+            "name": "Iogurte De Morango",
+            "color": "rgb(238, 201, 210)"
+        },
+        {
+            "name": "Flor-De-Lótus",
+            "color": "rgb(233, 194, 204)"
+        },
+        {
+            "name": "Morango Com Champanhe",
+            "color": "rgb(231, 176, 193)"
+        },
+        {
+            "name": "Rosa-Fantástico",
+            "color": "rgb(214, 132, 166)"
+        },
+        {
+            "name": "Fita De Seda",
+            "color": "rgb(241, 226, 230)"
+        },
+        {
+            "name": "Castiçal",
+            "color": "rgb(232, 213, 214)"
+        },
+        {
+            "name": "Rosa-Marquesa",
+            "color": "rgb(234, 215, 219)"
+        },
+        {
+            "name": "Longo Amor",
+            "color": "rgb(228, 205, 213)"
+        },
+        {
+            "name": "Sonho Rosa",
+            "color": "rgb(222, 187, 198)"
+        },
+        {
+            "name": "Begônia-Rosada",
+            "color": "rgb(223, 176, 190)"
+        },
+        {
+            "name": "Bala De Morango",
+            "color": "rgb(226, 172, 187)"
+        },
+        {
+            "name": "Carinho Intenso",
+            "color": "rgb(234, 218, 220)"
+        },
+        {
+            "name": "Brisa Suave",
+            "color": "rgb(225, 212, 215)"
+        },
+        {
+            "name": "Vestido De Seda",
+            "color": "rgb(224, 206, 210)"
+        },
+        {
+            "name": "Flor-De-Maio",
+            "color": "rgb(214, 196, 202)"
+        },
+        {
+            "name": "Cartas Guardadas",
+            "color": "rgb(214, 192, 196)"
+        },
+        {
+            "name": "Lenda De Amor",
+            "color": "rgb(213, 187, 195)"
+        },
+        {
+            "name": "Frapê De Uva",
+            "color": "rgb(206, 178, 191)"
+        },
+        {
+            "name": "Creme De Leite",
+            "color": "rgb(229, 217, 225)"
+        },
+        {
+            "name": "Manequim",
+            "color": "rgb(232, 206, 214)"
+        },
+        {
+            "name": "Conto De Fadas",
+            "color": "rgb(243, 212, 222)"
+        },
+        {
+            "name": "Delícia De Morango",
+            "color": "rgb(243, 209, 226)"
+        },
+        {
+            "name": "Sachê-De-Rosas",
+            "color": "rgb(234, 188, 205)"
+        },
+        {
+            "name": "Ternura",
+            "color": "rgb(212, 154, 177)"
+        },
+        {
+            "name": "Prímula-Rosa",
+            "color": "rgb(232, 162, 197)"
+        },
+        {
+            "name": "Rosa Suave",
+            "color": "rgb(237, 228, 235)"
+        },
+        {
+            "name": "Flor-De-Mandacaru",
+            "color": "rgb(244, 221, 233)"
+        },
+        {
+            "name": "Canção De Ninar",
+            "color": "rgb(242, 213, 228)"
+        },
+        {
+            "name": "Flor-De-Pessegueiro",
+            "color": "rgb(239, 205, 228)"
+        },
+        {
+            "name": "Rosa-Biquíni",
+            "color": "rgb(239, 188, 213)"
+        },
+        {
+            "name": "Ninfeia-Rosa",
+            "color": "rgb(225, 155, 182)"
+        },
+        {
+            "name": "Poção Do Amor",
+            "color": "rgb(204, 134, 154)"
+        },
+        {
+            "name": "Carinho De Mãe",
+            "color": "rgb(229, 214, 219)"
+        },
+        {
+            "name": "Echarpe De Seda",
+            "color": "rgb(225, 206, 214)"
+        },
+        {
+            "name": "Sorbet De Morango",
+            "color": "rgb(220, 192, 203)"
+        },
+        {
+            "name": "Dança Comigo",
+            "color": "rgb(215, 184, 200)"
+        },
+        {
+            "name": "Purpurina",
+            "color": "rgb(228, 180, 215)"
+        },
+        {
+            "name": "Rosa-Design",
+            "color": "rgb(226, 174, 205)"
+        },
+        {
+            "name": "Rosa-Debutante",
+            "color": "rgb(208, 147, 180)"
+        },
+        {
+            "name": "Pó De Arroz",
+            "color": "rgb(236, 218, 232)"
+        },
+        {
+            "name": "Aroma De Rosas",
+            "color": "rgb(232, 208, 227)"
+        },
+        {
+            "name": "Flor De Amoreira",
+            "color": "rgb(230, 205, 225)"
+        },
+        {
+            "name": "Pantufa",
+            "color": "rgb(215, 190, 210)"
+        },
+        {
+            "name": "Suave Lilás",
+            "color": "rgb(224, 196, 223)"
+        },
+        {
+            "name": "Festa À Fantasia",
+            "color": "rgb(216, 180, 210)"
+        },
+        {
+            "name": "Pétala De Orquídea",
+            "color": "rgb(218, 180, 216)"
+        },
+        {
+            "name": "Doce Inspiração",
+            "color": "rgb(221, 212, 221)"
+        },
+        {
+            "name": "Casaco De Lã",
+            "color": "rgb(216, 201, 212)"
+        },
+        {
+            "name": "Menina Charmosa",
+            "color": "rgb(212, 193, 205)"
+        },
+        {
+            "name": "Sinfonia",
+            "color": "rgb(206, 188, 203)"
+        },
+        {
+            "name": "Dia Da Noiva",
+            "color": "rgb(201, 180, 195)"
+        },
+        {
+            "name": "Flor-De-Manjericão",
+            "color": "rgb(205, 178, 198)"
+        },
+        {
+            "name": "Rosa-Inca",
+            "color": "rgb(205, 158, 187)"
+        },
+        {
+            "name": "Chuva De Pétalas",
+            "color": "rgb(222, 207, 229)"
+        },
+        {
+            "name": "Tulipa-Lilás",
+            "color": "rgb(204, 192, 216)"
+        },
+        {
+            "name": "Batida De Uva",
+            "color": "rgb(199, 188, 207)"
+        },
+        {
+            "name": "Saia De Crepe",
+            "color": "rgb(186, 170, 195)"
+        },
+        {
+            "name": "Ikebana",
+            "color": "rgb(215, 189, 225)"
+        },
+        {
+            "name": "Flor-De-Gerânio",
+            "color": "rgb(198, 163, 213)"
+        },
+        {
+            "name": "Flor De Valeriana",
+            "color": "rgb(196, 152, 192)"
+        },
+        {
+            "name": "Meu Diário",
+            "color": "rgb(203, 198, 223)"
+        },
+        {
+            "name": "Jardim De Infância",
+            "color": "rgb(205, 199, 225)"
+        },
+        {
+            "name": "Brisa Sublime",
+            "color": "rgb(207, 198, 229)"
+        },
+        {
+            "name": "Lavanda",
+            "color": "rgb(184, 171, 212)"
+        },
+        {
+            "name": "Mistura Encantada",
+            "color": "rgb(174, 161, 214)"
+        },
+        {
+            "name": "Flor De Melissa",
+            "color": "rgb(167, 159, 196)"
+        },
+        {
+            "name": "Tulipa Violeta",
+            "color": "rgb(162, 149, 191)"
+        },
+        {
+            "name": "Templo Dos Deuses",
+            "color": "rgb(188, 185, 213)"
+        },
+        {
+            "name": "Água De Cheiro",
+            "color": "rgb(188, 190, 223)"
+        },
+        {
+            "name": "Paixão Suave",
+            "color": "rgb(183, 185, 221)"
+        },
+        {
+            "name": "Cortina Infantil",
+            "color": "rgb(175, 171, 200)"
+        },
+        {
+            "name": "Mente Pura",
+            "color": "rgb(152, 148, 184)"
+        },
+        {
+            "name": "Alexandria",
+            "color": "rgb(144, 137, 175)"
+        },
+        {
+            "name": "Lilás",
+            "color": "rgb(143, 140, 183)"
+        },
+        {
+            "name": "Lembrança Feliz",
+            "color": "rgb(191, 196, 218)"
+        },
+        {
+            "name": "Patinação No Gelo",
+            "color": "rgb(198, 206, 233)"
+        },
+        {
+            "name": "Sachê De Lavanda",
+            "color": "rgb(167, 179, 213)"
+        },
+        {
+            "name": "Quarto De Bebê",
+            "color": "rgb(173, 183, 223)"
+        },
+        {
+            "name": "Quartzo Violeta",
+            "color": "rgb(160, 171, 215)"
+        },
+        {
+            "name": "Uva Tempranillo",
+            "color": "rgb(145, 157, 209)"
+        },
+        {
+            "name": "Jacinto",
+            "color": "rgb(125, 144, 196)"
+        },
+        {
+            "name": "Brisa Do Campo",
+            "color": "rgb(203, 214, 229)"
+        },
+        {
+            "name": "Céu De Inverno",
+            "color": "rgb(190, 202, 228)"
+        },
+        {
+            "name": "Miosótis",
+            "color": "rgb(157, 183, 215)"
+        },
+        {
+            "name": "Cor Do Céu",
+            "color": "rgb(147, 180, 215)"
+        },
+        {
+            "name": "Riacho Doce",
+            "color": "rgb(148, 177, 218)"
+        },
+        {
+            "name": "Tarde Colorida",
+            "color": "rgb(94, 151, 205)"
+        },
+        {
+            "name": "Planeta Azul",
+            "color": "rgb(85, 142, 187)"
+        },
+        {
+            "name": "Hortência Suave",
+            "color": "rgb(191, 213, 232)"
+        },
+        {
+            "name": "Azul-Marola",
+            "color": "rgb(175, 194, 205)"
+        },
+        {
+            "name": "Porcelana Azul",
+            "color": "rgb(173, 194, 205)"
+        },
+        {
+            "name": "Céu Nublado",
+            "color": "rgb(155, 175, 191)"
+        },
+        {
+            "name": "Amanhecer",
+            "color": "rgb(164, 194, 215)"
+        },
+        {
+            "name": "Vida Azul",
+            "color": "rgb(145, 187, 223)"
+        },
+        {
+            "name": "Céu De Brigadeiro",
+            "color": "rgb(125, 166, 206)"
+        },
+        {
+            "name": "Céu Limpo",
+            "color": "rgb(190, 218, 235)"
+        },
+        {
+            "name": "Segredo De Infância",
+            "color": "rgb(188, 207, 224)"
+        },
+        {
+            "name": "Liberdade Azul",
+            "color": "rgb(176, 205, 223)"
+        },
+        {
+            "name": "Opalina",
+            "color": "rgb(170, 208, 232)"
+        },
+        {
+            "name": "Céu Azul",
+            "color": "rgb(159, 207, 233)"
+        },
+        {
+            "name": "Lagoa Azul",
+            "color": "rgb(143, 198, 232)"
+        },
+        {
+            "name": "Brilho Solitário",
+            "color": "rgb(50, 159, 206)"
+        },
+        {
+            "name": "Suspiro Do Céu",
+            "color": "rgb(196, 224, 234)"
+        },
+        {
+            "name": "Espírito Livre",
+            "color": "rgb(175, 214, 228)"
+        },
+        {
+            "name": "Praia Grega",
+            "color": "rgb(171, 215, 233)"
+        },
+        {
+            "name": "Azul-Turquia",
+            "color": "rgb(171, 214, 235)"
+        },
+        {
+            "name": "Iceberg",
+            "color": "rgb(159, 210, 230)"
+        },
+        {
+            "name": "Ilhas Gregas",
+            "color": "rgb(117, 188, 225)"
+        },
+        {
+            "name": "Topázio Azul",
+            "color": "rgb(55, 165, 204)"
+        },
+        {
+            "name": "Céu Sereno",
+            "color": "rgb(199, 226, 237)"
+        },
+        {
+            "name": "Azul-Bebê",
+            "color": "rgb(183, 213, 229)"
+        },
+        {
+            "name": "Lago Congelado",
+            "color": "rgb(175, 199, 210)"
+        },
+        {
+            "name": "Onda Do Mar",
+            "color": "rgb(148, 180, 196)"
+        },
+        {
+            "name": "Azul-Guache",
+            "color": "rgb(126, 175, 201)"
+        },
+        {
+            "name": "Oceano Atlântico",
+            "color": "rgb(93, 155, 184)"
+        },
+        {
+            "name": "Azul-Retrô",
+            "color": "rgb(61, 135, 170)"
+        },
+        {
+            "name": "Capitólio",
+            "color": "rgb(201, 227, 238)"
+        },
+        {
+            "name": "Céu De Verão",
+            "color": "rgb(203, 228, 240)"
+        },
+        {
+            "name": "Azulejo De Casa",
+            "color": "rgb(192, 224, 236)"
+        },
+        {
+            "name": "Curva Do Vento",
+            "color": "rgb(162, 209, 224)"
+        },
+        {
+            "name": "Olhos Azuis",
+            "color": "rgb(156, 196, 218)"
+        },
+        {
+            "name": "Azul Celestial",
+            "color": "rgb(130, 208, 240)"
+        },
+        {
+            "name": "Azul-Glacial",
+            "color": "rgb(88, 175, 213)"
+        },
+        {
+            "name": "Reflexo Da Lua",
+            "color": "rgb(206, 229, 238)"
+        },
+        {
+            "name": "Encantado",
+            "color": "rgb(199, 226, 232)"
+        },
+        {
+            "name": "Dia Tranquilo",
+            "color": "rgb(178, 219, 231)"
+        },
+        {
+            "name": "Geleiras",
+            "color": "rgb(174, 219, 235)"
+        },
+        {
+            "name": "Bali",
+            "color": "rgb(139, 205, 225)"
+        },
+        {
+            "name": "Azul-Piscina",
+            "color": "rgb(135, 200, 224)"
+        },
+        {
+            "name": "Lago Argentino",
+            "color": "rgb(95, 163, 188)"
+        },
+        {
+            "name": "Montão De Trigo",
+            "color": "rgb(181, 212, 219)"
+        },
+        {
+            "name": "Porta-Do-Céu",
+            "color": "rgb(175, 209, 217)"
+        },
+        {
+            "name": "Zen",
+            "color": "rgb(170, 211, 221)"
+        },
+        {
+            "name": "Ágata Azul",
+            "color": "rgb(166, 202, 214)"
+        },
+        {
+            "name": "Porto Seguro",
+            "color": "rgb(122, 181, 203)"
+        },
+        {
+            "name": "Gelatina De Tutti Frutti",
+            "color": "rgb(78, 177, 205)"
+        },
+        {
+            "name": "Férias No Caribe",
+            "color": "rgb(2, 156, 187)"
+        },
+        {
+            "name": "Angra Dos Reis",
+            "color": "rgb(186, 217, 223)"
+        },
+        {
+            "name": "Céu Estrelado",
+            "color": "rgb(189, 214, 218)"
+        },
+        {
+            "name": "Pingo De Chuva",
+            "color": "rgb(187, 216, 221)"
+        },
+        {
+            "name": "Azul-Refrescante",
+            "color": "rgb(169, 222, 228)"
+        },
+        {
+            "name": "Olho Da Alma",
+            "color": "rgb(145, 213, 224)"
+        },
+        {
+            "name": "Brisa Azul",
+            "color": "rgb(109, 194, 207)"
+        },
+        {
+            "name": "Laço Azul",
+            "color": "rgb(79, 170, 183)"
+        },
+        {
+            "name": "Lagoa Sagrada",
+            "color": "rgb(193, 221, 225)"
+        },
+        {
+            "name": "Espelho Do Céu",
+            "color": "rgb(193, 228, 231)"
+        },
+        {
+            "name": "Verde-Marina",
+            "color": "rgb(169, 211, 210)"
+        },
+        {
+            "name": "Pedra Preciosa",
+            "color": "rgb(157, 203, 204)"
+        },
+        {
+            "name": "Matelassê",
+            "color": "rgb(152, 216, 222)"
+        },
+        {
+            "name": "Taiti",
+            "color": "rgb(121, 210, 218)"
+        },
+        {
+            "name": "Apatita",
+            "color": "rgb(67, 190, 202)"
+        },
+        {
+            "name": "Mar Calmo",
+            "color": "rgb(191, 215, 213)"
+        },
+        {
+            "name": "Brisa Da Montanha",
+            "color": "rgb(165, 203, 199)"
+        },
+        {
+            "name": "Cerca-Viva",
+            "color": "rgb(148, 190, 190)"
+        },
+        {
+            "name": "Bicicleta",
+            "color": "rgb(136, 193, 193)"
+        },
+        {
+            "name": "Oceano Índico",
+            "color": "rgb(144, 207, 205)"
+        },
+        {
+            "name": "Mar Mediterrâneo",
+            "color": "rgb(121, 184, 179)"
+        },
+        {
+            "name": "Mar Caribenho",
+            "color": "rgb(118, 185, 184)"
+        },
+        {
+            "name": "Água De Degelo",
+            "color": "rgb(200, 224, 217)"
+        },
+        {
+            "name": "Verde-Sereno",
+            "color": "rgb(197, 224, 220)"
+        },
+        {
+            "name": "Verde-Aquático",
+            "color": "rgb(199, 238, 229)"
+        },
+        {
+            "name": "Sapatilha Verde",
+            "color": "rgb(189, 234, 224)"
+        },
+        {
+            "name": "Soda Italiana",
+            "color": "rgb(164, 226, 211)"
+        },
+        {
+            "name": "Bolinha De Gude",
+            "color": "rgb(147, 191, 184)"
+        },
+        {
+            "name": "Litoral Sul",
+            "color": "rgb(118, 182, 172)"
+        },
+        {
+            "name": "Verde-Lunar",
+            "color": "rgb(191, 230, 220)"
+        },
+        {
+            "name": "Verde-Cristalino",
+            "color": "rgb(185, 231, 220)"
+        },
+        {
+            "name": "Suspenso No Ar",
+            "color": "rgb(181, 226, 214)"
+        },
+        {
+            "name": "Manta De Bebê",
+            "color": "rgb(174, 223, 210)"
+        },
+        {
+            "name": "Mar De Bitingui",
+            "color": "rgb(149, 217, 205)"
+        },
+        {
+            "name": "Camaleão",
+            "color": "rgb(116, 206, 194)"
+        },
+        {
+            "name": "Verde-Nostalgia",
+            "color": "rgb(72, 192, 178)"
+        },
+        {
+            "name": "Verde-Catamarã",
+            "color": "rgb(178, 207, 197)"
+        },
+        {
+            "name": "Verde-Açucarado",
+            "color": "rgb(170, 207, 199)"
+        },
+        {
+            "name": "Pasta De Dentes",
+            "color": "rgb(156, 211, 199)"
+        },
+        {
+            "name": "Mar De Maragogi",
+            "color": "rgb(152, 218, 202)"
+        },
+        {
+            "name": "Alto-Mar",
+            "color": "rgb(128, 202, 182)"
+        },
+        {
+            "name": "Onda Verde",
+            "color": "rgb(120, 207, 187)"
+        },
+        {
+            "name": "Verde-Nascente",
+            "color": "rgb(96, 196, 174)"
+        },
+        {
+            "name": "Água-Viva",
+            "color": "rgb(213, 238, 228)"
+        },
+        {
+            "name": "Suspiro Mentolado",
+            "color": "rgb(202, 238, 221)"
+        },
+        {
+            "name": "Igarapé",
+            "color": "rgb(193, 233, 215)"
+        },
+        {
+            "name": "Rádio Retrô",
+            "color": "rgb(187, 235, 216)"
+        },
+        {
+            "name": "Equilíbrio",
+            "color": "rgb(176, 225, 210)"
+        },
+        {
+            "name": "Miami Beach",
+            "color": "rgb(164, 228, 205)"
+        },
+        {
+            "name": "Verde-Tropical",
+            "color": "rgb(88, 199, 166)"
+        },
+        {
+            "name": "Verde-Surfe",
+            "color": "rgb(197, 223, 214)"
+        },
+        {
+            "name": "Vida Aquática",
+            "color": "rgb(191, 230, 218)"
+        },
+        {
+            "name": "Artista De Circo",
+            "color": "rgb(188, 232, 215)"
+        },
+        {
+            "name": "Fruta-Pão",
+            "color": "rgb(190, 227, 211)"
+        },
+        {
+            "name": "Sereia Do Mar",
+            "color": "rgb(187, 231, 207)"
+        },
+        {
+            "name": "Rio Bonito",
+            "color": "rgb(173, 224, 200)"
+        },
+        {
+            "name": "Sonho E Fantasia",
+            "color": "rgb(92, 178, 151)"
+        },
+        {
+            "name": "Verde-Gasoso",
+            "color": "rgb(212, 227, 218)"
+        },
+        {
+            "name": "Sorvete De Pistache",
+            "color": "rgb(205, 224, 208)"
+        },
+        {
+            "name": "Verde-Silencioso",
+            "color": "rgb(184, 209, 195)"
+        },
+        {
+            "name": "Verde-Boêmia",
+            "color": "rgb(177, 214, 192)"
+        },
+        {
+            "name": "Rio Límpido",
+            "color": "rgb(148, 218, 182)"
+        },
+        {
+            "name": "Verde-Campestre",
+            "color": "rgb(130, 212, 179)"
+        },
+        {
+            "name": "Xarope De Menta",
+            "color": "rgb(83, 193, 153)"
+        },
+        {
+            "name": "Verde-Pálido",
+            "color": "rgb(218, 236, 224)"
+        },
+        {
+            "name": "Pufe",
+            "color": "rgb(215, 235, 220)"
+        },
+        {
+            "name": "Belíssima",
+            "color": "rgb(202, 231, 216)"
+        },
+        {
+            "name": "Sereia",
+            "color": "rgb(176, 229, 195)"
+        },
+        {
+            "name": "Verde-Piscina",
+            "color": "rgb(155, 222, 182)"
+        },
+        {
+            "name": "Hortelã Fresca",
+            "color": "rgb(127, 208, 160)"
+        },
+        {
+            "name": "Primaveril",
+            "color": "rgb(104, 177, 143)"
+        },
+        {
+            "name": "Esperança",
+            "color": "rgb(209, 225, 212)"
+        },
+        {
+            "name": "Verde-Triunfo",
+            "color": "rgb(205, 234, 205)"
+        },
+        {
+            "name": "Drinque Refrescante",
+            "color": "rgb(202, 235, 205)"
+        },
+        {
+            "name": "Verde-Pátina",
+            "color": "rgb(194, 229, 192)"
+        },
+        {
+            "name": "Lago Frias",
+            "color": "rgb(181, 225, 179)"
+        },
+        {
+            "name": "Selva Encantada",
+            "color": "rgb(115, 197, 134)"
+        },
+        {
+            "name": "Verde-Trevo",
+            "color": "rgb(101, 180, 117)"
+        },
+        {
+            "name": "Verde-Gélido",
+            "color": "rgb(212, 232, 207)"
+        },
+        {
+            "name": "Verde-Preguiça",
+            "color": "rgb(202, 222, 196)"
+        },
+        {
+            "name": "Coco-Verde",
+            "color": "rgb(184, 212, 180)"
+        },
+        {
+            "name": "Folclore",
+            "color": "rgb(176, 220, 177)"
+        },
+        {
+            "name": "Pistache",
+            "color": "rgb(160, 200, 154)"
+        },
+        {
+            "name": "Colibri",
+            "color": "rgb(153, 205, 148)"
+        },
+        {
+            "name": "Estância",
+            "color": "rgb(127, 177, 120)"
+        },
+        {
+            "name": "Regata",
+            "color": "rgb(207, 219, 195)"
+        },
+        {
+            "name": "Passeio Ecológico",
+            "color": "rgb(184, 205, 181)"
+        },
+        {
+            "name": "Maçã Verde",
+            "color": "rgb(184, 205, 176)"
+        },
+        {
+            "name": "Alto Da Colina",
+            "color": "rgb(171, 193, 158)"
+        },
+        {
+            "name": "Verde-Orgânico",
+            "color": "rgb(170, 197, 166)"
+        },
+        {
+            "name": "Verde-Pastel",
+            "color": "rgb(159, 183, 156)"
+        },
+        {
+            "name": "Eucalipto",
+            "color": "rgb(133, 164, 133)"
+        },
+        {
+            "name": "Afrodite",
+            "color": "rgb(225, 234, 213)"
+        },
+        {
+            "name": "Brotinho",
+            "color": "rgb(214, 225, 197)"
+        },
+        {
+            "name": "Sorvete De Menta",
+            "color": "rgb(191, 210, 162)"
+        },
+        {
+            "name": "Pimenta-Verde",
+            "color": "rgb(191, 209, 163)"
+        },
+        {
+            "name": "Ervas Finas",
+            "color": "rgb(188, 211, 164)"
+        },
+        {
+            "name": "Colônia De Alecrim",
+            "color": "rgb(194, 226, 173)"
+        },
+        {
+            "name": "Suco De Clorofila",
+            "color": "rgb(175, 223, 154)"
+        },
+        {
+            "name": "Fábula",
+            "color": "rgb(212, 226, 191)"
+        },
+        {
+            "name": "Som Da Mata",
+            "color": "rgb(211, 230, 193)"
+        },
+        {
+            "name": "Verde-Supremo",
+            "color": "rgb(208, 231, 187)"
+        },
+        {
+            "name": "Paraíso Tropical",
+            "color": "rgb(204, 233, 183)"
+        },
+        {
+            "name": "Vela Verde",
+            "color": "rgb(206, 232, 162)"
+        },
+        {
+            "name": "Verde-Paraíso",
+            "color": "rgb(193, 223, 147)"
+        },
+        {
+            "name": "Bambu Amazônico",
+            "color": "rgb(181, 217, 121)"
+        },
+        {
+            "name": "Mergulho No Mar",
+            "color": "rgb(227, 235, 214)"
+        },
+        {
+            "name": "Geladinho",
+            "color": "rgb(230, 239, 210)"
+        },
+        {
+            "name": "Chenile",
+            "color": "rgb(223, 231, 193)"
+        },
+        {
+            "name": "Menta Suave",
+            "color": "rgb(223, 234, 191)"
+        },
+        {
+            "name": "Maxixe",
+            "color": "rgb(219, 236, 187)"
+        },
+        {
+            "name": "Flor Do Antúrio",
+            "color": "rgb(206, 221, 160)"
+        },
+        {
+            "name": "Fruta-Do-Conde",
+            "color": "rgb(175, 189, 134)"
+        },
+        {
+            "name": "Suco De Limão",
+            "color": "rgb(228, 235, 210)"
+        },
+        {
+            "name": "Grappa",
+            "color": "rgb(220, 229, 182)"
+        },
+        {
+            "name": "Batida De Limão",
+            "color": "rgb(218, 233, 177)"
+        },
+        {
+            "name": "Absinto",
+            "color": "rgb(211, 230, 165)"
+        },
+        {
+            "name": "Carambola-Verde",
+            "color": "rgb(213, 233, 163)"
+        },
+        {
+            "name": "Limoncello",
+            "color": "rgb(211, 225, 137)"
+        },
+        {
+            "name": "Folha De Menta",
+            "color": "rgb(196, 214, 107)"
+        },
+        {
+            "name": "Menta Fresca",
+            "color": "rgb(230, 237, 204)"
+        },
+        {
+            "name": "Chá De Erva-Doce",
+            "color": "rgb(230, 236, 198)"
+        },
+        {
+            "name": "Margarita Frozen",
+            "color": "rgb(228, 235, 186)"
+        },
+        {
+            "name": "Chiclete De Menta",
+            "color": "rgb(229, 237, 179)"
+        },
+        {
+            "name": "Uva Moscatel",
+            "color": "rgb(219, 230, 159)"
+        },
+        {
+            "name": "Alface Americana",
+            "color": "rgb(219, 228, 144)"
+        },
+        {
+            "name": "Refresco De Limão",
+            "color": "rgb(211, 224, 131)"
+        },
+        {
+            "name": "Margem De Rio",
+            "color": "rgb(218, 221, 194)"
+        },
+        {
+            "name": "Baile Da Primavera",
+            "color": "rgb(228, 234, 196)"
+        },
+        {
+            "name": "Berilo",
+            "color": "rgb(228, 234, 191)"
+        },
+        {
+            "name": "Verde-Equilíbrio",
+            "color": "rgb(227, 232, 163)"
+        },
+        {
+            "name": "Jardim De Primavera",
+            "color": "rgb(227, 237, 163)"
+        },
+        {
+            "name": "Sorvete De Abacate",
+            "color": "rgb(221, 233, 145)"
+        },
+        {
+            "name": "Aloe Vera",
+            "color": "rgb(220, 232, 135)"
+        },
+        {
+            "name": "Dente-De-Leão",
+            "color": "rgb(227, 229, 209)"
+        },
+        {
+            "name": "Glacê De Limão",
+            "color": "rgb(243, 243, 212)"
+        },
+        {
+            "name": "Acolhedor",
+            "color": "rgb(232, 231, 194)"
+        },
+        {
+            "name": "Brilho De Grama",
+            "color": "rgb(229, 232, 169)"
+        },
+        {
+            "name": "Bolo De Limão",
+            "color": "rgb(247, 250, 168)"
+        },
+        {
+            "name": "Pera",
+            "color": "rgb(231, 234, 133)"
+        },
+        {
+            "name": "Limão Ardente",
+            "color": "rgb(230, 233, 110)"
+        },
+        {
+            "name": "Praia Deserta",
+            "color": "rgb(225, 224, 205)"
+        },
+        {
+            "name": "Grande Jornada",
+            "color": "rgb(230, 232, 209)"
+        },
+        {
+            "name": "Capim-Santo",
+            "color": "rgb(231, 230, 192)"
+        },
+        {
+            "name": "Limão Com Mel",
+            "color": "rgb(229, 227, 191)"
+        },
+        {
+            "name": "Creme De Abacate",
+            "color": "rgb(218, 218, 169)"
+        },
+        {
+            "name": "Vitamina De Abacate",
+            "color": "rgb(226, 220, 145)"
+        },
+        {
+            "name": "Raspa De Limão",
+            "color": "rgb(225, 221, 144)"
+        },
+        {
+            "name": "Gelo E Limão",
+            "color": "rgb(232, 231, 207)"
+        },
+        {
+            "name": "Doce De Limão",
+            "color": "rgb(240, 236, 192)"
+        },
+        {
+            "name": "Laranja-Lima",
+            "color": "rgb(232, 230, 168)"
+        },
+        {
+            "name": "Teatro De Fantoches",
+            "color": "rgb(231, 228, 159)"
+        },
+        {
+            "name": "Verde-Cativante",
+            "color": "rgb(226, 217, 146)"
+        },
+        {
+            "name": "Polpa De Graviola",
+            "color": "rgb(227, 219, 143)"
+        },
+        {
+            "name": "Plumária",
+            "color": "rgb(235, 228, 107)"
+        }
+    ],
+
+    "intensasevibrantes": [
+        {
+            "name": "Dia De Sorte",
+            "color": "rgb(255, 226, 79)"
+        },
+        {
+            "name": "Sorbet De Manga",
+            "color": "rgb(251, 220, 69)"
+        },
+        {
+            "name": "Canário-Da-Terra",
+            "color": "rgb(252, 218, 61)"
+        },
+        {
+            "name": "Melão Maduro",
+            "color": "rgb(250, 216, 77)"
+        },
+        {
+            "name": "Amarelo Real",
+            "color": "rgb(249, 212, 40)"
+        },
+        {
+            "name": "Amarelo-Bandeira",
+            "color": "rgb(242, 203, 21)"
+        },
+        {
+            "name": "Mostarda Picante",
+            "color": "rgb(237, 196, 35)"
+        },
+        {
+            "name": "Quindim",
+            "color": "rgb(250, 209, 23)"
+        },
+        {
+            "name": "Raio Solar",
+            "color": "rgb(255, 208, 0)"
+        },
+        {
+            "name": "Brilho Quente",
+            "color": "rgb(255, 211, 0)"
+        },
+        {
+            "name": "Margarida Primavera",
+            "color": "rgb(255, 204, 0)"
+        },
+        {
+            "name": "Delícia De Milho",
+            "color": "rgb(255, 208, 48)"
+        },
+        {
+            "name": "Ipê-Amarelo",
+            "color": "rgb(244, 198, 48)"
+        },
+        {
+            "name": "Mostarda Americana",
+            "color": "rgb(230, 187, 0)"
+        },
+        {
+            "name": "Buquê De Callas",
+            "color": "rgb(255, 195, 20)"
+        },
+        {
+            "name": "Pote De Ouro",
+            "color": "rgb(249, 183, 18)"
+        },
+        {
+            "name": "Doce De Cajá",
+            "color": "rgb(243, 179, 0)"
+        },
+        {
+            "name": "Sol Nascente",
+            "color": "rgb(254, 176, 0)"
+        },
+        {
+            "name": "Crisântemo Amarelo",
+            "color": "rgb(255, 181, 44)"
+        },
+        {
+            "name": "Manga",
+            "color": "rgb(251, 175, 41)"
+        },
+        {
+            "name": "Gema Caipira",
+            "color": "rgb(243, 169, 58)"
+        },
+        {
+            "name": "Pétala Laranja\n\n12",
+            "color": "rgb(241, 173, 68)"
+        },
+        {
+            "name": "Bolo De Banana",
+            "color": "rgb(243, 158, 0)"
+        },
+        {
+            "name": "Cobertura De Laranja",
+            "color": "rgb(247, 156, 19)"
+        },
+        {
+            "name": "Frevo",
+            "color": "rgb(245, 163, 54)"
+        },
+        {
+            "name": "Miçanga",
+            "color": "rgb(253, 163, 51)"
+        },
+        {
+            "name": "Fascínio",
+            "color": "rgb(245, 153, 29)"
+        },
+        {
+            "name": "Estrada Da Fazenda",
+            "color": "rgb(225, 140, 55)"
+        },
+        {
+            "name": "Sacode",
+            "color": "rgb(249, 163, 83)"
+        },
+        {
+            "name": "Laranja Pop",
+            "color": "rgb(245, 161, 74)"
+        },
+        {
+            "name": "Doce De Gengibre",
+            "color": "rgb(255, 168, 59)"
+        },
+        {
+            "name": "Mamão Com Açucar",
+            "color": "rgb(249, 143, 13)"
+        },
+        {
+            "name": "Telha Molhada",
+            "color": "rgb(235, 135, 24)"
+        },
+        {
+            "name": "Maracatu",
+            "color": "rgb(235, 136, 16)"
+        },
+        {
+            "name": "Abóbora",
+            "color": "rgb(226, 145, 71)"
+        },
+        {
+            "name": "Folhas De Outono",
+            "color": "rgb(248, 164, 90)"
+        },
+        {
+            "name": "Cúrcuma",
+            "color": "rgb(240, 151, 61)"
+        },
+        {
+            "name": "África",
+            "color": "rgb(246, 149, 62)"
+        },
+        {
+            "name": "Festa Junina",
+            "color": "rgb(248, 153, 74)"
+        },
+        {
+            "name": "Tapete Marroquino",
+            "color": "rgb(242, 138, 33)"
+        },
+        {
+            "name": "Paisagem De Marte",
+            "color": "rgb(213, 133, 69)"
+        },
+        {
+            "name": "Cupuaçu",
+            "color": "rgb(203, 118, 36)"
+        },
+        {
+            "name": "Alaranjado Vintage",
+            "color": "rgb(255, 167, 92)"
+        },
+        {
+            "name": "Rosa-Alaranjada",
+            "color": "rgb(255, 151, 72)"
+        },
+        {
+            "name": "Energia",
+            "color": "rgb(244, 140, 70)"
+        },
+        {
+            "name": "Delícia De Laranja",
+            "color": "rgb(241, 138, 57)"
+        },
+        {
+            "name": "Tangerina Fresca",
+            "color": "rgb(243, 136, 60)"
+        },
+        {
+            "name": "Marrakesh",
+            "color": "rgb(248, 126, 8)"
+        },
+        {
+            "name": "Pôr-Do-Sol",
+            "color": "rgb(232, 126, 45)"
+        },
+        {
+            "name": "Ocre",
+            "color": "rgb(224, 145, 88)"
+        },
+        {
+            "name": "Anos Setenta",
+            "color": "rgb(227, 131, 64)"
+        },
+        {
+            "name": "Laranja Colonial",
+            "color": "rgb(226, 129, 71)"
+        },
+        {
+            "name": "Flor Capuchinha",
+            "color": "rgb(220, 123, 63)"
+        },
+        {
+            "name": "Tijolo Queimado",
+            "color": "rgb(205, 125, 71)"
+        },
+        {
+            "name": "Amber",
+            "color": "rgb(191, 111, 63)"
+        },
+        {
+            "name": "Tijolo",
+            "color": "rgb(193, 108, 69)"
+        },
+        {
+            "name": "Sol De Inverno",
+            "color": "rgb(249, 148, 82)"
+        },
+        {
+            "name": "Vitamina De Papaia",
+            "color": "rgb(239, 138, 78)"
+        },
+        {
+            "name": "Suco De Cenoura",
+            "color": "rgb(238, 140, 85)"
+        },
+        {
+            "name": "Afrobeat",
+            "color": "rgb(237, 125, 59)"
+        },
+        {
+            "name": "General",
+            "color": "rgb(234, 120, 59)"
+        },
+        {
+            "name": "Carnaval",
+            "color": "rgb(247, 115, 21)"
+        },
+        {
+            "name": "Geleia De Goiaba",
+            "color": "rgb(213, 104, 49)"
+        },
+        {
+            "name": "Samba",
+            "color": "rgb(230, 132, 83)"
+        },
+        {
+            "name": "Cajá",
+            "color": "rgb(237, 134, 91)"
+        },
+        {
+            "name": "Caqui",
+            "color": "rgb(234, 132, 93)"
+        },
+        {
+            "name": "Peixe Palhaço",
+            "color": "rgb(228, 114, 61)"
+        },
+        {
+            "name": "Brasa",
+            "color": "rgb(222, 108, 60)"
+        },
+        {
+            "name": "Papoula",
+            "color": "rgb(220, 106, 64)"
+        },
+        {
+            "name": "Calor De Dubai",
+            "color": "rgb(223, 95, 38)"
+        },
+        {
+            "name": "Calêndula",
+            "color": "rgb(235, 139, 113)"
+        },
+        {
+            "name": "Begônia Alaranjada",
+            "color": "rgb(234, 131, 95)"
+        },
+        {
+            "name": "Tafetá",
+            "color": "rgb(234, 126, 98)"
+        },
+        {
+            "name": "Primeiro Beijo",
+            "color": "rgb(211, 105, 85)"
+        },
+        {
+            "name": "Semente De Guaraná",
+            "color": "rgb(225, 103, 82)"
+        },
+        {
+            "name": "Pitanga",
+            "color": "rgb(210, 91, 72)"
+        },
+        {
+            "name": "Vermelho-Jalapeño",
+            "color": "rgb(213, 73, 57)"
+        },
+        {
+            "name": "Flor-De-São-João",
+            "color": "rgb(217, 99, 64)"
+        },
+        {
+            "name": "Fogo",
+            "color": "rgb(214, 88, 57)"
+        },
+        {
+            "name": "Páprica",
+            "color": "rgb(196, 88, 63)"
+        },
+        {
+            "name": "Vaso De Barro",
+            "color": "rgb(173, 80, 47)"
+        },
+        {
+            "name": "Terracota",
+            "color": "rgb(159, 79, 57)"
+        },
+        {
+            "name": "Ferrugem",
+            "color": "rgb(163, 89, 64)"
+        },
+        {
+            "name": "Sol Da Tarde",
+            "color": "rgb(229, 128, 107)"
+        },
+        {
+            "name": "Solarium",
+            "color": "rgb(233, 118, 104)"
+        },
+        {
+            "name": "Coroa Imperial",
+            "color": "rgb(230, 111, 97)"
+        },
+        {
+            "name": "Telha Nova",
+            "color": "rgb(200, 99, 85)"
+        },
+        {
+            "name": "Barro Vermelho",
+            "color": "rgb(180, 99, 80)"
+        },
+        {
+            "name": "Vesúvio",
+            "color": "rgb(160, 64, 51)"
+        },
+        {
+            "name": "Antúrio",
+            "color": "rgb(172, 68, 60)"
+        },
+        {
+            "name": "Zimbro",
+            "color": "rgb(236, 124, 110)"
+        },
+        {
+            "name": "Picante",
+            "color": "rgb(220, 94, 82)"
+        },
+        {
+            "name": "Flamboyant",
+            "color": "rgb(202, 79, 67)"
+        },
+        {
+            "name": "Pingente De Rubi",
+            "color": "rgb(176, 59, 44)"
+        },
+        {
+            "name": "Rosa Mosqueta",
+            "color": "rgb(185, 63, 54)"
+        },
+        {
+            "name": "Devoção",
+            "color": "rgb(184, 39, 42)"
+        },
+        {
+            "name": "Rosa-Vermelha",
+            "color": "rgb(200, 55, 56)"
+        },
+        {
+            "name": "Lona De Circo",
+            "color": "rgb(233, 120, 116)"
+        },
+        {
+            "name": "Romance De Verão",
+            "color": "rgb(211, 83, 82)"
+        },
+        {
+            "name": "Vermelho-Escarlate",
+            "color": "rgb(215, 75, 83)"
+        },
+        {
+            "name": "Vermelho-Amor",
+            "color": "rgb(205, 66, 68)"
+        },
+        {
+            "name": "Pura Luxúria",
+            "color": "rgb(181, 54, 58)"
+        },
+        {
+            "name": "Jaspe",
+            "color": "rgb(167, 60, 61)"
+        },
+        {
+            "name": "Rouge",
+            "color": "rgb(152, 50, 48)"
+        },
+        {
+            "name": "Cravo-Rosa",
+            "color": "rgb(226, 122, 118)"
+        },
+        {
+            "name": "Melancia",
+            "color": "rgb(220, 92, 88)"
+        },
+        {
+            "name": "Romã",
+            "color": "rgb(208, 72, 72)"
+        },
+        {
+            "name": "Enlace",
+            "color": "rgb(195, 58, 58)"
+        },
+        {
+            "name": "Morango",
+            "color": "rgb(192, 64, 66)"
+        },
+        {
+            "name": "Valentino",
+            "color": "rgb(198, 38, 45)"
+        },
+        {
+            "name": "Vermelho-Contemporâneo",
+            "color": "rgb(153, 44, 45)"
+        },
+        {
+            "name": "Pimenta-Rosa",
+            "color": "rgb(212, 88, 91)"
+        },
+        {
+            "name": "Vida Intensa",
+            "color": "rgb(189, 42, 60)"
+        },
+        {
+            "name": "Maçã Do Amor",
+            "color": "rgb(193, 64, 76)"
+        },
+        {
+            "name": "Amor Fatal",
+            "color": "rgb(174, 23, 46)"
+        },
+        {
+            "name": "Cereja",
+            "color": "rgb(168, 41, 57)"
+        },
+        {
+            "name": "Desejo",
+            "color": "rgb(132, 48, 56)"
+        },
+        {
+            "name": "Bolsa De Veludo",
+            "color": "rgb(125, 39, 50)"
+        },
+        {
+            "name": "Goiaba",
+            "color": "rgb(222, 118, 124)"
+        },
+        {
+            "name": "Jardim De Princesa",
+            "color": "rgb(223, 86, 95)"
+        },
+        {
+            "name": "Baile De Gala",
+            "color": "rgb(191, 42, 65)"
+        },
+        {
+            "name": "Paixão Inspiradora",
+            "color": "rgb(175, 45, 59)"
+        },
+        {
+            "name": "Cabelos Ao Vento",
+            "color": "rgb(169, 40, 58)"
+        },
+        {
+            "name": "Rubi",
+            "color": "rgb(145, 68, 76)"
+        },
+        {
+            "name": "Belvedere",
+            "color": "rgb(116, 33, 52)"
+        },
+        {
+            "name": "Mousse De Iogurte",
+            "color": "rgb(245, 168, 172)"
+        },
+        {
+            "name": "Sorvete De Melancia",
+            "color": "rgb(217, 100, 114)"
+        },
+        {
+            "name": "Verso Imoral",
+            "color": "rgb(215, 73, 97)"
+        },
+        {
+            "name": "Magia",
+            "color": "rgb(169, 50, 72)"
+        },
+        {
+            "name": "Altas Horas",
+            "color": "rgb(172, 37, 68)"
+        },
+        {
+            "name": "Suco De Framboesa",
+            "color": "rgb(164, 45, 70)"
+        },
+        {
+            "name": "Encontro Ardente",
+            "color": "rgb(165, 41, 80)"
+        },
+        {
+            "name": "Pluméria Rubra",
+            "color": "rgb(222, 111, 132)"
+        },
+        {
+            "name": "Alto-Astral",
+            "color": "rgb(224, 100, 126)"
+        },
+        {
+            "name": "Beleza Pura",
+            "color": "rgb(209, 77, 107)"
+        },
+        {
+            "name": "Frutas Vermelhas",
+            "color": "rgb(187, 84, 105)"
+        },
+        {
+            "name": "Framboesa",
+            "color": "rgb(188, 85, 103)"
+        },
+        {
+            "name": "Samba Popular",
+            "color": "rgb(195, 63, 94)"
+        },
+        {
+            "name": "Carmesim",
+            "color": "rgb(180, 74, 99)"
+        },
+        {
+            "name": "Gelatina De Framboesa",
+            "color": "rgb(191, 109, 135)"
+        },
+        {
+            "name": "Rosa-Chiclete",
+            "color": "rgb(201, 99, 134)"
+        },
+        {
+            "name": "Pitaia-Vermelha",
+            "color": "rgb(195, 95, 123)"
+        },
+        {
+            "name": "Doce Paixão",
+            "color": "rgb(197, 86, 118)"
+        },
+        {
+            "name": "Buquê-De-Noiva",
+            "color": "rgb(180, 80, 115)"
+        },
+        {
+            "name": "Batom De Cereja",
+            "color": "rgb(145, 67, 86)"
+        },
+        {
+            "name": "Vibração Selvagem",
+            "color": "rgb(108, 45, 68)"
+        },
+        {
+            "name": "Laço De Presente",
+            "color": "rgb(188, 114, 141)"
+        },
+        {
+            "name": "Esmalte Rosa",
+            "color": "rgb(203, 110, 147)"
+        },
+        {
+            "name": "Carmim",
+            "color": "rgb(173, 83, 116)"
+        },
+        {
+            "name": "Magenta",
+            "color": "rgb(193, 83, 125)"
+        },
+        {
+            "name": "Sapato De Salto",
+            "color": "rgb(157, 63, 99)"
+        },
+        {
+            "name": "Rosa Vibrante",
+            "color": "rgb(162, 33, 95)"
+        },
+        {
+            "name": "Passado Intenso",
+            "color": "rgb(140, 40, 80)"
+        },
+        {
+            "name": "Pink",
+            "color": "rgb(220, 134, 174)"
+        },
+        {
+            "name": "Maravilha",
+            "color": "rgb(205, 101, 159)"
+        },
+        {
+            "name": "Rosa-Choque",
+            "color": "rgb(188, 81, 135)"
+        },
+        {
+            "name": "Rosa-Intenso",
+            "color": "rgb(164, 55, 101)"
+        },
+        {
+            "name": "Açaí",
+            "color": "rgb(131, 76, 99)"
+        },
+        {
+            "name": "Roxo-Obsessão",
+            "color": "rgb(106, 45, 77)"
+        },
+        {
+            "name": "Romance",
+            "color": "rgb(113, 63, 88)"
+        },
+        {
+            "name": "Jantar Romântico",
+            "color": "rgb(172, 91, 136)"
+        },
+        {
+            "name": "Estojo De Beleza",
+            "color": "rgb(159, 84, 126)"
+        },
+        {
+            "name": "Lambada",
+            "color": "rgb(151, 75, 107)"
+        },
+        {
+            "name": "Fúcsia",
+            "color": "rgb(154, 68, 112)"
+        },
+        {
+            "name": "Pecado Original",
+            "color": "rgb(150, 65, 107)"
+        },
+        {
+            "name": "Luxúria",
+            "color": "rgb(138, 63, 104)"
+        },
+        {
+            "name": "Beterraba",
+            "color": "rgb(130, 62, 94)"
+        },
+        {
+            "name": "Hortência-Rosa",
+            "color": "rgb(211, 144, 185)"
+        },
+        {
+            "name": "Lantejoula",
+            "color": "rgb(209, 138, 189)"
+        },
+        {
+            "name": "Dália-Rosa",
+            "color": "rgb(187, 118, 158)"
+        },
+        {
+            "name": "Ipê-Rosa",
+            "color": "rgb(192, 113, 158)"
+        },
+        {
+            "name": "Opala-Nobre",
+            "color": "rgb(195, 112, 169)"
+        },
+        {
+            "name": "Manacá-Da-Serra",
+            "color": "rgb(183, 97, 155)"
+        },
+        {
+            "name": "Jardim De Azaleias",
+            "color": "rgb(167, 81, 135)"
+        },
+        {
+            "name": "Violeta-Africana",
+            "color": "rgb(194, 141, 192)"
+        },
+        {
+            "name": "Flor Primavera",
+            "color": "rgb(174, 116, 171)"
+        },
+        {
+            "name": "Recheio De Amora",
+            "color": "rgb(170, 119, 162)"
+        },
+        {
+            "name": "Flor Do Lisianto",
+            "color": "rgb(160, 107, 141)"
+        },
+        {
+            "name": "Gloxínia Roxa",
+            "color": "rgb(148, 85, 136)"
+        },
+        {
+            "name": "Festival Das Flores",
+            "color": "rgb(142, 70, 122)"
+        },
+        {
+            "name": "Geleia De Uva",
+            "color": "rgb(124, 67, 106)"
+        },
+        {
+            "name": "Quaresmeira",
+            "color": "rgb(167, 130, 183)"
+        },
+        {
+            "name": "Bala De Uva",
+            "color": "rgb(140, 103, 160)"
+        },
+        {
+            "name": "Glamour",
+            "color": "rgb(139, 83, 143)"
+        },
+        {
+            "name": "Estrela Da Noite",
+            "color": "rgb(111, 78, 132)"
+        },
+        {
+            "name": "Noite Quente",
+            "color": "rgb(118, 78, 136)"
+        },
+        {
+            "name": "Vinho Quente",
+            "color": "rgb(101, 55, 108)"
+        },
+        {
+            "name": "Uva Pinot Noir",
+            "color": "rgb(88, 64, 102)"
+        },
+        {
+            "name": "Estrela Radiante",
+            "color": "rgb(145, 131, 197)"
+        },
+        {
+            "name": "Cardo",
+            "color": "rgb(145, 122, 183)"
+        },
+        {
+            "name": "Brilho Mágico",
+            "color": "rgb(111, 93, 165)"
+        },
+        {
+            "name": "Ipê-Roxo",
+            "color": "rgb(123, 103, 159)"
+        },
+        {
+            "name": "Aurora Boreal",
+            "color": "rgb(110, 84, 143)"
+        },
+        {
+            "name": "Roxo-Vanguarda",
+            "color": "rgb(95, 72, 136)"
+        },
+        {
+            "name": "Roxo",
+            "color": "rgb(102, 83, 125)"
+        },
+        {
+            "name": "Azul-Violáceo",
+            "color": "rgb(121, 122, 179)"
+        },
+        {
+            "name": "Flor-De-Açafrão",
+            "color": "rgb(101, 94, 155)"
+        },
+        {
+            "name": "Paraíso Distante",
+            "color": "rgb(83, 70, 132)"
+        },
+        {
+            "name": "Cebola-Roxa",
+            "color": "rgb(89, 76, 128)"
+        },
+        {
+            "name": "Sugilite",
+            "color": "rgb(89, 75, 120)"
+        },
+        {
+            "name": "Sabedoria",
+            "color": "rgb(65, 51, 99)"
+        },
+        {
+            "name": "Roxo-Rústico",
+            "color": "rgb(71, 52, 106)"
+        },
+        {
+            "name": "Floreira De Violeta",
+            "color": "rgb(138, 149, 203)"
+        },
+        {
+            "name": "Vestido De Festa",
+            "color": "rgb(88, 109, 167)"
+        },
+        {
+            "name": "Plumas",
+            "color": "rgb(119, 127, 189)"
+        },
+        {
+            "name": "Crochê",
+            "color": "rgb(123, 121, 169)"
+        },
+        {
+            "name": "Uva Merlot",
+            "color": "rgb(102, 97, 148)"
+        },
+        {
+            "name": "Boca-De-Leão",
+            "color": "rgb(81, 77, 120)"
+        },
+        {
+            "name": "Paetês",
+            "color": "rgb(84, 90, 156)"
+        },
+        {
+            "name": "Festa Animada",
+            "color": "rgb(52, 74, 144)"
+        },
+        {
+            "name": "Universo Paralelo",
+            "color": "rgb(69, 74, 135)"
+        },
+        {
+            "name": "Luau",
+            "color": "rgb(40, 47, 101)"
+        },
+        {
+            "name": "Azul-Cobalto",
+            "color": "rgb(58, 71, 124)"
+        },
+        {
+            "name": "Azul-Elementar",
+            "color": "rgb(46, 56, 109)"
+        },
+        {
+            "name": "Veludo Intenso",
+            "color": "rgb(47, 52, 102)"
+        },
+        {
+            "name": "Sombra Da Noite",
+            "color": "rgb(45, 50, 94)"
+        },
+        {
+            "name": "Centáurea-Azul",
+            "color": "rgb(101, 144, 202)"
+        },
+        {
+            "name": "Safira",
+            "color": "rgb(57, 108, 173)"
+        },
+        {
+            "name": "Imaginação Fértil",
+            "color": "rgb(39, 97, 170)"
+        },
+        {
+            "name": "Intuição Masculina",
+            "color": "rgb(30, 86, 157)"
+        },
+        {
+            "name": "Sombra Azul",
+            "color": "rgb(21, 74, 143)"
+        },
+        {
+            "name": "Veleiro",
+            "color": "rgb(54, 85, 139)"
+        },
+        {
+            "name": "Índigo Blue\n\n15",
+            "color": "rgb(61, 65, 95)"
+        },
+        {
+            "name": "Azul-Cetim",
+            "color": "rgb(99, 179, 223)"
+        },
+        {
+            "name": "Azul-Rei",
+            "color": "rgb(98, 171, 219)"
+        },
+        {
+            "name": "Azul-Royal",
+            "color": "rgb(53, 144, 199)"
+        },
+        {
+            "name": "Veleiro Oceânico",
+            "color": "rgb(0, 135, 197)"
+        },
+        {
+            "name": "Borboleta Azul",
+            "color": "rgb(61, 136, 196)"
+        },
+        {
+            "name": "Lápis-Lazúli",
+            "color": "rgb(30, 114, 178)"
+        },
+        {
+            "name": "Águas Do Atlântico",
+            "color": "rgb(0, 112, 180)"
+        },
+        {
+            "name": "Curaçau Blue\n\n14",
+            "color": "rgb(32, 165, 214)"
+        },
+        {
+            "name": "Avatar",
+            "color": "rgb(0, 145, 188)"
+        },
+        {
+            "name": "Brisa Amena",
+            "color": "rgb(21, 149, 203)"
+        },
+        {
+            "name": "Aladim",
+            "color": "rgb(0, 140, 193)"
+        },
+        {
+            "name": "Azul-Biônico",
+            "color": "rgb(0, 120, 174)"
+        },
+        {
+            "name": "Azul-Átomo",
+            "color": "rgb(0, 127, 177)"
+        },
+        {
+            "name": "Mar Noturno",
+            "color": "rgb(4, 64, 102)"
+        },
+        {
+            "name": "Arara-Azul",
+            "color": "rgb(19, 118, 175)"
+        },
+        {
+            "name": "Estêncil Azul",
+            "color": "rgb(0, 104, 167)"
+        },
+        {
+            "name": "Oceano Pacífico",
+            "color": "rgb(32, 93, 145)"
+        },
+        {
+            "name": "Safira Da Noite",
+            "color": "rgb(0, 82, 148)"
+        },
+        {
+            "name": "Safira Celeste",
+            "color": "rgb(0, 93, 140)"
+        },
+        {
+            "name": "Magia Azul",
+            "color": "rgb(0, 85, 126)"
+        },
+        {
+            "name": "Calça Jeans",
+            "color": "rgb(43, 79, 112)"
+        },
+        {
+            "name": "Sul Do Atlântico",
+            "color": "rgb(0, 122, 168)"
+        },
+        {
+            "name": "Brilho Do Pacífico",
+            "color": "rgb(0, 112, 156)"
+        },
+        {
+            "name": "Olho Turco",
+            "color": "rgb(0, 108, 153)"
+        },
+        {
+            "name": "Azul-Profundo",
+            "color": "rgb(0, 93, 132)"
+        },
+        {
+            "name": "Madrugada",
+            "color": "rgb(45, 108, 137)"
+        },
+        {
+            "name": "Mistério Do Mar",
+            "color": "rgb(0, 90, 122)"
+        },
+        {
+            "name": "Cassino",
+            "color": "rgb(18, 88, 123)"
+        },
+        {
+            "name": "Lago Sarmiento",
+            "color": "rgb(49, 148, 174)"
+        },
+        {
+            "name": "Toalha De Praia",
+            "color": "rgb(0, 133, 168)"
+        },
+        {
+            "name": "Planeta Água",
+            "color": "rgb(0, 125, 161)"
+        },
+        {
+            "name": "Netuno",
+            "color": "rgb(0, 120, 146)"
+        },
+        {
+            "name": "Azul-Precioso",
+            "color": "rgb(0, 110, 138)"
+        },
+        {
+            "name": "Piscina Infinita",
+            "color": "rgb(0, 119, 135)"
+        },
+        {
+            "name": "Piscina Particular",
+            "color": "rgb(0, 109, 126)"
+        },
+        {
+            "name": "Maré Cheia",
+            "color": "rgb(63, 146, 150)"
+        },
+        {
+            "name": "Martim-Pescador",
+            "color": "rgb(0, 150, 163)"
+        },
+        {
+            "name": "Topo Do Mundo",
+            "color": "rgb(0, 129, 143)"
+        },
+        {
+            "name": "Escalada",
+            "color": "rgb(0, 108, 122)"
+        },
+        {
+            "name": "Verde-Floresta",
+            "color": "rgb(0, 97, 110)"
+        },
+        {
+            "name": "Azul-Petróleo",
+            "color": "rgb(10, 116, 124)"
+        },
+        {
+            "name": "Mapa-Múndi",
+            "color": "rgb(0, 106, 115)"
+        },
+        {
+            "name": "Equilíbrio Total",
+            "color": "rgb(77, 180, 174)"
+        },
+        {
+            "name": "Esmeralda Autêntica",
+            "color": "rgb(0, 164, 155)"
+        },
+        {
+            "name": "Verde-Amizade",
+            "color": "rgb(17, 144, 143)"
+        },
+        {
+            "name": "Mata Virgem",
+            "color": "rgb(0, 143, 136)"
+        },
+        {
+            "name": "Campo De Golfe",
+            "color": "rgb(0, 134, 130)"
+        },
+        {
+            "name": "Mar Verde",
+            "color": "rgb(0, 121, 111)"
+        },
+        {
+            "name": "Pedra Valiosa",
+            "color": "rgb(0, 107, 104)"
+        },
+        {
+            "name": "Verde-Tecnológico",
+            "color": "rgb(54, 185, 168)"
+        },
+        {
+            "name": "Verde-Ousadia",
+            "color": "rgb(0, 164, 148)"
+        },
+        {
+            "name": "Anel De Jade",
+            "color": "rgb(0, 151, 127)"
+        },
+        {
+            "name": "Passeio Na Mata",
+            "color": "rgb(28, 144, 128)"
+        },
+        {
+            "name": "Amazonita",
+            "color": "rgb(0, 117, 100)"
+        },
+        {
+            "name": "Ramo De Arruda",
+            "color": "rgb(0, 116, 108)"
+        },
+        {
+            "name": "Manguezal",
+            "color": "rgb(0, 88, 84)"
+        },
+        {
+            "name": "Malaquita",
+            "color": "rgb(45, 182, 151)"
+        },
+        {
+            "name": "Brinco De Pedra",
+            "color": "rgb(0, 158, 119)"
+        },
+        {
+            "name": "Rio Formoso",
+            "color": "rgb(0, 144, 115)"
+        },
+        {
+            "name": "Campo De Futebol",
+            "color": "rgb(0, 145, 117)"
+        },
+        {
+            "name": "Mata Alta",
+            "color": "rgb(0, 127, 93)"
+        },
+        {
+            "name": "Árvore Da Felicidade",
+            "color": "rgb(0, 101, 82)"
+        },
+        {
+            "name": "Água Profunda",
+            "color": "rgb(0, 87, 71)"
+        },
+        {
+            "name": "Caipirosca",
+            "color": "rgb(59, 177, 116)"
+        },
+        {
+            "name": "Bosque Encantado",
+            "color": "rgb(12, 175, 129)"
+        },
+        {
+            "name": "Esmeralda Brilhante",
+            "color": "rgb(0, 150, 94)"
+        },
+        {
+            "name": "Ecologia",
+            "color": "rgb(48, 144, 108)"
+        },
+        {
+            "name": "Serpente",
+            "color": "rgb(0, 137, 87)"
+        },
+        {
+            "name": "Natureza",
+            "color": "rgb(0, 150, 97)"
+        },
+        {
+            "name": "Mesa De Sinuca",
+            "color": "rgb(7, 117, 82)"
+        },
+        {
+            "name": "Turmalina Verde",
+            "color": "rgb(131, 197, 131)"
+        },
+        {
+            "name": "Serra Da Bocaina",
+            "color": "rgb(108, 195, 121)"
+        },
+        {
+            "name": "Cheiro De Manjericão",
+            "color": "rgb(133, 205, 125)"
+        },
+        {
+            "name": "Pitão Verde",
+            "color": "rgb(97, 187, 90)"
+        },
+        {
+            "name": "Verde-Maritaca",
+            "color": "rgb(100, 172, 91)"
+        },
+        {
+            "name": "Pau-Brasil",
+            "color": "rgb(69, 172, 93)"
+        },
+        {
+            "name": "Rua Arborizada",
+            "color": "rgb(70, 154, 75)"
+        },
+        {
+            "name": "Fortuna",
+            "color": "rgb(72, 155, 63)"
+        },
+        {
+            "name": "Verde-Bandeira",
+            "color": "rgb(56, 149, 63)"
+        },
+        {
+            "name": "Suco Funcional",
+            "color": "rgb(48, 145, 51)"
+        },
+        {
+            "name": "Manjericão",
+            "color": "rgb(57, 123, 53)"
+        },
+        {
+            "name": "Verde-Arbusto",
+            "color": "rgb(72, 115, 66)"
+        },
+        {
+            "name": "Grama Molhada",
+            "color": "rgb(10, 133, 71)"
+        },
+        {
+            "name": "Mata Atlântica",
+            "color": "rgb(50, 119, 75)"
+        },
+        {
+            "name": "Ervilha Torta",
+            "color": "rgb(136, 176, 110)"
+        },
+        {
+            "name": "Força Interior",
+            "color": "rgb(113, 163, 80)"
+        },
+        {
+            "name": "Grama Verde",
+            "color": "rgb(107, 148, 88)"
+        },
+        {
+            "name": "Limão-Taiti",
+            "color": "rgb(103, 137, 69)"
+        },
+        {
+            "name": "Brilho Da Esmeralda",
+            "color": "rgb(93, 136, 60)"
+        },
+        {
+            "name": "Panorama",
+            "color": "rgb(89, 140, 55)"
+        },
+        {
+            "name": "Samambaia",
+            "color": "rgb(92, 149, 92)"
+        },
+        {
+            "name": "Vitral",
+            "color": "rgb(168, 216, 132)"
+        },
+        {
+            "name": "Verde-Flúor",
+            "color": "rgb(138, 202, 91)"
+        },
+        {
+            "name": "Crisântemo Verde",
+            "color": "rgb(118, 187, 86)"
+        },
+        {
+            "name": "Verde-Grilo",
+            "color": "rgb(120, 182, 71)"
+        },
+        {
+            "name": "Verde-Brinquedo",
+            "color": "rgb(125, 176, 68)"
+        },
+        {
+            "name": "Verde-Fortuna",
+            "color": "rgb(115, 166, 68)"
+        },
+        {
+            "name": "Tempero Natural",
+            "color": "rgb(99, 155, 58)"
+        },
+        {
+            "name": "Verde-Bucólico",
+            "color": "rgb(181, 217, 126)"
+        },
+        {
+            "name": "Verde-Fashion",
+            "color": "rgb(174, 211, 103)"
+        },
+        {
+            "name": "Olhar Fresco",
+            "color": "rgb(165, 208, 93)"
+        },
+        {
+            "name": "Verde-Folia",
+            "color": "rgb(159, 204, 75)"
+        },
+        {
+            "name": "Diamante Dresden",
+            "color": "rgb(140, 188, 63)"
+        },
+        {
+            "name": "Semente De Uva",
+            "color": "rgb(139, 187, 66)"
+        },
+        {
+            "name": "Cacto Americano",
+            "color": "rgb(150, 173, 77)"
+        },
+        {
+            "name": "Verde-Chá",
+            "color": "rgb(189, 208, 87)"
+        },
+        {
+            "name": "Verde-Loteria",
+            "color": "rgb(177, 202, 82)"
+        },
+        {
+            "name": "Verde-Neon",
+            "color": "rgb(167, 198, 67)"
+        },
+        {
+            "name": "Verde-Abacate",
+            "color": "rgb(174, 198, 57)"
+        },
+        {
+            "name": "Sombra Verde",
+            "color": "rgb(169, 189, 54)"
+        },
+        {
+            "name": "Verde-Cítrico",
+            "color": "rgb(162, 187, 37)"
+        },
+        {
+            "name": "Alecrim Mediterrâneo",
+            "color": "rgb(149, 175, 41)"
+        },
+        {
+            "name": "Cítrico",
+            "color": "rgb(211, 213, 106)"
+        },
+        {
+            "name": "Umbu",
+            "color": "rgb(208, 212, 105)"
+        },
+        {
+            "name": "Polpa De Abacate",
+            "color": "rgb(202, 203, 76)"
+        },
+        {
+            "name": "Mato Molhado",
+            "color": "rgb(188, 194, 21)"
+        },
+        {
+            "name": "Verde-Limão\n\n13",
+            "color": "rgb(197, 199, 53)"
+        },
+        {
+            "name": "Verde-Kiwi",
+            "color": "rgb(178, 177, 38)"
+        },
+        {
+            "name": "Amarelo-Pavão",
+            "color": "rgb(200, 198, 46)"
+        },
+        {
+            "name": "Chá De Hortelã",
+            "color": "rgb(214, 210, 108)"
+        },
+        {
+            "name": "Chá De Capim",
+            "color": "rgb(228, 214, 69)"
+        },
+        {
+            "name": "Amarelo-Citrus",
+            "color": "rgb(207, 204, 86)"
+        },
+        {
+            "name": "Periquito Verde",
+            "color": "rgb(210, 208, 35)"
+        },
+        {
+            "name": "Uva Itália",
+            "color": "rgb(216, 207, 40)"
+        },
+        {
+            "name": "Amarelo-Iluminado",
+            "color": "rgb(205, 194, 36)"
+        },
+        {
+            "name": "Azeite De Oliva",
+            "color": "rgb(209, 184, 43)"
+        }
+      ],
+
+      "acentuadaseacolhedoras": [
+        {
+            "name": "Vênus",
+            "color": "rgb(207, 182, 102)"
+        },
+        {
+            "name": "Jasmim-Dourado",
+            "color": "rgb(194, 169, 95)"
+        },
+        {
+            "name": "Limão-Siciliano",
+            "color": "rgb(201, 173, 83)"
+        },
+        {
+            "name": "Cana-De-Açúcar",
+            "color": "rgb(187, 159, 70)"
+        },
+        {
+            "name": "Abelha",
+            "color": "rgb(196, 164, 58)"
+        },
+        {
+            "name": "Mostarda Dijon",
+            "color": "rgb(205, 160, 68)"
+        },
+        {
+            "name": "Caramelo",
+            "color": "rgb(186, 141, 65)"
+        },
+        {
+            "name": "Açúcar Orgânico",
+            "color": "rgb(225, 189, 130)"
+        },
+        {
+            "name": "Curry",
+            "color": "rgb(213, 169, 82)"
+        },
+        {
+            "name": "Açúcar Mascavo",
+            "color": "rgb(200, 155, 78)"
+        },
+        {
+            "name": "Ouro Do Egito",
+            "color": "rgb(199, 148, 55)"
+        },
+        {
+            "name": "Quentão\n\n19",
+            "color": "rgb(196, 149, 62)"
+        },
+        {
+            "name": "Juba De Leão",
+            "color": "rgb(166, 130, 87)"
+        },
+        {
+            "name": "Sandália De Couro",
+            "color": "rgb(161, 119, 68)"
+        },
+        {
+            "name": "Barbante",
+            "color": "rgb(212, 180, 136)"
+        },
+        {
+            "name": "Coala",
+            "color": "rgb(215, 172, 113)"
+        },
+        {
+            "name": "Crocante",
+            "color": "rgb(194, 144, 77)"
+        },
+        {
+            "name": "Capim-Dourado",
+            "color": "rgb(176, 125, 55)"
+        },
+        {
+            "name": "Cuia De Chimarrão",
+            "color": "rgb(170, 127, 89)"
+        },
+        {
+            "name": "Melado",
+            "color": "rgb(165, 118, 75)"
+        },
+        {
+            "name": "Açúcar Queimado",
+            "color": "rgb(149, 105, 61)"
+        },
+        {
+            "name": "Biscoito-Champagne",
+            "color": "rgb(214, 161, 119)"
+        },
+        {
+            "name": "Crème Brûlée",
+            "color": "rgb(199, 148, 113)"
+        },
+        {
+            "name": "Calcita Alaranjada",
+            "color": "rgb(201, 139, 90)"
+        },
+        {
+            "name": "Bala De Caramelo",
+            "color": "rgb(189, 119, 64)"
+        },
+        {
+            "name": "Pimenta Síria",
+            "color": "rgb(168, 112, 61)"
+        },
+        {
+            "name": "Canela-Em-Pó",
+            "color": "rgb(155, 96, 49)"
+        },
+        {
+            "name": "Rapadura",
+            "color": "rgb(146, 97, 62)"
+        },
+        {
+            "name": "Fio De Rami",
+            "color": "rgb(219, 179, 157)"
+        },
+        {
+            "name": "Rosa-Queimado",
+            "color": "rgb(208, 169, 147)"
+        },
+        {
+            "name": "Papaia",
+            "color": "rgb(207, 147, 114)"
+        },
+        {
+            "name": "Bronze",
+            "color": "rgb(208, 147, 117)"
+        },
+        {
+            "name": "Topázio Bruto",
+            "color": "rgb(192, 125, 85)"
+        },
+        {
+            "name": "Calda De Maple",
+            "color": "rgb(185, 113, 75)"
+        },
+        {
+            "name": "Marmelada",
+            "color": "rgb(176, 104, 60)"
+        },
+        {
+            "name": "Sonho Com Nata",
+            "color": "rgb(216, 189, 173)"
+        },
+        {
+            "name": "Choconhaque",
+            "color": "rgb(219, 177, 155)"
+        },
+        {
+            "name": "Agreste",
+            "color": "rgb(219, 168, 139)"
+        },
+        {
+            "name": "Chapéu De Sol",
+            "color": "rgb(216, 164, 136)"
+        },
+        {
+            "name": "Gruta",
+            "color": "rgb(191, 135, 110)"
+        },
+        {
+            "name": "Tamarindo",
+            "color": "rgb(177, 115, 93)"
+        },
+        {
+            "name": "Semente De Cacau",
+            "color": "rgb(179, 108, 81)"
+        },
+        {
+            "name": "Banana Com Canela",
+            "color": "rgb(208, 160, 138)"
+        },
+        {
+            "name": "Argila",
+            "color": "rgb(210, 158, 140)"
+        },
+        {
+            "name": "Couro",
+            "color": "rgb(207, 148, 129)"
+        },
+        {
+            "name": "Mousse De Goiaba",
+            "color": "rgb(206, 144, 123)"
+        },
+        {
+            "name": "Argila Vermelha",
+            "color": "rgb(187, 118, 95)"
+        },
+        {
+            "name": "Terra Roxa\n\n18",
+            "color": "rgb(187, 117, 97)"
+        },
+        {
+            "name": "Telhado",
+            "color": "rgb(143, 76, 65)"
+        },
+        {
+            "name": "Capa De Livro",
+            "color": "rgb(226, 188, 179)"
+        },
+        {
+            "name": "Creme Cor-De-Rosa",
+            "color": "rgb(222, 182, 176)"
+        },
+        {
+            "name": "Rosa Fumê",
+            "color": "rgb(209, 165, 158)"
+        },
+        {
+            "name": "Saia Justa",
+            "color": "rgb(187, 133, 128)"
+        },
+        {
+            "name": "Marrom-Rosado",
+            "color": "rgb(173, 119, 113)"
+        },
+        {
+            "name": "Marrom-Glacê",
+            "color": "rgb(159, 93, 89)"
+        },
+        {
+            "name": "Goiabada",
+            "color": "rgb(123, 62, 60)"
+        },
+        {
+            "name": "Molho Rosé",
+            "color": "rgb(215, 176, 170)"
+        },
+        {
+            "name": "Flor-De-Lis",
+            "color": "rgb(208, 148, 142)"
+        },
+        {
+            "name": "Rosa-Blush",
+            "color": "rgb(177, 95, 90)"
+        },
+        {
+            "name": "Nectarina",
+            "color": "rgb(177, 81, 81)"
+        },
+        {
+            "name": "Uva-Rubi",
+            "color": "rgb(164, 90, 95)"
+        },
+        {
+            "name": "Camu-Camu",
+            "color": "rgb(160, 79, 88)"
+        },
+        {
+            "name": "Sete Chaves",
+            "color": "rgb(120, 42, 60)"
+        },
+        {
+            "name": "Meia-Luz\n\n21",
+            "color": "rgb(197, 167, 172)"
+        },
+        {
+            "name": "Rosa-Bronzeado",
+            "color": "rgb(204, 156, 165)"
+        },
+        {
+            "name": "Vermelho-Oriental",
+            "color": "rgb(190, 132, 143)"
+        },
+        {
+            "name": "Vermelho-Sedução",
+            "color": "rgb(173, 106, 116)"
+        },
+        {
+            "name": "Gérbera Vermelha",
+            "color": "rgb(166, 83, 99)"
+        },
+        {
+            "name": "Cortina De Teatro\n\n17",
+            "color": "rgb(157, 108, 117)"
+        },
+        {
+            "name": "Vinho Tinto",
+            "color": "rgb(132, 73, 85)"
+        },
+        {
+            "name": "Jambo",
+            "color": "rgb(201, 165, 176)"
+        },
+        {
+            "name": "Vela Aromatizada",
+            "color": "rgb(181, 143, 150)"
+        },
+        {
+            "name": "Surpresa De Amora",
+            "color": "rgb(178, 144, 154)"
+        },
+        {
+            "name": "Tentação",
+            "color": "rgb(157, 123, 133)"
+        },
+        {
+            "name": "Geleia De Amora",
+            "color": "rgb(137, 104, 114)"
+        },
+        {
+            "name": "Calda De Amora",
+            "color": "rgb(107, 70, 83)"
+        },
+        {
+            "name": "Silêncio Da Noite",
+            "color": "rgb(82, 57, 63)"
+        },
+        {
+            "name": "Orquestra",
+            "color": "rgb(188, 148, 164)"
+        },
+        {
+            "name": "Paquera",
+            "color": "rgb(181, 146, 162)"
+        },
+        {
+            "name": "Flor-De-Alcachofra",
+            "color": "rgb(175, 128, 149)"
+        },
+        {
+            "name": "Uva-Rosada",
+            "color": "rgb(151, 91, 115)"
+        },
+        {
+            "name": "Néctar De Uva",
+            "color": "rgb(137, 83, 112)"
+        },
+        {
+            "name": "Coração Partido",
+            "color": "rgb(135, 85, 114)"
+        },
+        {
+            "name": "Roxo Profundo",
+            "color": "rgb(92, 44, 69)"
+        },
+        {
+            "name": "Botão De Violeta",
+            "color": "rgb(178, 150, 176)"
+        },
+        {
+            "name": "Flor-Do-Maracujá",
+            "color": "rgb(166, 129, 160)"
+        },
+        {
+            "name": "Alamanda Roxa",
+            "color": "rgb(151, 106, 141)"
+        },
+        {
+            "name": "Roxo-Atemporal",
+            "color": "rgb(144, 107, 137)"
+        },
+        {
+            "name": "Suco De Uva",
+            "color": "rgb(119, 86, 112)"
+        },
+        {
+            "name": "Capa De Chuva",
+            "color": "rgb(101, 67, 89)"
+        },
+        {
+            "name": "Bebida Púrpura",
+            "color": "rgb(96, 40, 78)"
+        },
+        {
+            "name": "Violeta-Vapor",
+            "color": "rgb(196, 177, 194)"
+        },
+        {
+            "name": "Fim De Estação",
+            "color": "rgb(171, 149, 166)"
+        },
+        {
+            "name": "Desfile De Moda",
+            "color": "rgb(152, 124, 146)"
+        },
+        {
+            "name": "Suco De Açaí",
+            "color": "rgb(107, 83, 102)"
+        },
+        {
+            "name": "Berinjela",
+            "color": "rgb(99, 82, 96)"
+        },
+        {
+            "name": "Veludo",
+            "color": "rgb(82, 59, 76)"
+        },
+        {
+            "name": "Jambolão",
+            "color": "rgb(82, 61, 76)"
+        },
+        {
+            "name": "Chiclete De Uva",
+            "color": "rgb(158, 141, 159)"
+        },
+        {
+            "name": "Yoga",
+            "color": "rgb(162, 147, 166)"
+        },
+        {
+            "name": "Malva",
+            "color": "rgb(165, 146, 167)"
+        },
+        {
+            "name": "Uva",
+            "color": "rgb(130, 110, 130)"
+        },
+        {
+            "name": "Paz Interior",
+            "color": "rgb(124, 104, 125)"
+        },
+        {
+            "name": "Fruto Do Calafate",
+            "color": "rgb(111, 93, 112)"
+        },
+        {
+            "name": "Ametista",
+            "color": "rgb(102, 87, 106)"
+        },
+        {
+            "name": "Violeta-Queimado",
+            "color": "rgb(163, 150, 167)"
+        },
+        {
+            "name": "Flan De Uva",
+            "color": "rgb(165, 150, 173)"
+        },
+        {
+            "name": "Pot-Pourri",
+            "color": "rgb(146, 131, 152)"
+        },
+        {
+            "name": "Uva Nebbiolo",
+            "color": "rgb(126, 107, 132)"
+        },
+        {
+            "name": "Roxo-Impecável",
+            "color": "rgb(115, 98, 129)"
+        },
+        {
+            "name": "Couve-Roxa",
+            "color": "rgb(104, 83, 116)"
+        },
+        {
+            "name": "Beterraba Selvagem",
+            "color": "rgb(78, 50, 84)"
+        },
+        {
+            "name": "Entardecer",
+            "color": "rgb(160, 150, 177)"
+        },
+        {
+            "name": "Uva Carmenère",
+            "color": "rgb(138, 119, 158)"
+        },
+        {
+            "name": "Campânula",
+            "color": "rgb(129, 108, 153)"
+        },
+        {
+            "name": "Música De Meditação",
+            "color": "rgb(111, 104, 129)"
+        },
+        {
+            "name": "Reserva Especial",
+            "color": "rgb(106, 92, 122)"
+        },
+        {
+            "name": "Flor Amor-Perfeito",
+            "color": "rgb(94, 80, 111)"
+        },
+        {
+            "name": "Berinjela Intenso",
+            "color": "rgb(67, 48, 72)"
+        },
+        {
+            "name": "Mousse De Uva",
+            "color": "rgb(133, 130, 154)"
+        },
+        {
+            "name": "Odalisca",
+            "color": "rgb(112, 108, 133)"
+        },
+        {
+            "name": "Lírio-Africano",
+            "color": "rgb(121, 113, 150)"
+        },
+        {
+            "name": "Cacho De Uva",
+            "color": "rgb(111, 100, 142)"
+        },
+        {
+            "name": "Ágata Roxa",
+            "color": "rgb(64, 55, 93)"
+        },
+        {
+            "name": "Colar De Ametista",
+            "color": "rgb(74, 69, 95)"
+        },
+        {
+            "name": "Noite Intensa",
+            "color": "rgb(52, 46, 75)"
+        },
+        {
+            "name": "Sofia",
+            "color": "rgb(167, 174, 199)"
+        },
+        {
+            "name": "Estação De Esqui",
+            "color": "rgb(163, 171, 196)"
+        },
+        {
+            "name": "Sossego Noturno",
+            "color": "rgb(150, 157, 186)"
+        },
+        {
+            "name": "Patagônia",
+            "color": "rgb(139, 151, 182)"
+        },
+        {
+            "name": "Uva Malbec",
+            "color": "rgb(113, 121, 157)"
+        },
+        {
+            "name": "Papel-Carbono",
+            "color": "rgb(98, 100, 128)"
+        },
+        {
+            "name": "Pássaro Azulão",
+            "color": "rgb(79, 87, 130)"
+        },
+        {
+            "name": "Vista Divina",
+            "color": "rgb(148, 166, 197)"
+        },
+        {
+            "name": "Cruzeiro Marítimo",
+            "color": "rgb(110, 125, 161)"
+        },
+        {
+            "name": "Véu De Outono",
+            "color": "rgb(102, 130, 181)"
+        },
+        {
+            "name": "Sodalita",
+            "color": "rgb(86, 108, 155)"
+        },
+        {
+            "name": "Beija-Flor",
+            "color": "rgb(61, 88, 132)"
+        },
+        {
+            "name": "Azul-Realeza",
+            "color": "rgb(43, 70, 122)"
+        },
+        {
+            "name": "Giz De Cera",
+            "color": "rgb(17, 60, 117)"
+        },
+        {
+            "name": "Azul-Etéreo",
+            "color": "rgb(165, 181, 197)"
+        },
+        {
+            "name": "Ilha Azul",
+            "color": "rgb(133, 151, 170)"
+        },
+        {
+            "name": "Veludo Azul",
+            "color": "rgb(117, 145, 166)"
+        },
+        {
+            "name": "Jeans Lavado",
+            "color": "rgb(96, 125, 153)"
+        },
+        {
+            "name": "Uniforme Escolar",
+            "color": "rgb(84, 119, 147)"
+        },
+        {
+            "name": "Anoitecer",
+            "color": "rgb(78, 105, 130)"
+        },
+        {
+            "name": "Baile De Máscaras",
+            "color": "rgb(53, 86, 119)"
+        },
+        {
+            "name": "Tricô",
+            "color": "rgb(134, 156, 177)"
+        },
+        {
+            "name": "Quartzo Azul",
+            "color": "rgb(126, 163, 191)"
+        },
+        {
+            "name": "Constelação",
+            "color": "rgb(107, 146, 177)"
+        },
+        {
+            "name": "Caneta Azul",
+            "color": "rgb(53, 108, 146)"
+        },
+        {
+            "name": "Horizonte Azul",
+            "color": "rgb(73, 107, 136)"
+        },
+        {
+            "name": "Oceano Profundo",
+            "color": "rgb(28, 72, 104)"
+        },
+        {
+            "name": "Estrela Intensa",
+            "color": "rgb(15, 63, 98)"
+        },
+        {
+            "name": "Rio Ebro",
+            "color": "rgb(146, 182, 193)"
+        },
+        {
+            "name": "Sapato De Cristal",
+            "color": "rgb(130, 179, 194)"
+        },
+        {
+            "name": "Fiorde Tropical",
+            "color": "rgb(106, 155, 172)"
+        },
+        {
+            "name": "Banho De Espuma",
+            "color": "rgb(107, 147, 167)"
+        },
+        {
+            "name": "Azul-Infinito",
+            "color": "rgb(64, 115, 139)"
+        },
+        {
+            "name": "Sonho Celeste",
+            "color": "rgb(0, 94, 119)"
+        },
+        {
+            "name": "Aventura Do Oceano",
+            "color": "rgb(0, 78, 98)"
+        },
+        {
+            "name": "Água Mineral",
+            "color": "rgb(173, 201, 208)"
+        },
+        {
+            "name": "Lago Grey",
+            "color": "rgb(133, 164, 173)"
+        },
+        {
+            "name": "Rio Reno",
+            "color": "rgb(99, 133, 142)"
+        },
+        {
+            "name": "Azul-Sereia",
+            "color": "rgb(58, 146, 160)"
+        },
+        {
+            "name": "Mapa Astral",
+            "color": "rgb(65, 130, 142)"
+        },
+        {
+            "name": "Mistérios Da Macedônia",
+            "color": "rgb(34, 123, 137)"
+        },
+        {
+            "name": "Lago Profundo",
+            "color": "rgb(26, 113, 130)"
+        },
+        {
+            "name": "Vidro Temperado",
+            "color": "rgb(161, 198, 200)"
+        },
+        {
+            "name": "Rio Danúbio",
+            "color": "rgb(150, 183, 188)"
+        },
+        {
+            "name": "Mar Do Norte",
+            "color": "rgb(134, 169, 175)"
+        },
+        {
+            "name": "Azul-Mineral",
+            "color": "rgb(104, 143, 149)"
+        },
+        {
+            "name": "Azul-Ilusão",
+            "color": "rgb(92, 132, 137)"
+        },
+        {
+            "name": "Azul-Náutico",
+            "color": "rgb(79, 114, 122)"
+        },
+        {
+            "name": "Azul-Aviação",
+            "color": "rgb(66, 107, 114)"
+        },
+        {
+            "name": "Sete Quedas",
+            "color": "rgb(128, 178, 178)"
+        },
+        {
+            "name": "Rio Serrano",
+            "color": "rgb(120, 176, 178)"
+        },
+        {
+            "name": "Barco A Vela",
+            "color": "rgb(99, 156, 158)"
+        },
+        {
+            "name": "Ibiza",
+            "color": "rgb(76, 153, 153)"
+        },
+        {
+            "name": "Voo-Livre",
+            "color": "rgb(84, 138, 136)"
+        },
+        {
+            "name": "Pé De Serra",
+            "color": "rgb(50, 129, 129)"
+        },
+        {
+            "name": "Floresta Úmida",
+            "color": "rgb(0, 101, 102)"
+        },
+        {
+            "name": "Cheiro De Mato",
+            "color": "rgb(138, 174, 165)"
+        },
+        {
+            "name": "Vaso De Cerâmica",
+            "color": "rgb(121, 168, 161)"
+        },
+        {
+            "name": "Ilha Deserta",
+            "color": "rgb(100, 160, 156)"
+        },
+        {
+            "name": "Jardineira",
+            "color": "rgb(82, 141, 135)"
+        },
+        {
+            "name": "Camuflagem",
+            "color": "rgb(71, 122, 117)"
+        },
+        {
+            "name": "Tempero Verde",
+            "color": "rgb(49, 128, 119)"
+        },
+        {
+            "name": "Tartaruga Marinha",
+            "color": "rgb(0, 95, 83)"
+        },
+        {
+            "name": "Quebra-Pedra",
+            "color": "rgb(164, 195, 181)"
+        },
+        {
+            "name": "Creme De Menta",
+            "color": "rgb(132, 177, 163)"
+        },
+        {
+            "name": "Agave",
+            "color": "rgb(112, 154, 136)"
+        },
+        {
+            "name": "Tundra",
+            "color": "rgb(107, 158, 142)"
+        },
+        {
+            "name": "Quintal De Casa",
+            "color": "rgb(70, 154, 139)"
+        },
+        {
+            "name": "Salada Verde",
+            "color": "rgb(55, 131, 112)"
+        },
+        {
+            "name": "Fundo Do Oceano",
+            "color": "rgb(0, 77, 60)"
+        },
+        {
+            "name": "Água-Marinha\n\n16",
+            "color": "rgb(131, 185, 156)"
+        },
+        {
+            "name": "Ágata Verde",
+            "color": "rgb(114, 168, 139)"
+        },
+        {
+            "name": "Cavalinha",
+            "color": "rgb(85, 158, 120)"
+        },
+        {
+            "name": "Serra Gaúcha",
+            "color": "rgb(79, 123, 101)"
+        },
+        {
+            "name": "Doce De Mamão",
+            "color": "rgb(51, 101, 74)"
+        },
+        {
+            "name": "Plantação De Hortaliças",
+            "color": "rgb(34, 79, 54)"
+        },
+        {
+            "name": "Acampamento Na Selva",
+            "color": "rgb(45, 76, 59)"
+        },
+        {
+            "name": "Cashmere",
+            "color": "rgb(159, 175, 150)"
+        },
+        {
+            "name": "Erva-Príncipe",
+            "color": "rgb(138, 161, 115)"
+        },
+        {
+            "name": "Renda Portuguesa",
+            "color": "rgb(131, 162, 110)"
+        },
+        {
+            "name": "Floresta Selvagem",
+            "color": "rgb(92, 128, 66)"
+        },
+        {
+            "name": "Ninfas",
+            "color": "rgb(84, 121, 58)"
+        },
+        {
+            "name": "Espinafre",
+            "color": "rgb(104, 124, 88)"
+        },
+        {
+            "name": "Verde-Colegial",
+            "color": "rgb(84, 106, 81)"
+        },
+        {
+            "name": "Folha De Louro",
+            "color": "rgb(183, 189, 143)"
+        },
+        {
+            "name": "Erva-Mate",
+            "color": "rgb(155, 166, 116)"
+        },
+        {
+            "name": "Tomilho",
+            "color": "rgb(147, 163, 117)"
+        },
+        {
+            "name": "Palmeira",
+            "color": "rgb(137, 156, 120)"
+        },
+        {
+            "name": "Folha De Chá Verde",
+            "color": "rgb(116, 134, 83)"
+        },
+        {
+            "name": "Verde-Tropa",
+            "color": "rgb(106, 131, 58)"
+        },
+        {
+            "name": "Floresta Temperada",
+            "color": "rgb(93, 112, 61)"
+        },
+        {
+            "name": "Folha De Uva",
+            "color": "rgb(204, 209, 174)"
+        },
+        {
+            "name": "Verdite",
+            "color": "rgb(177, 177, 125)"
+        },
+        {
+            "name": "Paisagem Grega",
+            "color": "rgb(160, 162, 106)"
+        },
+        {
+            "name": "Videira",
+            "color": "rgb(156, 161, 95)"
+        },
+        {
+            "name": "Pimentão-Verde",
+            "color": "rgb(147, 150, 74)"
+        },
+        {
+            "name": "Mercado De Coimbra",
+            "color": "rgb(132, 129, 52)"
+        },
+        {
+            "name": "Campo Silvestre",
+            "color": "rgb(122, 121, 54)"
+        },
+        {
+            "name": "Bosque Suave",
+            "color": "rgb(190, 193, 144)"
+        },
+        {
+            "name": "Acelga",
+            "color": "rgb(203, 205, 150)"
+        },
+        {
+            "name": "Cheiro-Verde",
+            "color": "rgb(184, 184, 116)"
+        },
+        {
+            "name": "Kiwi",
+            "color": "rgb(164, 164, 91)"
+        },
+        {
+            "name": "Tempero Sírio",
+            "color": "rgb(155, 152, 66)"
+        },
+        {
+            "name": "Ramo De Oliva",
+            "color": "rgb(149, 148, 44)"
+        },
+        {
+            "name": "Verde-Papagaio",
+            "color": "rgb(140, 145, 51)"
+        },
+        {
+            "name": "Grama Cortada",
+            "color": "rgb(205, 200, 157)"
+        },
+        {
+            "name": "Salgueiro",
+            "color": "rgb(181, 171, 122)"
+        },
+        {
+            "name": "Oásis",
+            "color": "rgb(179, 168, 112)"
+        },
+        {
+            "name": "Eclipse\n\n22",
+            "color": "rgb(173, 158, 87)"
+        },
+        {
+            "name": "Oliva",
+            "color": "rgb(169, 151, 65)"
+        },
+        {
+            "name": "Colmeia",
+            "color": "rgb(194, 176, 83)"
+        },
+        {
+            "name": "Ouro Amarelo",
+            "color": "rgb(214, 193, 92)"
+        }
+    ],
+
+    "neutraseclassicas": [
+        {
+            "name": "Sacola De Lona",
+            "color": "rgb(207, 200, 183)"
+        },
+        {
+            "name": "Tecelagem",
+            "color": "rgb(195, 185, 149)"
+        },
+        {
+            "name": "Sândalo",
+            "color": "rgb(187, 168, 126)"
+        },
+        {
+            "name": "Azeitona",
+            "color": "rgb(155, 131, 70)"
+        },
+        {
+            "name": "Olho De Tigre",
+            "color": "rgb(145, 118, 58)"
+        },
+        {
+            "name": "Farda Militar",
+            "color": "rgb(135, 111, 61)"
+        },
+        {
+            "name": "Oliva Silvestre",
+            "color": "rgb(142, 112, 65)"
+        },
+        {
+            "name": "Lamparina",
+            "color": "rgb(215, 205, 184)"
+        },
+        {
+            "name": "Cerrado",
+            "color": "rgb(203, 188, 156)"
+        },
+        {
+            "name": "Caravela",
+            "color": "rgb(158, 139, 104)"
+        },
+        {
+            "name": "Raposa",
+            "color": "rgb(144, 126, 96)"
+        },
+        {
+            "name": "Lentilha",
+            "color": "rgb(129, 109, 75)"
+        },
+        {
+            "name": "Lobo Mau",
+            "color": "rgb(122, 106, 77)"
+        },
+        {
+            "name": "Azeitona Verde",
+            "color": "rgb(108, 87, 48)"
+        },
+        {
+            "name": "Inverno Seco",
+            "color": "rgb(210, 205, 195)"
+        },
+        {
+            "name": "Calça De Linho",
+            "color": "rgb(218, 208, 182)"
+        },
+        {
+            "name": "Cristal De Pirita",
+            "color": "rgb(203, 193, 166)"
+        },
+        {
+            "name": "Rio Nilo",
+            "color": "rgb(169, 155, 124)"
+        },
+        {
+            "name": "Lhama",
+            "color": "rgb(151, 136, 107)"
+        },
+        {
+            "name": "Caule",
+            "color": "rgb(134, 120, 91)"
+        },
+        {
+            "name": "Garoupa",
+            "color": "rgb(103, 88, 63)"
+        },
+        {
+            "name": "Metrópole",
+            "color": "rgb(228, 221, 207)"
+        },
+        {
+            "name": "Ráfia",
+            "color": "rgb(218, 207, 183)"
+        },
+        {
+            "name": "Linho Do Oriente",
+            "color": "rgb(193, 179, 154)"
+        },
+        {
+            "name": "Lápis De Cor",
+            "color": "rgb(167, 154, 130)"
+        },
+        {
+            "name": "Líquen",
+            "color": "rgb(139, 128, 108)"
+        },
+        {
+            "name": "Bronze Real",
+            "color": "rgb(102, 88, 68)"
+        },
+        {
+            "name": "Resina Aromática",
+            "color": "rgb(92, 86, 76)"
+        },
+        {
+            "name": "Cadeira De Bambu",
+            "color": "rgb(186, 171, 140)"
+        },
+        {
+            "name": "Charrete",
+            "color": "rgb(176, 159, 129)"
+        },
+        {
+            "name": "Deck",
+            "color": "rgb(159, 140, 108)"
+        },
+        {
+            "name": "Gianduia",
+            "color": "rgb(145, 126, 95)"
+        },
+        {
+            "name": "Lampião",
+            "color": "rgb(128, 108, 81)"
+        },
+        {
+            "name": "Bananada",
+            "color": "rgb(128, 107, 80)"
+        },
+        {
+            "name": "Falcão",
+            "color": "rgb(105, 86, 64)"
+        },
+        {
+            "name": "Papel Picado",
+            "color": "rgb(216, 211, 202)"
+        },
+        {
+            "name": "Inverno Gelado",
+            "color": "rgb(209, 201, 185)"
+        },
+        {
+            "name": "Galho Seco",
+            "color": "rgb(185, 175, 156)"
+        },
+        {
+            "name": "Cavalo-Marinho",
+            "color": "rgb(179, 164, 143)"
+        },
+        {
+            "name": "Arte Barroca",
+            "color": "rgb(168, 153, 130)"
+        },
+        {
+            "name": "Bronze Envelhecido",
+            "color": "rgb(121, 109, 92)"
+        },
+        {
+            "name": "Terra Fértil",
+            "color": "rgb(87, 81, 69)"
+        },
+        {
+            "name": "Bolo De Nozes",
+            "color": "rgb(201, 173, 140)"
+        },
+        {
+            "name": "Favo De Mel",
+            "color": "rgb(184, 155, 120)"
+        },
+        {
+            "name": "Cogumelo Shitake",
+            "color": "rgb(170, 140, 113)"
+        },
+        {
+            "name": "Terra Arada",
+            "color": "rgb(151, 120, 93)"
+        },
+        {
+            "name": "Castanha-Do-Pará",
+            "color": "rgb(146, 114, 93)"
+        },
+        {
+            "name": "Doce De Caju",
+            "color": "rgb(136, 105, 79)"
+        },
+        {
+            "name": "Funicular",
+            "color": "rgb(100, 85, 65)"
+        },
+        {
+            "name": "Tapete De Juta",
+            "color": "rgb(213, 206, 194)"
+        },
+        {
+            "name": "Cocada",
+            "color": "rgb(215, 200, 177)"
+        },
+        {
+            "name": "Ninho",
+            "color": "rgb(199, 181, 156)"
+        },
+        {
+            "name": "Tico-Tico",
+            "color": "rgb(187, 169, 142)"
+        },
+        {
+            "name": "Estátua De Bronze",
+            "color": "rgb(155, 133, 106)"
+        },
+        {
+            "name": "Castanholas",
+            "color": "rgb(124, 106, 86)"
+        },
+        {
+            "name": "Cacau",
+            "color": "rgb(103, 86, 63)"
+        },
+        {
+            "name": "Doce De Leite",
+            "color": "rgb(212, 200, 182)"
+        },
+        {
+            "name": "Cortiça",
+            "color": "rgb(203, 188, 168)"
+        },
+        {
+            "name": "Capoeira",
+            "color": "rgb(203, 181, 156)"
+        },
+        {
+            "name": "Noz-Moscada",
+            "color": "rgb(195, 169, 147)"
+        },
+        {
+            "name": "Berimbau",
+            "color": "rgb(180, 155, 132)"
+        },
+        {
+            "name": "Cravo-Da-Índia",
+            "color": "rgb(121, 95, 76)"
+        },
+        {
+            "name": "Pão De Mel",
+            "color": "rgb(107, 90, 76)"
+        },
+        {
+            "name": "Pasta De Amendoim",
+            "color": "rgb(225, 210, 190)"
+        },
+        {
+            "name": "Canjica",
+            "color": "rgb(233, 209, 184)"
+        },
+        {
+            "name": "Meia-Calça",
+            "color": "rgb(225, 203, 181)"
+        },
+        {
+            "name": "Recheio De Avelã",
+            "color": "rgb(213, 188, 159)"
+        },
+        {
+            "name": "Estrada Velha",
+            "color": "rgb(191, 160, 129)"
+        },
+        {
+            "name": "Chocolate Suíço",
+            "color": "rgb(161, 119, 82)"
+        },
+        {
+            "name": "Castanho",
+            "color": "rgb(144, 103, 73)"
+        },
+        {
+            "name": "Pudim De Caramelo",
+            "color": "rgb(229, 217, 202)"
+        },
+        {
+            "name": "Camelo",
+            "color": "rgb(209, 189, 171)"
+        },
+        {
+            "name": "Folha De Tabaco",
+            "color": "rgb(179, 154, 135)"
+        },
+        {
+            "name": "Oca",
+            "color": "rgb(210, 182, 162)"
+        },
+        {
+            "name": "Castanha Portuguesa",
+            "color": "rgb(187, 151, 124)"
+        },
+        {
+            "name": "Flor-De-Anis",
+            "color": "rgb(195, 154, 129)"
+        },
+        {
+            "name": "Canela",
+            "color": "rgb(172, 122, 87)"
+        },
+        {
+            "name": "Cartão-Postal",
+            "color": "rgb(188, 170, 149)"
+        },
+        {
+            "name": "Madagascar",
+            "color": "rgb(171, 151, 130)"
+        },
+        {
+            "name": "Canguru",
+            "color": "rgb(157, 137, 118)"
+        },
+        {
+            "name": "Sertão",
+            "color": "rgb(142, 123, 104)"
+        },
+        {
+            "name": "Estrada De Terra",
+            "color": "rgb(131, 111, 98)"
+        },
+        {
+            "name": "Tronco",
+            "color": "rgb(121, 101, 89)"
+        },
+        {
+            "name": "Morro Alto",
+            "color": "rgb(99, 87, 79)"
+        },
+        {
+            "name": "Puma",
+            "color": "rgb(211, 201, 187)"
+        },
+        {
+            "name": "Sofá Aveludado",
+            "color": "rgb(196, 182, 168)"
+        },
+        {
+            "name": "Lebre",
+            "color": "rgb(191, 173, 157)"
+        },
+        {
+            "name": "Passas Ao Rum",
+            "color": "rgb(170, 147, 133)"
+        },
+        {
+            "name": "Marrom Bombom",
+            "color": "rgb(121, 98, 85)"
+        },
+        {
+            "name": "Beijo Baiano",
+            "color": "rgb(111, 86, 75)"
+        },
+        {
+            "name": "Pinhão",
+            "color": "rgb(95, 79, 69)"
+        },
+        {
+            "name": "Broto De Feijão",
+            "color": "rgb(208, 202, 193)"
+        },
+        {
+            "name": "Paturi",
+            "color": "rgb(182, 167, 152)"
+        },
+        {
+            "name": "Colher De Pau",
+            "color": "rgb(140, 127, 111)"
+        },
+        {
+            "name": "Bota De Inverno",
+            "color": "rgb(144, 121, 103)"
+        },
+        {
+            "name": "Funghi",
+            "color": "rgb(123, 104, 89)"
+        },
+        {
+            "name": "Cais Do Porto",
+            "color": "rgb(117, 101, 88)"
+        },
+        {
+            "name": "Tatu",
+            "color": "rgb(73, 61, 49)"
+        },
+        {
+            "name": "Ovelha",
+            "color": "rgb(197, 191, 179)"
+        },
+        {
+            "name": "Cadeira De Balanço",
+            "color": "rgb(170, 156, 146)"
+        },
+        {
+            "name": "Casca De Árvore",
+            "color": "rgb(160, 147, 137)"
+        },
+        {
+            "name": "Ponte Pênsil",
+            "color": "rgb(146, 136, 128)"
+        },
+        {
+            "name": "Cajuzinho",
+            "color": "rgb(141, 125, 115)"
+        },
+        {
+            "name": "Café Com Nata",
+            "color": "rgb(107, 91, 81)"
+        },
+        {
+            "name": "Pérola Negra",
+            "color": "rgb(76, 63, 53)"
+        },
+        {
+            "name": "Reco-Reco",
+            "color": "rgb(207, 201, 197)"
+        },
+        {
+            "name": "Andiroba",
+            "color": "rgb(202, 193, 184)"
+        },
+        {
+            "name": "Creme Escocês",
+            "color": "rgb(192, 181, 173)"
+        },
+        {
+            "name": "Coreto Na Praça",
+            "color": "rgb(164, 149, 140)"
+        },
+        {
+            "name": "Lenha",
+            "color": "rgb(153, 131, 119)"
+        },
+        {
+            "name": "Banco Da Praça",
+            "color": "rgb(146, 124, 114)"
+        },
+        {
+            "name": "Xaxim",
+            "color": "rgb(99, 83, 74)"
+        },
+        {
+            "name": "Cevada",
+            "color": "rgb(207, 195, 189)"
+        },
+        {
+            "name": "Chocolate",
+            "color": "rgb(191, 170, 157)"
+        },
+        {
+            "name": "Canoa Quebrada",
+            "color": "rgb(168, 146, 135)"
+        },
+        {
+            "name": "Coco Queimado",
+            "color": "rgb(172, 146, 136)"
+        },
+        {
+            "name": "Chocolate Em Pó",
+            "color": "rgb(148, 121, 112)"
+        },
+        {
+            "name": "Borra De Café",
+            "color": "rgb(114, 94, 84)"
+        },
+        {
+            "name": "Chocolate Meio Amargo",
+            "color": "rgb(97, 79, 72)"
+        },
+        {
+            "name": "Palito De Picolé",
+            "color": "rgb(214, 205, 199)"
+        },
+        {
+            "name": "Allure",
+            "color": "rgb(213, 193, 181)"
+        },
+        {
+            "name": "Chão Batido",
+            "color": "rgb(198, 178, 168)"
+        },
+        {
+            "name": "Bailarina",
+            "color": "rgb(195, 172, 163)"
+        },
+        {
+            "name": "Bombom De Licor",
+            "color": "rgb(183, 161, 154)"
+        },
+        {
+            "name": "Baú De Madeira",
+            "color": "rgb(137, 117, 114)"
+        },
+        {
+            "name": "Café Torrado",
+            "color": "rgb(69, 51, 48)"
+        },
+        {
+            "name": "Mesa De Bar",
+            "color": "rgb(189, 176, 170)"
+        },
+        {
+            "name": "Creme De Avelã",
+            "color": "rgb(175, 162, 155)"
+        },
+        {
+            "name": "Bolero",
+            "color": "rgb(193, 174, 168)"
+        },
+        {
+            "name": "Grão De Café",
+            "color": "rgb(166, 140, 132)"
+        },
+        {
+            "name": "Ameixa",
+            "color": "rgb(135, 111, 106)"
+        },
+        {
+            "name": "Petit Gâteu",
+            "color": "rgb(124, 94, 86)"
+        },
+        {
+            "name": "Mogno",
+            "color": "rgb(102, 75, 66)"
+        },
+        {
+            "name": "Biscoito Caseiro",
+            "color": "rgb(222, 216, 212)"
+        },
+        {
+            "name": "Caminho De Vento",
+            "color": "rgb(219, 204, 202)"
+        },
+        {
+            "name": "Miragem",
+            "color": "rgb(211, 189, 184)"
+        },
+        {
+            "name": "Árvore Dos Sonhos",
+            "color": "rgb(207, 173, 164)"
+        },
+        {
+            "name": "Tapeçaria",
+            "color": "rgb(166, 125, 116)"
+        },
+        {
+            "name": "Hena",
+            "color": "rgb(145, 88, 82)"
+        },
+        {
+            "name": "Marrom-Luxo",
+            "color": "rgb(101, 69, 64)"
+        },
+        {
+            "name": "Pedreira",
+            "color": "rgb(203, 192, 190)"
+        },
+        {
+            "name": "Flor De Cerejeira",
+            "color": "rgb(196, 178, 174)"
+        },
+        {
+            "name": "Tempestade",
+            "color": "rgb(192, 175, 173)"
+        },
+        {
+            "name": "Artesanato",
+            "color": "rgb(162, 143, 138)"
+        },
+        {
+            "name": "Calda De Chocolate",
+            "color": "rgb(141, 121, 117)"
+        },
+        {
+            "name": "Chocolate Derretido",
+            "color": "rgb(106, 86, 82)"
+        },
+        {
+            "name": "Bombom De Ameixa",
+            "color": "rgb(93, 63, 62)"
+        },
+        {
+            "name": "Rosa Altar",
+            "color": "rgb(236, 216, 210)"
+        },
+        {
+            "name": "Rosa-Talco",
+            "color": "rgb(223, 197, 192)"
+        },
+        {
+            "name": "Rosa Giz",
+            "color": "rgb(186, 159, 156)"
+        },
+        {
+            "name": "Talismã",
+            "color": "rgb(169, 144, 145)"
+        },
+        {
+            "name": "Vermelho-Veneziano",
+            "color": "rgb(142, 108, 110)"
+        },
+        {
+            "name": "Licor De Cassis",
+            "color": "rgb(119, 79, 81)"
+        },
+        {
+            "name": "Bordô",
+            "color": "rgb(104, 58, 63)"
+        },
+        {
+            "name": "Jogo De Cartas",
+            "color": "rgb(204, 200, 199)"
+        },
+        {
+            "name": "Marrom Sussuro",
+            "color": "rgb(200, 190, 190)"
+        },
+        {
+            "name": "Jangada",
+            "color": "rgb(179, 165, 163)"
+        },
+        {
+            "name": "Arco E Flecha",
+            "color": "rgb(168, 151, 151)"
+        },
+        {
+            "name": "Poeira Lunar",
+            "color": "rgb(157, 138, 137)"
+        },
+        {
+            "name": "Lambari Roxo",
+            "color": "rgb(130, 107, 108)"
+        },
+        {
+            "name": "Geleia De Ameixa",
+            "color": "rgb(78, 44, 51)"
+        },
+        {
+            "name": "Hippie Chique",
+            "color": "rgb(214, 206, 206)"
+        },
+        {
+            "name": "Amor Platônico",
+            "color": "rgb(196, 179, 179)"
+        },
+        {
+            "name": "Farofa Doce",
+            "color": "rgb(186, 169, 169)"
+        },
+        {
+            "name": "Janela Indiscreta",
+            "color": "rgb(167, 148, 150)"
+        },
+        {
+            "name": "Tarde De Inverno",
+            "color": "rgb(148, 128, 130)"
+        },
+        {
+            "name": "Semente De Jatobá",
+            "color": "rgb(121, 101, 103)"
+        },
+        {
+            "name": "Noite De Gala",
+            "color": "rgb(109, 91, 92)"
+        },
+        {
+            "name": "Adamascado-Claro",
+            "color": "rgb(199, 194, 193)"
+        },
+        {
+            "name": "Águia",
+            "color": "rgb(184, 178, 179)"
+        },
+        {
+            "name": "Pandeiro",
+            "color": "rgb(163, 156, 159)"
+        },
+        {
+            "name": "Suéter",
+            "color": "rgb(157, 148, 151)"
+        },
+        {
+            "name": "Gaita",
+            "color": "rgb(124, 112, 116)"
+        },
+        {
+            "name": "Festival De Teatro",
+            "color": "rgb(106, 96, 99)"
+        },
+        {
+            "name": "Aceto Balsâmico",
+            "color": "rgb(82, 73, 76)"
+        },
+        {
+            "name": "Cânhamo",
+            "color": "rgb(202, 195, 199)"
+        },
+        {
+            "name": "Moinho De Vento",
+            "color": "rgb(200, 190, 199)"
+        },
+        {
+            "name": "Novelo De Lã",
+            "color": "rgb(194, 183, 194)"
+        },
+        {
+            "name": "Perfume Francês",
+            "color": "rgb(159, 142, 150)"
+        },
+        {
+            "name": "Clarinete",
+            "color": "rgb(133, 115, 122)"
+        },
+        {
+            "name": "Plutão",
+            "color": "rgb(99, 84, 92)"
+        },
+        {
+            "name": "Azeitona Preta",
+            "color": "rgb(81, 70, 73)"
+        },
+        {
+            "name": "Harpa",
+            "color": "rgb(196, 186, 190)"
+        },
+        {
+            "name": "Cerejeira",
+            "color": "rgb(180, 168, 174)"
+        },
+        {
+            "name": "Flauta Doce",
+            "color": "rgb(172, 161, 171)"
+        },
+        {
+            "name": "Jantar De Gala",
+            "color": "rgb(144, 129, 137)"
+        },
+        {
+            "name": "Penumbra",
+            "color": "rgb(130, 114, 125)"
+        },
+        {
+            "name": "Picolé De Uva",
+            "color": "rgb(118, 100, 110)"
+        },
+        {
+            "name": "Ameixa Seca",
+            "color": "rgb(85, 69, 82)"
+        },
+        {
+            "name": "Bodega",
+            "color": "rgb(180, 171, 182)"
+        },
+        {
+            "name": "Temporal",
+            "color": "rgb(170, 163, 175)"
+        },
+        {
+            "name": "Roxo-Calmo",
+            "color": "rgb(151, 145, 157)"
+        },
+        {
+            "name": "Espetáculo",
+            "color": "rgb(140, 134, 148)"
+        },
+        {
+            "name": "Cambacica",
+            "color": "rgb(130, 123, 135)"
+        },
+        {
+            "name": "Sol Da Meia-Noite",
+            "color": "rgb(99, 87, 100)"
+        },
+        {
+            "name": "Jaboticaba",
+            "color": "rgb(70, 63, 73)"
+        },
+        {
+            "name": "Sussurro",
+            "color": "rgb(193, 186, 197)"
+        },
+        {
+            "name": "Vinícola",
+            "color": "rgb(185, 181, 194)"
+        },
+        {
+            "name": "Gris",
+            "color": "rgb(159, 157, 169)"
+        },
+        {
+            "name": "Lilás Fresco",
+            "color": "rgb(151, 145, 167)"
+        },
+        {
+            "name": "Vinho De Mesa",
+            "color": "rgb(109, 102, 117)"
+        },
+        {
+            "name": "Roxo-Intuição",
+            "color": "rgb(80, 74, 98)"
+        },
+        {
+            "name": "Ursa Maior",
+            "color": "rgb(86, 77, 92)"
+        },
+        {
+            "name": "Pelo De Coelho",
+            "color": "rgb(202, 200, 205)"
+        },
+        {
+            "name": "Toalha De Mesa",
+            "color": "rgb(196, 192, 197)"
+        },
+        {
+            "name": "Cinza-Medieval",
+            "color": "rgb(153, 150, 155)"
+        },
+        {
+            "name": "Estanho",
+            "color": "rgb(136, 133, 140)"
+        },
+        {
+            "name": "Violino",
+            "color": "rgb(132, 125, 129)"
+        },
+        {
+            "name": "Trovão",
+            "color": "rgb(119, 115, 122)"
+        },
+        {
+            "name": "Brasão",
+            "color": "rgb(99, 96, 102)"
+        },
+        {
+            "name": "Vida Moderna",
+            "color": "rgb(174, 178, 192)"
+        },
+        {
+            "name": "Stratus",
+            "color": "rgb(155, 162, 179)"
+        },
+        {
+            "name": "Trovoada",
+            "color": "rgb(127, 136, 156)"
+        },
+        {
+            "name": "Submarino",
+            "color": "rgb(113, 120, 135)"
+        },
+        {
+            "name": "Túnel Do Tempo",
+            "color": "rgb(109, 113, 129)"
+        },
+        {
+            "name": "Tormenta",
+            "color": "rgb(96, 99, 115)"
+        },
+        {
+            "name": "Proa",
+            "color": "rgb(82, 90, 101)"
+        },
+        {
+            "name": "Cidade Cinza",
+            "color": "rgb(201, 203, 206)"
+        },
+        {
+            "name": "Névoa Intensa",
+            "color": "rgb(189, 195, 199)"
+        },
+        {
+            "name": "Asteroide",
+            "color": "rgb(186, 192, 196)"
+        },
+        {
+            "name": "Pepita De Bismuto",
+            "color": "rgb(173, 175, 180)"
+        },
+        {
+            "name": "Manganês",
+            "color": "rgb(145, 150, 158)"
+        },
+        {
+            "name": "Titânio",
+            "color": "rgb(102, 104, 109)"
+        },
+        {
+            "name": "Caviar",
+            "color": "rgb(71, 74, 81)"
+        },
+        {
+            "name": "Fio Metalizado",
+            "color": "rgb(202, 204, 209)"
+        },
+        {
+            "name": "Caminho De Brita",
+            "color": "rgb(162, 170, 176)"
+        },
+        {
+            "name": "Prata Bali",
+            "color": "rgb(151, 157, 163)"
+        },
+        {
+            "name": "Tubarão Martelo",
+            "color": "rgb(131, 137, 144)"
+        },
+        {
+            "name": "Pó De Grafite",
+            "color": "rgb(108, 115, 123)"
+        },
+        {
+            "name": "Calçadão De Praia",
+            "color": "rgb(110, 115, 122)"
+        },
+        {
+            "name": "Marinheiro",
+            "color": "rgb(61, 67, 78)"
+        },
+        {
+            "name": "Chave De Fenda",
+            "color": "rgb(208, 212, 214)"
+        },
+        {
+            "name": "Luz Da Lua",
+            "color": "rgb(184, 195, 204)"
+        },
+        {
+            "name": "Cerração",
+            "color": "rgb(169, 177, 187)"
+        },
+        {
+            "name": "Baleia-Azul",
+            "color": "rgb(94, 105, 121)"
+        },
+        {
+            "name": "Escuridão",
+            "color": "rgb(70, 82, 100)"
+        },
+        {
+            "name": "Azul-Marinho",
+            "color": "rgb(60, 72, 92)"
+        },
+        {
+            "name": "Meia-Noite",
+            "color": "rgb(65, 69, 85)"
+        },
+        {
+            "name": "Chuva De Prata",
+            "color": "rgb(197, 202, 209)"
+        },
+        {
+            "name": "Vapor De Água",
+            "color": "rgb(191, 196, 200)"
+        },
+        {
+            "name": "Barra De Ferro",
+            "color": "rgb(151, 157, 161)"
+        },
+        {
+            "name": "Feira De Antiguidades",
+            "color": "rgb(128, 132, 138)"
+        },
+        {
+            "name": "Pó De Zinco",
+            "color": "rgb(118, 127, 135)"
+        },
+        {
+            "name": "Hematita Bruta",
+            "color": "rgb(101, 111, 119)"
+        },
+        {
+            "name": "Grafite Lapiseira",
+            "color": "rgb(66, 70, 76)"
+        },
+        {
+            "name": "Golfinho",
+            "color": "rgb(144, 158, 168)"
+        },
+        {
+            "name": "Nimbus",
+            "color": "rgb(120, 135, 146)"
+        },
+        {
+            "name": "Sino Da Igreja",
+            "color": "rgb(97, 114, 126)"
+        },
+        {
+            "name": "Terra Da Garoa",
+            "color": "rgb(64, 86, 101)"
+        },
+        {
+            "name": "Azul-Noturno",
+            "color": "rgb(71, 86, 97)"
+        },
+        {
+            "name": "Borracha",
+            "color": "rgb(77, 88, 96)"
+        },
+        {
+            "name": "Galáxia",
+            "color": "rgb(70, 82, 92)"
+        },
+        {
+            "name": "Boneco De Neve",
+            "color": "rgb(208, 214, 218)"
+        },
+        {
+            "name": "Vento Gélido",
+            "color": "rgb(186, 195, 198)"
+        },
+        {
+            "name": "Conforto",
+            "color": "rgb(163, 174, 176)"
+        },
+        {
+            "name": "Pedra",
+            "color": "rgb(128, 137, 139)"
+        },
+        {
+            "name": "Taça Real",
+            "color": "rgb(110, 118, 120)"
+        },
+        {
+            "name": "Malha De Aço",
+            "color": "rgb(91, 98, 100)"
+        },
+        {
+            "name": "Armadura",
+            "color": "rgb(69, 75, 78)"
+        },
+        {
+            "name": "Brilho Vítreo",
+            "color": "rgb(188, 199, 198)"
+        },
+        {
+            "name": "Branco Austral",
+            "color": "rgb(171, 192, 194)"
+        },
+        {
+            "name": "Aventura",
+            "color": "rgb(150, 171, 174)"
+        },
+        {
+            "name": "Coração Da Floresta",
+            "color": "rgb(115, 132, 135)"
+        },
+        {
+            "name": "Casa De Campo",
+            "color": "rgb(92, 107, 109)"
+        },
+        {
+            "name": "Imensidão Azul",
+            "color": "rgb(66, 92, 99)"
+        },
+        {
+            "name": "Mar Profundo",
+            "color": "rgb(57, 70, 73)"
+        },
+        {
+            "name": "Cipreste",
+            "color": "rgb(180, 195, 193)"
+        },
+        {
+            "name": "Aroma Inebriante",
+            "color": "rgb(131, 152, 148)"
+        },
+        {
+            "name": "Jardim Do Éden",
+            "color": "rgb(109, 132, 129)"
+        },
+        {
+            "name": "Volta Ao Mundo",
+            "color": "rgb(97, 115, 116)"
+        },
+        {
+            "name": "Jardim Noturno",
+            "color": "rgb(86, 111, 107)"
+        },
+        {
+            "name": "Pradaria",
+            "color": "rgb(63, 98, 98)"
+        },
+        {
+            "name": "Copaíba",
+            "color": "rgb(61, 74, 70)"
+        },
+        {
+            "name": "Fibra Óptica",
+            "color": "rgb(184, 205, 204)"
+        },
+        {
+            "name": "Baquetas",
+            "color": "rgb(174, 193, 193)"
+        },
+        {
+            "name": "Caipirinha",
+            "color": "rgb(143, 158, 157)"
+        },
+        {
+            "name": "Granito",
+            "color": "rgb(123, 138, 138)"
+        },
+        {
+            "name": "Bálsamo",
+            "color": "rgb(116, 134, 134)"
+        },
+        {
+            "name": "Sítio Distante",
+            "color": "rgb(95, 114, 111)"
+        },
+        {
+            "name": "Carbono",
+            "color": "rgb(78, 90, 86)"
+        },
+        {
+            "name": "Contemplacão",
+            "color": "rgb(192, 208, 207)"
+        },
+        {
+            "name": "Horizonte",
+            "color": "rgb(163, 186, 183)"
+        },
+        {
+            "name": "Mantra\n\n20",
+            "color": "rgb(150, 168, 167)"
+        },
+        {
+            "name": "Segredo",
+            "color": "rgb(153, 172, 171)"
+        },
+        {
+            "name": "Bilhete Da Sorte",
+            "color": "rgb(149, 168, 166)"
+        },
+        {
+            "name": "Verde-Serra",
+            "color": "rgb(78, 96, 94)"
+        },
+        {
+            "name": "Mata Fechada",
+            "color": "rgb(62, 74, 75)"
+        },
+        {
+            "name": "Névoa",
+            "color": "rgb(193, 201, 198)"
+        },
+        {
+            "name": "Vegetação Polar",
+            "color": "rgb(146, 156, 154)"
+        },
+        {
+            "name": "Amianto",
+            "color": "rgb(131, 142, 138)"
+        },
+        {
+            "name": "Roupa De Esquimó",
+            "color": "rgb(111, 120, 118)"
+        },
+        {
+            "name": "Roda-Gigante",
+            "color": "rgb(101, 115, 110)"
+        },
+        {
+            "name": "Grampão",
+            "color": "rgb(91, 99, 97)"
+        },
+        {
+            "name": "Noite Calada",
+            "color": "rgb(70, 78, 76)"
+        },
+        {
+            "name": "Chuva De Verão",
+            "color": "rgb(195, 200, 198)"
+        },
+        {
+            "name": "Cimento",
+            "color": "rgb(166, 168, 159)"
+        },
+        {
+            "name": "Inox",
+            "color": "rgb(166, 170, 165)"
+        },
+        {
+            "name": "Coleirinho",
+            "color": "rgb(139, 143, 136)"
+        },
+        {
+            "name": "Harpia",
+            "color": "rgb(97, 105, 94)"
+        },
+        {
+            "name": "Montanha Encantada",
+            "color": "rgb(82, 93, 80)"
+        },
+        {
+            "name": "Esconderijo",
+            "color": "rgb(68, 77, 67)"
+        },
+        {
+            "name": "Chuva De Papel",
+            "color": "rgb(193, 193, 180)"
+        },
+        {
+            "name": "Torre De Pisa",
+            "color": "rgb(178, 178, 163)"
+        },
+        {
+            "name": "Acrópole",
+            "color": "rgb(163, 163, 144)"
+        },
+        {
+            "name": "Pedra-Sabão",
+            "color": "rgb(153, 154, 140)"
+        },
+        {
+            "name": "Dia Nublado",
+            "color": "rgb(138, 136, 119)"
+        },
+        {
+            "name": "Chão De Cachoeira",
+            "color": "rgb(110, 107, 92)"
+        },
+        {
+            "name": "Portão Do Paraíso",
+            "color": "rgb(97, 95, 80)"
+        },
+        {
+            "name": "Fundo Do Mar",
+            "color": "rgb(189, 197, 177)"
+        },
+        {
+            "name": "Capim-De-Cheiro",
+            "color": "rgb(166, 173, 151)"
+        },
+        {
+            "name": "Babosa",
+            "color": "rgb(152, 166, 139)"
+        },
+        {
+            "name": "Pinheiro",
+            "color": "rgb(140, 150, 121)"
+        },
+        {
+            "name": "Cacto",
+            "color": "rgb(119, 130, 99)"
+        },
+        {
+            "name": "Bosque Luminoso",
+            "color": "rgb(98, 104, 77)"
+        },
+        {
+            "name": "Verde-Exército",
+            "color": "rgb(102, 110, 87)"
+        },
+        {
+            "name": "Folhagem De Primavera",
+            "color": "rgb(158, 161, 127)"
+        },
+        {
+            "name": "Erva Daninha",
+            "color": "rgb(159, 162, 131)"
+        },
+        {
+            "name": "Orégano",
+            "color": "rgb(113, 120, 82)"
+        },
+        {
+            "name": "Cedro",
+            "color": "rgb(102, 105, 69)"
+        },
+        {
+            "name": "Alcaparra",
+            "color": "rgb(94, 99, 62)"
+        },
+        {
+            "name": "Bonsai",
+            "color": "rgb(88, 96, 64)"
+        },
+        {
+            "name": "Selva Vibrante",
+            "color": "rgb(75, 81, 48)"
+        },
+        {
+            "name": "Teia De Aranha",
+            "color": "rgb(206, 207, 198)"
+        },
+        {
+            "name": "Conectado",
+            "color": "rgb(183, 183, 171)"
+        },
+        {
+            "name": "Quero-Quero",
+            "color": "rgb(176, 175, 154)"
+        },
+        {
+            "name": "Pântano",
+            "color": "rgb(157, 154, 131)"
+        },
+        {
+            "name": "Selva",
+            "color": "rgb(142, 140, 116)"
+        },
+        {
+            "name": "Rede De Dormir",
+            "color": "rgb(128, 130, 109)"
+        },
+        {
+            "name": "Figueira",
+            "color": "rgb(99, 100, 81)"
+        },
+        {
+            "name": "Castelo De Areia",
+            "color": "rgb(216, 215, 191)"
+        },
+        {
+            "name": "Tereré",
+            "color": "rgb(206, 206, 176)"
+        },
+        {
+            "name": "Folha Seca",
+            "color": "rgb(190, 193, 166)"
+        },
+        {
+            "name": "Verde-Garrafa",
+            "color": "rgb(147, 148, 112)"
+        },
+        {
+            "name": "Capim-Seco",
+            "color": "rgb(124, 120, 92)"
+        },
+        {
+            "name": "Camuflagem Do Exército",
+            "color": "rgb(116, 109, 66)"
+        },
+        {
+            "name": "Jacaré",
+            "color": "rgb(101, 100, 72)"
+        },
+        {
+            "name": "Biscoito De Mantecal",
+            "color": "rgb(217, 211, 194)"
+        },
+        {
+            "name": "Sisal",
+            "color": "rgb(201, 193, 165)"
+        },
+        {
+            "name": "Calça De Sarja",
+            "color": "rgb(188, 178, 143)"
+        },
+        {
+            "name": "Lugarejo",
+            "color": "rgb(156, 145, 106)"
+        },
+        {
+            "name": "Semente De Azeitona",
+            "color": "rgb(118, 105, 67)"
+        },
+        {
+            "name": "Muralha Da China",
+            "color": "rgb(112, 104, 77)"
+        },
+        {
+            "name": "Doce De Figo",
+            "color": "rgb(85, 79, 49)"
+        },
+        {
+            "name": "Rio Paíne",
+            "color": "rgb(209, 210, 199)"
+        },
+        {
+            "name": "Planalto",
+            "color": "rgb(200, 198, 178)"
+        },
+        {
+            "name": "Cascalho",
+            "color": "rgb(178, 173, 155)"
+        },
+        {
+            "name": "Farol Do Morro",
+            "color": "rgb(161, 153, 131)"
+        },
+        {
+            "name": "Caixa De Pandora",
+            "color": "rgb(136, 129, 108)"
+        },
+        {
+            "name": "Vaso Chinês",
+            "color": "rgb(97, 88, 70)"
+        },
+        {
+            "name": "Carvão De Lenha",
+            "color": "rgb(77, 70, 62)"
+        },
+        {
+            "name": "Espuma Gelada",
+            "color": "rgb(217, 216, 207)"
+        },
+        {
+            "name": "Mármore",
+            "color": "rgb(200, 197, 186)"
+        },
+        {
+            "name": "Grisalho",
+            "color": "rgb(198, 194, 186)"
+        },
+        {
+            "name": "Bodas De Prata",
+            "color": "rgb(158, 155, 145)"
+        },
+        {
+            "name": "Prata Envelhecido",
+            "color": "rgb(159, 153, 141)"
+        },
+        {
+            "name": "Medalha De Bronze",
+            "color": "rgb(136, 130, 118)"
+        },
+        {
+            "name": "Chalé No Campo",
+            "color": "rgb(132, 127, 119)"
+        },
+        {
+            "name": "Ouro Branco",
+            "color": "rgb(218, 216, 208)"
+        },
+        {
+            "name": "Crômio",
+            "color": "rgb(209, 208, 202)"
+        },
+        {
+            "name": "Cinza-Urbano",
+            "color": "rgb(185, 182, 172)"
+        },
+        {
+            "name": "Tubarão Cinza",
+            "color": "rgb(158, 154, 147)"
+        },
+        {
+            "name": "Rua Das Pedras",
+            "color": "rgb(129, 124, 116)"
+        },
+        {
+            "name": "Cinza Asfalto",
+            "color": "rgb(112, 112, 106)"
+        },
+        {
+            "name": "Arranha-Céu",
+            "color": "rgb(105, 104, 99)"
+        },
+        {
+            "name": "Prata Pura",
+            "color": "rgb(210, 209, 213)"
+        },
+        {
+            "name": "Nevoeiro",
+            "color": "rgb(195, 192, 189)"
+        },
+        {
+            "name": "Concha Do Mar",
+            "color": "rgb(200, 195, 194)"
+        },
+        {
+            "name": "Cipó",
+            "color": "rgb(175, 168, 167)"
+        },
+        {
+            "name": "Níquel",
+            "color": "rgb(168, 164, 163)"
+        },
+        {
+            "name": "Cimento Moderno",
+            "color": "rgb(133, 126, 122)"
+        },
+        {
+            "name": "Calçada Urbana",
+            "color": "rgb(111, 104, 101)"
+        },
+        {
+            "name": "Arte Cabocla",
+            "color": "rgb(115, 107, 100)"
+        },
+        {
+            "name": "Cocar",
+            "color": "rgb(108, 101, 91)"
+        },
+        {
+            "name": "Cosmos",
+            "color": "rgb(110, 104, 94)"
+        },
+        {
+            "name": "Fuligem",
+            "color": "rgb(101, 96, 88)"
+        },
+        {
+            "name": "Fumaça De Lareira",
+            "color": "rgb(106, 101, 99)"
+        },
+        {
+            "name": "Barrica De Carvalho",
+            "color": "rgb(96, 89, 88)"
+        },
+        {
+            "name": "Esconderijo Misterioso",
+            "color": "rgb(85, 80, 80)"
+        },
+        {
+            "name": "Favo De Baunilha",
+            "color": "rgb(83, 76, 73)"
+        },
+        {
+            "name": "Amaro",
+            "color": "rgb(69, 57, 54)"
+        },
+        {
+            "name": "Uva-Passa",
+            "color": "rgb(73, 64, 61)"
+        },
+        {
+            "name": "Preto Intenso",
+            "color": "rgb(65, 57, 53)"
+        },
+        {
+            "name": "Preto-Asfalto",
+            "color": "rgb(56, 49, 49)"
+        },
+        {
+            "name": "Buraco Negro",
+            "color": "rgb(68, 63, 71)"
+        },
+        {
+            "name": "Rock'n Roll",
+            "color": "rgb(55, 53, 49)"
+        }
+    ],
+
+    "cinzasneutros": [
+        {
+            "name": "Pergaminho",
+            "color": "rgb(222, 224, 220)"
+        },
+        {
+            "name": "Névoa Da Manhã",
+            "color": "rgb(209, 209, 206)"
+        },
+        {
+            "name": "Tempestade No Mar",
+            "color": "rgb(199, 199, 196)"
+        },
+        {
+            "name": "Prata",
+            "color": "rgb(192, 192, 186)"
+        },
+        {
+            "name": "Granizo",
+            "color": "rgb(182, 178, 173)"
+        },
+        {
+            "name": "Elefante",
+            "color": "rgb(162, 162, 157)"
+        },
+        {
+            "name": "Nanquim",
+            "color": "rgb(137, 139, 136)"
+        },
+        {
+            "name": "Cinza-Espacial",
+            "color": "rgb(140, 137, 136)"
+        },
+        {
+            "name": "Ânfora De Prata",
+            "color": "rgb(145, 143, 140)"
+        },
+        {
+            "name": "Hematita",
+            "color": "rgb(124, 122, 116)"
+        },
+        {
+            "name": "Cinza Fechado",
+            "color": "rgb(86, 83, 78)"
+        },
+        {
+            "name": "Patativa",
+            "color": "rgb(80, 81, 79)"
+        },
+        {
+            "name": "Carvão",
+            "color": "rgb(77, 74, 73)"
+        },
+        {
+            "name": "Preto Absoluto",
+            "color": "rgb(40, 41, 43)"
+        }
+    ]
+}
