@@ -68,6 +68,9 @@ button:hover {
     width: 50px;
     height: 50px;
     border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .color:hover {
@@ -105,3 +108,53 @@ button:hover {
     border-radius: 4px;
   }
   
+  /* ANIMATION */
+
+  
+  @keyframes zoom {
+    0%,
+    5% {
+      transform: scale(0);
+    }
+    20%,
+    80% {
+      transform: scale(1);
+    }
+    95%,
+    100% {
+      transform: scale(0);
+    }
+  }
+  
+  @keyframes spin-zoom {
+    0%,
+    20% {
+      transform: scale(0) rotateZ(0deg);
+    }
+    40%,
+    60% {
+      transform: scale(1) rotateZ(360deg);
+    }
+    80%,
+    100% {
+      transform: scale(0) rotateZ(0deg);
+    }
+  }
+  
+  .tick-svg {
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+  }
+  
+  .container {
+    fill: #3bb54a;
+    transform-origin: center;
+    animation: zoom 2s ease-in-out 0s forwards;
+  }
+  
+  .tick {
+    fill: #ffffff;
+    transform-origin: center;
+    animation: spin-zoom 2s ease 0s forwards;
+  }

@@ -55,11 +55,7 @@
                 ".main__menu"
               ).style.gridTemplateRows = '';
 
-              
-
               category = button.dataset.category;
-
-              console.log(category);
 
               document.querySelector(
                 ".main__menu"
@@ -99,19 +95,26 @@
                     colorCode.style.color = "#fff";
                   }
                 });
-
-
-                color.addEventListener("click", function (e) {
-                  main.style.backgroundColor = color.style.backgroundColor;
-                  colorName.textContent = color.dataset.colorname;
-                });
               });
 
-              color.addEventListener("mouseout", function (e) {
-                  main.style.backgroundColor = "#1a1b1f";
-                  colorName.textContent = "";
-                  colorCode.textContent = "";
-                });
+
+              let divColor = document.querySelectorAll(".color");
+
+              let svg = `<svg xmlns='http://www.w3.org/2000/svg' width='367.805' height='367.805' viewBox='0 0 367.805 367.805' class='tick-svg'>
+                          <g transform='translate(0 0)'>
+                            <path class='container' d='M183.9,0A183.9,183.9,0,1,1,0,183.9H0A183.379,183.379,0,0,1,182.856,0Q183.38,0,183.9,0Z' />
+                            <path class='tick' d='M285.78,133.225,155.168,263.837l-73.143-72.62,29.78-29.257L155.168,204.8,256,103.968Z' />
+                          </g>
+                        </svg>`
+
+              divColor.forEach((color) => {
+                color.addEventListener("click", function(e){
+                  console.log(color);
+                  color.innerHTML = svg
+                  navigator.clipboard.writeText(color.style.backgroundColor)
+                  console.log(color.style.backgroundColor)
+                })
+              })
               
             });
           });
